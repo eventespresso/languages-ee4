@@ -4,11 +4,11 @@
 
 ## Overview
 
-This is the repository for all the **[Event Espresso](http://eventespresso.com)** [language files](http://eventespresso.com/glotpress/projects/event-espresso).
+This is the repository for all the **[Event Espresso](http://eventespresso.com)** [language files](http://eventespresso.com/glotpress/projects/event-espresso) for Event Espresso 4+.
 
 ### Description
 
-Starting in Event Espresso 3.1.30, the plugin will load all language files from the relevant language branch dynamically based on your `define('WPLANG,'');` setting in `wp-config.php`. On an update, Event Espresso will download the latest version of the language file from the repository automatically.
+Event Espresso 4+ loads all language files from the relevant language branch dynamically based on your `define('WPLANG,'');` setting in `wp-config.php`. On an update, Event Espresso will download the latest version of the language file from the repository automatically.
 
 #### Becoming a translator
 
@@ -18,7 +18,7 @@ Our language files are managed by a [GlotPress installation](http://eventespress
 
 #### Using these files
 
-There are two ways you can use these files. As mentioned above, the language files will automatically update with an update to Event Espresso. If you would like to update your language file to the latest version *before an update to Event Espresso is available*, you can do so by navigating to that language's .mo file and downloading the file, then upload via FTP to the `/event-espresso/languages` directory.
+There are two ways you can use these files. As mentioned above, the language files will automatically update with an update to Event Espresso. If you would like to update your language file to the latest version *before an update to Event Espresso is available*, you can do so by navigating to that language's .mo file and downloading the file, then upload via FTP to the `/event-espresso-core/languages` directory.
 
 If you would like to make modifications to the language file, e.g. to customize the text of a particular string, download the file as described, but upload the modified file to `/wp-content/uploads/espresso/languages`. You will be responsible for keeping your customized language file up-to-date. 
 
