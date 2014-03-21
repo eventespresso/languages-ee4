@@ -1,8 +1,8 @@
-# Translation of Event Espresso 4 in Hungarian
+# Translation of Event Espresso 4 in English (UK)
 # This file is distributed under the same license as the Event Espresso 4 package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2014-03-21 15:17+0200\n"
+"PO-Revision-Date: 2014-03-21 15:14+0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Event Espresso 4\n"
 "POT-Creation-Date: \n"
 "Last-Translator: \n"
-"Language-Team: Tibor Mozsik <support@eventespresso.com>\n"
-"Language: hu_HU\n"
+"Language-Team: Dean Robinson <support@eventespresso.com>\n"
+"Language: en_GB\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: ..\n"
@@ -10842,7 +10842,7 @@ msgstr ""
 #: ../admin_pages/payments/Payments_Admin_Page.core.php:97
 #: ../admin_pages/payments/help_tabs/payment_methods_overview_check.help_tab.php:5
 msgid "Check Settings"
-msgstr ""
+msgstr "Cheque Settings"
 
 #: ../admin_pages/payments/Payments_Admin_Page.core.php:101
 #: ../admin_pages/payments/help_tabs/payment_methods_overview_invoice.help_tab.php:1
@@ -18066,7 +18066,7 @@ msgstr ""
 #: ../admin_pages/events/help_tours/Event_Edit_Help_Tour.class.php:145
 #: ../admin_pages/events/help_tours/Event_Editor_Help_Tour.class.php:146
 msgid "Event Editor"
-msgstr "Event szerkesztő"
+msgstr "Event Editor"
 
 #: ../admin_pages/events/help_tabs/event_editor.help_tab.php:3
 msgid "This page allows you to create and edit events with Event Espresso."
@@ -18136,7 +18136,7 @@ msgstr ""
 #: ../admin_pages/events/help_tabs/event_editor_event_registration_options.help_tab.php:1
 #: ../caffeinated/admin/extend/events/Extend_Events_Admin_Page.core.php:413
 msgid "Event Registration Options"
-msgstr "Esemény-regisztrációjának lehetőségek"
+msgstr "Event Registration Options"
 
 #: ../admin_pages/events/help_tabs/event_editor_event_registration_options.help_tab.php:3
 msgid "Customize the registration for your event."
@@ -18157,7 +18157,7 @@ msgstr ""
 #: ../admin_pages/events/templates/event_registration_options.template.php:24
 #: ../caffeinated/admin/extend/events/templates/event_registration_options.template.php:24
 msgid "Alternate Registration Page"
-msgstr "Alternatív Regisztrációs oldal"
+msgstr "Alternate Registration Page"
 
 #: ../admin_pages/events/help_tabs/event_editor_event_registration_options.help_tab.php:46
 msgid ""
@@ -18181,7 +18181,7 @@ msgstr ""
 #: ../admin_pages/events/help_tabs/event_editor_event_tickets.help_tab.php:13
 #: ../caffeinated/admin/extend/events/qtips/EE_Event_Editor_Tips.lib.php:82
 msgid "Advanced Settings"
-msgstr "Speciális beállítások"
+msgstr ""
 
 #: ../admin_pages/events/help_tabs/event_editor_event_tickets.help_tab.php:14
 msgid ""
@@ -18228,7 +18228,7 @@ msgstr ""
 
 #: ../admin_pages/messages/Messages_Admin_Page.core.php:1090
 msgid "Author"
-msgstr "Szerző"
+msgstr "Author"
 
 #: ../caffeinated/admin/extend/messages/espresso_events_Messages_Hooks_Extend.class.php:47
 msgid "Notifications"
@@ -18259,7 +18259,7 @@ msgstr ""
 #: ../modules/gateways/Invoice/lib/templates/invoice_body.template.php:195
 #: ../modules/gateways/Invoice/lib/templates/receipt_body.template.php:228
 msgid "Status"
-msgstr "Állapot "
+msgstr "Status"
 
 #: ../core/admin/EE_Admin_Page.core.php:1961
 #: ../core/admin/EE_Admin_Page_CPT.core.php:311
@@ -18277,7 +18277,7 @@ msgstr ""
 #: ../core/db_models/EEM_Attendee.model.php:56
 #: ../modules/single_page_checkout/templates/confirmation_page.template.php:9
 msgid "Attendees"
-msgstr "Résztvevők"
+msgstr "Attendees"
 
 #: ../admin_pages/events/Events_Admin_Page.core.php:595
 #: ../admin_pages/events/Events_Admin_Page.core.php:603
@@ -18296,7 +18296,7 @@ msgstr "Résztvevők"
 #: ../caffeinated/admin/new/pricing/Pricing_Admin_Page.core.php:382
 #: ../caffeinated/admin/new/tickets/Tickets_Admin_Page.core.php:123
 msgid "Move to Trash"
-msgstr "Áthelyezés a Kukába"
+msgstr "Move to Trash"
 
 #: ../admin_pages/events/help_tabs/event_editor_save_new_event.help_tab.php:36
 msgid ""
@@ -18315,16 +18315,16 @@ msgstr ""
 #: ../admin_pages/events/help_tours/Event_Categories_Help_Tour.class.php:110
 #: ../core/CPTs/EE_Register_CPTs.core.php:96
 msgid "Event Categories"
-msgstr "Esemény kategóriák"
+msgstr "Event Categories"
 
 #: ../admin_pages/events/help_tabs/event_editor_title_richtexteditor.help_tab.php:1
 msgid "Event Title"
-msgstr "Esemény címe"
+msgstr "Event Title"
 
 #: ../admin_pages/events/help_tabs/event_editor_title_richtexteditor.help_tab.php:5
 #: ../core/db_models/EEM_Event.model.php:105
 msgid "Event Description"
-msgstr "Esemény leírása"
+msgstr ""
 
 #: ../admin_pages/events/help_tabs/event_editor_title_richtexteditor.help_tab.php:7
 msgid ""
@@ -18337,7 +18337,7 @@ msgstr ""
 #: ../caffeinated/admin/new/venues/espresso_events_Venues_Hooks.class.php:54
 #: ../templates/Espresso_Arabica_2014/content-espresso_venues-details.php:20
 msgid "Venue Details"
-msgstr "Helyszín Részletek"
+msgstr ""
 
 #: ../admin_pages/events/help_tabs/event_editor_venue_details.help_tab.php:3
 msgid ""
@@ -18351,7 +18351,7 @@ msgstr ""
 
 #: ../admin_pages/events/templates/event_category_details.template.php:6
 msgid "Category Name"
-msgstr "Kategória neve"
+msgstr "Category Name"
 
 #: ../admin_pages/events/help_tabs/events_add_category.help_tab.php:9
 #: ../admin_pages/events/help_tabs/events_edit_category.help_tab.php:9
@@ -18360,7 +18360,7 @@ msgstr ""
 
 #: ../admin_pages/events/templates/event_category_details.template.php:12
 msgid "Unique ID"
-msgstr "Egyedi azonosító"
+msgstr "Unique ID"
 
 #: ../admin_pages/events/help_tabs/events_add_category.help_tab.php:13
 #: ../admin_pages/events/help_tabs/events_edit_category.help_tab.php:13
@@ -18369,7 +18369,7 @@ msgstr ""
 
 #: ../admin_pages/events/templates/event_category_details.template.php:24
 msgid "Category Description"
-msgstr "Kategória leírása"
+msgstr "Category Description"
 
 #: ../admin_pages/events/help_tabs/events_add_category.help_tab.php:17
 #: ../admin_pages/events/help_tabs/events_edit_category.help_tab.php:17
@@ -18399,7 +18399,7 @@ msgstr ""
 #: ../admin_pages/registrations/help_tabs/registrations_event_checkin_other.help_tab.php:1
 #: ../admin_pages/registrations/help_tabs/registrations_overview_other.help_tab.php:1
 msgid "Bulk Actions"
-msgstr "Tömeges műveletek"
+msgstr ""
 
 #: ../core/admin/EE_Admin.core.php:323
 msgid "Search"
@@ -18421,7 +18421,7 @@ msgstr ""
 #: ../core/db_models/EEM_Promotion.model.php:56
 #: ../core/db_models/EEM_Rule.model.php:56
 msgid "ID"
-msgstr "Azonosító"
+msgstr "ID"
 
 #: ../admin_pages/events/Event_Categories_Admin_List_Table.class.php:61
 #: ../admin_pages/events/Events_Admin_List_Table.class.php:59
@@ -18442,7 +18442,7 @@ msgstr "Azonosító"
 #: ../core/db_models/EEM_Rule.model.php:57
 #: ../modules/ticket_selector/templates/ticket_selector_chart.template.php:176
 msgid "Name"
-msgstr "Név"
+msgstr "Name"
 
 #: ../admin_pages/events/help_tabs/events_categories_table_column_headings.help_tab.php:10
 msgid "This is the name (title) of an event category."
@@ -18469,7 +18469,7 @@ msgstr ""
 #: ../core/data_migration_scripts/4_1_0_stages/EE_DMS_4_1_0_events.dmsstage.php:176
 #: ../core/db_models/EEM_Event.model.php:78
 msgid "Events"
-msgstr "Események"
+msgstr "Events"
 
 #: ../admin_pages/events/help_tabs/events_categories_table_column_headings.help_tab.php:18
 msgid "The number of events that are currently associated with this category."
@@ -18490,7 +18490,7 @@ msgstr ""
 #: ../caffeinated/admin/new/venues/Venues_Admin_Page.core.php:483
 #: ../core/EE_System.core.php:631
 msgid "All"
-msgstr "mind"
+msgstr ""
 
 #: ../admin_pages/events/Events_Admin_Page.core.php:340
 msgid "Default Settings"
@@ -18546,11 +18546,11 @@ msgstr ""
 #: ../core/EE_System.core.php:696 ../core/EE_System.core.php:761
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:841
 msgid "Approved"
-msgstr "Jóváhagyás..."
+msgstr "Approved"
 
 #: ../core/EE_System.core.php:774
 msgid "Pending"
-msgstr "függőben"
+msgstr "Pending"
 
 #: ../core/EE_System.core.php:722 ../core/EE_System.core.php:787
 msgid "Not Approved"
@@ -18615,7 +18615,7 @@ msgstr ""
 
 #: ../admin_pages/messages/templates/ee_msg_overview_help_tab.template.php:28
 msgid "Filters"
-msgstr "Szűrők"
+msgstr "Filters"
 
 #: ../admin_pages/events/help_tabs/events_overview_filters.help_tab.php:3
 msgid "Filters are a way to show events that fall into certain criteria."
@@ -18663,7 +18663,7 @@ msgstr ""
 #: ../core/CPTs/EE_Register_CPTs.core.php:150
 #: ../core/db_models/EEM_Venue.model.php:50
 msgid "Venue"
-msgstr "Találkozóhely"
+msgstr ""
 
 #: ../admin_pages/events/help_tabs/events_overview_table_column_headings.help_tab.php:15
 msgid ""
@@ -18700,7 +18700,7 @@ msgstr ""
 #: ../core/db_models/EEM_Registration.model.php:102
 #: ../modules/single_page_checkout/EED_Single_Page_Checkout.module.php:602
 msgid "Registrations"
-msgstr "Regisztrációk"
+msgstr "Registrations"
 
 #: ../admin_pages/events/Events_Admin_List_Table.class.php:65
 #: ../admin_pages/registrations/EE_Registrations_List_Table.class.php:78
@@ -18710,7 +18710,7 @@ msgstr "Regisztrációk"
 #: ../admin_pages/transactions/help_tabs/transactions_overview_table_column_headings.help_tab.php:43
 #: ../caffeinated/admin/extend/events/Extend_Events_Admin_Page.core.php:203
 msgid "Actions"
-msgstr "Műveletek"
+msgstr ""
 
 #: ../admin_pages/events/help_tabs/events_overview_views.help_tab.php:3
 msgid ""
@@ -18756,7 +18756,7 @@ msgstr ""
 #: ../core/helpers/EEH_Activation.helper.php:680
 #: ../core/helpers/EEH_Activation.helper.php:695
 msgid "This field is required"
-msgstr "A mező kitöltése kötelező"
+msgstr "This field is required"
 
 #: ../admin_pages/events/templates/event_category_details.template.php:18
 msgid ""
@@ -18804,7 +18804,7 @@ msgstr "Ticket Options"
 #: ../caffeinated/admin/new/pricing/templates/event_tickets_datetime_attached_tickets_row.template.php:14
 #: ../core/db_models/EEM_Ticket.model.php:50
 msgid "Ticket Name"
-msgstr "Ticket neve"
+msgstr ""
 
 #: ../admin_pages/events/templates/event_tickets_metabox_main.template.php:50
 #: ../caffeinated/admin/new/pricing/templates/event_tickets_datetime_attached_tickets_row.template.php:15
@@ -18835,7 +18835,7 @@ msgstr ""
 #: ../modules/single_page_checkout/templates/registration_page_attendee_information.template.php:57
 #: ../modules/ticket_selector/templates/ticket_selector_chart.template.php:6
 msgid "Price"
-msgstr "Ár "
+msgstr ""
 
 #: ../admin_pages/events/templates/event_tickets_metabox_main.template.php:54
 #: ../admin_pages/registrations/templates/reg_admin_details_main_meta_box_reg_details.template.php:18
@@ -18845,7 +18845,7 @@ msgstr "Ár "
 #: ../modules/gateways/Invoice/lib/templates/invoice_body.template.php:55
 #: ../modules/single_page_checkout/templates/registration_page_attendee_information.template.php:56
 msgid "Qty"
-msgstr "Db"
+msgstr ""
 
 #: ../admin_pages/events/templates/event_tickets_metabox_main.template.php:55
 #: ../caffeinated/admin/new/pricing/templates/event_tickets_metabox_main.template.php:65
@@ -18859,21 +18859,21 @@ msgstr ""
 #: ../admin_pages/events/templates/event_venues_metabox_content.template.php:6
 #: ../caffeinated/admin/new/venues/templates/event_venues_metabox_content.template.php:5
 msgid "Venue Information"
-msgstr "Helyszín információ"
+msgstr ""
 
 #: ../../../plugins/espresso-calendar/espresso-calendar.php:977
 #: ../admin_pages/events/templates/event_venues_metabox_content.template.php:10
 #: ../widgets/upcoming_events/EEW_Upcoming_Events.widget.php:81
 msgid "Title:"
-msgstr "Cím"
+msgstr "Title:"
 
 #: ../admin_pages/events/templates/event_venues_metabox_content.template.php:14
 msgid "Website:"
-msgstr "Webhely:"
+msgstr "Website:"
 
 #: ../admin_pages/events/templates/event_venues_metabox_content.template.php:18
 msgid "Phone:"
-msgstr "Telefon:"
+msgstr "Phone:"
 
 #: ../admin_pages/events/templates/event_venues_metabox_content.template.php:22
 msgid "Venues are only saved with events if there is a Venue title present."
@@ -18883,7 +18883,7 @@ msgstr ""
 #: ../caffeinated/admin/new/venues/Venues_Admin_Page.core.php:521
 #: ../caffeinated/admin/new/venues/help_tabs/venues_editor_physical_location_google_map_virtual_location.help_tab.php:1
 msgid "Physical Location"
-msgstr "Fizikai Elhelyezkedés"
+msgstr ""
 
 #: ../admin_pages/events/templates/event_venues_metabox_content.template.php:29
 #: ../admin_pages/registrations/templates/attendee_address_details_metabox_content.template.php:13
@@ -18892,56 +18892,56 @@ msgstr "Fizikai Elhelyezkedés"
 #: ../templates/Espresso_Arabica_2014/content-espresso_events-venues.php:18
 #: ../templates/Espresso_Arabica_2014/content-espresso_venues-location.php:10
 msgid "Address:"
-msgstr "Cím:"
+msgstr "Address:"
 
 #: ../admin_pages/events/templates/event_venues_metabox_content.template.php:33
 #: ../caffeinated/admin/new/venues/templates/venue_address_metabox_content.template.php:10
 msgid "Address 2:"
-msgstr "Cím 2:"
+msgstr ""
 
 #: ../admin_pages/events/templates/event_venues_metabox_content.template.php:37
 #: ../caffeinated/admin/new/venues/templates/event_venues_metabox_content_from_manager.template.php:17
 #: ../caffeinated/admin/new/venues/templates/venue_address_metabox_content.template.php:14
 msgid "City:"
-msgstr "Város:"
+msgstr "City:"
 
 #: ../caffeinated/admin/new/venues/templates/event_venues_metabox_content_from_manager.template.php:18
 msgid "State:"
-msgstr "Megye:"
+msgstr ""
 
 #: ../caffeinated/admin/new/venues/templates/event_venues_metabox_content_from_manager.template.php:19
 msgid "Country:"
-msgstr "Ország "
+msgstr "Country:"
 
 #: ../admin_pages/events/templates/event_venues_metabox_content.template.php:47
 #: ../caffeinated/admin/new/venues/templates/venue_address_metabox_content.template.php:24
 msgid "Zip/Postal Code:"
-msgstr "Zip / Postal Code:"
+msgstr "Postal Code:"
 
 #: ../admin_pages/events/templates/event_venues_metabox_content.template.php:56
 #: ../caffeinated/admin/new/venues/Venues_Admin_Page.core.php:523
 #: ../caffeinated/admin/new/venues/help_tabs/venues_editor_physical_location_google_map_virtual_location.help_tab.php:11
 msgid "Virtual Location"
-msgstr "Virtuális Elhelyezkedés"
+msgstr ""
 
 #: ../admin_pages/events/templates/event_venues_metabox_content.template.php:60
 #: ../caffeinated/admin/new/venues/templates/venue_virtual_location_metabox_content.template.php:7
 msgid "URL of Event:"
-msgstr "URL Esemény:"
+msgstr ""
 
 #: ../admin_pages/events/templates/event_venues_metabox_content.template.php:66
 #: ../caffeinated/admin/new/venues/templates/venue_virtual_location_metabox_content.template.php:13
 msgid "Call in Number:"
-msgstr "Hívás száma:"
+msgstr ""
 
 #: ../admin_pages/registrations/help_tours/Registration_Overview_Help_Tour.class.php:177
 msgid "Registration Overview"
-msgstr "Regisztráció áttekintése"
+msgstr "Registration Overview"
 
 #: ../admin_pages/registrations/EE_Registrations_List_Table.class.php:95
 #: ../admin_pages/registrations/templates/reg_admin_details_main_meta_box_reg_details.template.php:15
 msgid "Event Date"
-msgstr "Időpontok"
+msgstr ""
 
 #: ../admin_pages/general_settings/help_tabs/general_settings_critical_pages.help_tab.php:5
 #: ../admin_pages/support/Support_Admin_Page.core.php:91
@@ -18964,7 +18964,7 @@ msgstr ""
 
 #: ../admin_pages/general_settings/templates/admin_option_settings.template.php:105
 msgid "Remote Logging URL"
-msgstr "Távoli naplózás URL"
+msgstr "Remote Logging URL"
 
 #: ../admin_pages/general_settings/help_tabs/general_settings_countries.help_tab.php:12
 #: ../admin_pages/general_settings/templates/countries_settings.template.php:15
@@ -19002,35 +19002,36 @@ msgstr ""
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:32
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:152
 msgid "Set Map Width"
-msgstr "Set Map szélesség"
+msgstr "Set Map Width"
 
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:43
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:162
 msgid "Set Map Height"
-msgstr "Set Map magasság"
+msgstr "Set Map Height"
 
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:172
 msgid "Set Map Zoom level: Range: 1 - 19"
-msgstr "Állítsa Térképnagyítás szint: Tartomány: 1-19"
+msgstr "Set Map Zoom level: Range: 1 - 19"
 
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:64
 msgid "Set Map Navigation Overlay"
-msgstr "Állítsa Map Navigation Overlay"
+msgstr "Set Map Navigation Overlay"
 
 #: ../admin_pages/general_settings/help_tabs/general_settings_google_maps.help_tab.php:24
 msgid ""
 "The navigation overlay are the controls for panning and zooming the map."
-msgstr "A navigációs overlay a vezérlők pásztázás és nagyítás a térkép."
+msgstr ""
+"The navigation overlay are the controls for panning and zooming the map."
 
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:75
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:193
 msgid "Keep Map Navigation Small"
-msgstr "Tartsa Map Navigation Small"
+msgstr "Keep Map Navigation Small"
 
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:85
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:203
 msgid "Set Map Type Control"
-msgstr "Állítsa Map Type Ellenőrző"
+msgstr "Set Map Type Control"
 
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:110
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:229
@@ -19054,7 +19055,7 @@ msgstr ""
 #: ../modules/events_archive/templates/admin-event-list-settings.template.php:27
 #: ../modules/events_archive_filters/templates/admin-event-list-settings.template.php:57
 msgid "Display Descriptions"
-msgstr "Kijelző leírások"
+msgstr "Display Descriptions"
 
 #: ../modules/events_archive/templates/admin-event-list-settings.template.php:39
 #: ../modules/events_archive_filters/templates/admin-event-list-settings.template.php:68
@@ -19078,7 +19079,7 @@ msgstr ""
 
 #: ../admin_pages/general_settings/templates/template_settings.template.php:17
 msgid "Display Addresses"
-msgstr "Kijelző Címek"
+msgstr "Display Addresses"
 
 #: ../admin_pages/general_settings/help_tabs/general_settings_your_organization.help_tab.php:5
 msgid "Site License Key"
@@ -19087,12 +19088,12 @@ msgstr ""
 #: ../admin_pages/general_settings/help_tabs/general_settings_your_organization.help_tab.php:12
 #: ../admin_pages/general_settings/templates/your_organization_settings.template.php:33
 msgid "Contact Information"
-msgstr "Kapcsolattartási információ"
+msgstr ""
 
 #: ../admin_pages/general_settings/help_tabs/general_settings_your_organization.help_tab.php:17
 #: ../admin_pages/general_settings/templates/your_organization_settings.template.php:136
 msgid "Company Logo"
-msgstr "Céges logó"
+msgstr "Company Logo"
 
 #: ../admin_pages/general_settings/help_tabs/general_settings_your_organization.help_tab.php:21
 #: ../admin_pages/general_settings/templates/your_organization_settings.template.php:182
@@ -19101,28 +19102,28 @@ msgstr ""
 
 #: ../admin_pages/general_settings/templates/admin_option_settings.template.php:67
 msgid "Debug/Logging Options"
-msgstr "Debug / Logging Options"
+msgstr "Debug/Logging Options"
 
 #: ../admin_pages/general_settings/templates/admin_option_settings.template.php:75
 msgid "Enable Full Logging"
-msgstr "Full naplózás engedélyezése"
+msgstr "Enable Full Logging"
 
 #: ../admin_pages/general_settings/templates/admin_option_settings.template.php:92
 msgid "Enable Remote Logging"
-msgstr "Engedélyezése távoli naplózás"
+msgstr "Enable Remote Logging"
 
 #: ../admin_pages/general_settings/templates/admin_option_settings.template.php:98
 msgid "Send debugging data to the remote URL below."
-msgstr "Küldje hibakeresés adatokat a távoli URL alatt."
+msgstr "Send debugging data to the remote URL below."
 
 #: ../admin_pages/general_settings/templates/admin_option_settings.template.php:111
 msgid "Example: http://www.postbin.org/MY_UNIQUE_ID"
-msgstr "Példa: http://www.postbin.org/MY_UNIQUE_ID"
+msgstr "Example: http://www.postbin.org/MY_UNIQUE_ID"
 
 #: ../admin_pages/general_settings/help_tabs/general_settings_admin_options.help_tab.php:31
 #: ../admin_pages/general_settings/templates/admin_option_settings.template.php:121
 msgid "Promote Event Espresso"
-msgstr "Előmozdítása Event Espresso"
+msgstr "Promote Event Espresso"
 
 #: ../admin_pages/general_settings/templates/admin_option_settings.template.php:130
 msgid "Link to Event Espresso from your Registration Page footer?"
@@ -19164,7 +19165,7 @@ msgstr ""
 #: ../admin_pages/general_settings/templates/espresso_page_settings.template.php:160
 #: ../core/admin/EE_Admin.core.php:374
 msgid "Event List"
-msgstr "Event List"
+msgstr ""
 
 #: ../admin_pages/events/Events_Admin_List_Table.class.php:172
 #: ../admin_pages/general_settings/General_Settings_Admin_Page.core.php:926
@@ -19172,30 +19173,30 @@ msgstr "Event List"
 #: ../caffeinated/admin/extend/registrations/EE_Event_Registrations_List_Table.class.php:208
 #: ../core/EE_System.core.php:618
 msgid "View"
-msgstr "Nézet"
+msgstr "View"
 
 #: ../admin_pages/general_settings/templates/state_details_settings.template.php:4
 #: ../admin_pages/general_settings/templates/state_details_settings.template.php:46
 #: ../core/db_models/EEM_Promotion.model.php:61
 msgid "Code"
-msgstr "Kód"
+msgstr ""
 
 #: ../caffeinated/admin/extend/events/Extend_Events_Admin_Page.core.php:603
 msgid "Active"
-msgstr "Aktív"
+msgstr "Active"
 
 #: ../admin_pages/general_settings/help_tabs/general_settings_templates.help_tab.php:43
 #: ../admin_pages/general_settings/templates/template_settings.template.php:8
 msgid "Registration Pages"
-msgstr "Regisztráció oldalak"
+msgstr "Registration Pages"
 
 #: ../admin_pages/general_settings/templates/your_organization_settings.template.php:6
 msgid "Your Event Espresso License Key"
-msgstr "Az esemény Espresso Licenckulcs"
+msgstr "Your Event Espresso License Key"
 
 #: ../admin_pages/general_settings/templates/your_organization_settings.template.php:14
 msgid "Support License Key"
-msgstr "Támogatás Licenckulcs"
+msgstr "Support License Key"
 
 #: ../admin_pages/general_settings/templates/your_organization_settings.template.php:20
 msgid ""
@@ -19246,7 +19247,7 @@ msgstr ""
 #: ../admin_pages/general_settings/templates/your_organization_settings.template.php:169
 #: ../modules/gateways/Invoice/EE_Invoice.class.php:234
 msgid "Remove Image"
-msgstr "Kép eltávolítása"
+msgstr "Remove Image"
 
 #: ../admin_pages/general_settings/templates/your_organization_settings.template.php:184
 msgid "Enter any links to social accounts for your organization here"
@@ -19470,7 +19471,7 @@ msgstr ""
 #: ../core/db_models/EEM_Event.model.php:77
 #: ../core/db_models/EEM_Status.model.php:60
 msgid "Event"
-msgstr "Esemény"
+msgstr "Event"
 
 #: ../admin_pages/messages/Messages_Admin_Page.core.php:2542
 #: ../admin_pages/messages/Messages_Template_List_Table.class.php:61
@@ -19508,7 +19509,7 @@ msgstr ""
 #: ../modules/gateways/Invoice/lib/templates/receipt_body.template.php:189
 #: ../modules/ticket_selector/templates/ticket_selector_chart.template.php:177
 msgid "Description"
-msgstr "Leírás"
+msgstr "Description"
 
 #: ../admin_pages/messages/help_tabs/messages_overview_table_column_headings.help_tab.php:33
 msgid "The description for the Message Type."
@@ -19596,7 +19597,7 @@ msgstr ""
 #: ../caffeinated/admin/new/tickets/Tickets_List_Table.class.php:110
 #: ../caffeinated/admin/new/venues/help_tabs/venues_overview_views_bulk_actions_search.help_tab.php:16
 msgid "Trash"
-msgstr "Kuka"
+msgstr "Trash"
 
 #: ../admin_pages/messages/help_tabs/messages_overview_views.help_tab.php:25
 msgid "Show message templates that have been moved to the trash."
@@ -19882,13 +19883,13 @@ msgstr ""
 #: ../core/admin/EE_Admin_Page.core.php:2080
 #: ../templates/espresso-ajax-notices.template.php:3
 msgid "loading..."
-msgstr "loading"
+msgstr "loading..."
 
 #: ../admin_pages/messages/templates/ee_msg_m_settings_content.template.php:19
 #: ../admin_pages/messages/templates/ee_msg_mt_settings_content.template.php:11
 #: ../core/helpers/EEH_Form_Fields.helper.php:1445
 msgid "Submit"
-msgstr "Elküldés"
+msgstr "Submit"
 
 #: ../admin_pages/messages/templates/ee_msg_message_templates_help_tab.template.php:1
 msgid "What are Message Templates"
@@ -20303,12 +20304,12 @@ msgstr ""
 #: ../core/data_migration_scripts/4_1_0_stages/EE_DMS_4_1_0_question_groups.dmsstage.php:78
 #: ../core/db_models/EEM_Question_Group.model.php:50
 msgid "Question Groups"
-msgstr "Kérdés csoportok"
+msgstr ""
 
 #: ../admin_pages/registration_form/espresso_events_Registration_Form_Hooks.class.php:94
 #: ../caffeinated/admin/extend/registration_form/espresso_events_Registration_Form_Hooks_Extend.class.php:89
 msgid "Add a pre-populated"
-msgstr "Add a pre-lakott"
+msgstr ""
 
 #: ../admin_pages/registration_form/espresso_events_Registration_Form_Hooks.class.php:96
 #: ../caffeinated/admin/extend/registration_form/espresso_events_Registration_Form_Hooks_Extend.class.php:91
@@ -20319,7 +20320,6 @@ msgstr ""
 msgid ""
 "to your event. The personal information group is required for all events."
 msgstr ""
-"a rendezvényen. A személyes adatok csoportja van szükség az összes esemény."
 
 #: ../core/db_models/EEM_Question.model.php:103
 msgid "Question Text"
@@ -20331,12 +20331,12 @@ msgstr ""
 
 #: ../admin_pages/registration_form/templates/questions_main_meta_box.template.php:258
 msgid "Required Text"
-msgstr "Szükséges Text"
+msgstr "Required Text"
 
 #: ../caffeinated/admin/extend/registration_form/Registration_Form_Question_Groups_Admin_List_Table.class.php:61
 #: ../caffeinated/admin/extend/registration_form/templates/question_groups_main_meta_box.template.php:33
 msgid "Group Name"
-msgstr "Csoport neve"
+msgstr ""
 
 #: ../caffeinated/admin/extend/registration_form/templates/question_groups_main_meta_box.template.php:45
 msgid "Group Identifier"
@@ -20348,11 +20348,11 @@ msgstr ""
 
 #: ../admin_pages/registration_form/help_tabs/registration_form_reg_form_settings.help_tab.php:6
 msgid "reCAPTCHA Information"
-msgstr "reCAPTCHA információk"
+msgstr ""
 
 #: ../admin_pages/registration_form/help_tabs/registration_form_reg_form_settings.help_tab.php:10
 msgid "Helpful Links:"
-msgstr "Hasznos linkek:"
+msgstr "Helpful Links:"
 
 #: ../admin_pages/registration_form/templates/questions_main_meta_box.template.php:49
 #: ../admin_pages/registration_form/templates/questions_main_meta_box.template.php:82
@@ -20369,7 +20369,7 @@ msgstr ""
 #: ../core/db_models/EEM_Rule.model.php:67
 #: ../modules/gateways/PaymentGateway.php:224
 msgid "Value"
-msgstr "Érték"
+msgstr "Value"
 
 #: ../admin_pages/registration_form/templates/questions_main_meta_box.template.php:132
 msgid "Description (optional, only shown on registration form)"
@@ -20414,7 +20414,7 @@ msgstr ""
 #: ../modules/gateways/Aim/EE_Aim.class.php:416
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:976
 msgid "City"
-msgstr "Város"
+msgstr "City"
 
 #: ../admin_pages/registrations/EE_Attendee_Contact_List_Table.class.php:35
 #: ../admin_pages/registrations/templates/attendee_contact_info_metabox_content.template.php:11
@@ -20427,7 +20427,7 @@ msgstr "Város"
 #: ../modules/gateways/Aim/EE_Aim.class.php:394
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:943
 msgid "Email Address"
-msgstr "Email cím"
+msgstr "Email Address"
 
 #: ../admin_pages/registrations/templates/attendee_contact_info_metabox_content.template.php:12
 #: ../admin_pages/registrations/templates/attendee_details_main_meta_box.template.php:23
@@ -20439,7 +20439,7 @@ msgstr "Email cím"
 #: ../caffeinated/admin/extend/registration_form/templates/reg_form_settings.template.php:39
 #: ../caffeinated/admin/extend/registration_form/templates/reg_form_settings.template.php:53
 msgid "The following is  a required field"
-msgstr "A következő egy kötelező mező"
+msgstr ""
 
 #: ../admin_pages/registrations/templates/attendee_contact_info_metabox_content.template.php:14
 #: ../admin_pages/registrations/templates/attendee_details_main_meta_box.template.php:47
@@ -20456,7 +20456,7 @@ msgstr ""
 
 #: ../admin_pages/registrations/templates/attendee_details_after_title_form_fields.template.php:9
 msgid "First Name:"
-msgstr "Keresztnév"
+msgstr ""
 
 #: ../admin_pages/registrations/EE_Attendee_Contact_List_Table.class.php:33
 #: ../admin_pages/registrations/Registrations_Admin_Page.core.php:1662
@@ -20467,11 +20467,11 @@ msgstr "Keresztnév"
 #: ../modules/gateways/Aim/EE_Aim.class.php:372
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:921
 msgid "First Name"
-msgstr "Keresztnév"
+msgstr "First Name"
 
 #: ../admin_pages/registrations/templates/attendee_details_after_title_form_fields.template.php:11
 msgid "Last Name:"
-msgstr "Vezetéknév "
+msgstr ""
 
 #: ../admin_pages/registrations/EE_Attendee_Contact_List_Table.class.php:34
 #: ../admin_pages/registrations/Registrations_Admin_Page.core.php:1665
@@ -20482,7 +20482,7 @@ msgstr "Vezetéknév "
 #: ../modules/gateways/Aim/EE_Aim.class.php:383
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:932
 msgid "Last Name"
-msgstr "Vezetéknév"
+msgstr "Last Name"
 
 #: ../admin_pages/registrations/EE_Attendee_Contact_List_Table.class.php:37
 #: ../admin_pages/registrations/Registrations_Admin_Page.core.php:1671
@@ -20496,7 +20496,7 @@ msgstr "Vezetéknév"
 #: ../modules/gateways/Aim/EE_Aim.class.php:405
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:965
 msgid "Address"
-msgstr "Cím"
+msgstr "Address"
 
 #: ../admin_pages/general_settings/General_Settings_Admin_Page.core.php:415
 #: ../admin_pages/registrations/EE_Attendee_Contact_List_Table.class.php:40
@@ -20509,7 +20509,7 @@ msgstr "Cím"
 #: ../modules/gateways/Aim/EE_Aim.class.php:439
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:999
 msgid "Country"
-msgstr "Ország "
+msgstr "Country"
 
 #: ../admin_pages/registrations/templates/attendee_registrations_main_meta_box.template.php:8
 #: ../admin_pages/registrations/templates/reg_admin_details_main_meta_box_attendees.template.php:12
@@ -20517,7 +20517,7 @@ msgstr "Ország "
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:12
 #: ../core/db_models/EEM_Event.model.php:104
 msgid "Event Name"
-msgstr "Esemény neve"
+msgstr ""
 
 #: ../admin_pages/registrations/templates/attendee_registrations_main_meta_box.template.php:9
 msgid "REG ID"
@@ -20539,7 +20539,7 @@ msgstr ""
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:14
 #: ../core/db_models/EEM_Ticket_Price.model.php:68
 msgid "Ticket Price"
-msgstr "Jegyár"
+msgstr "Ticket Price"
 
 #: ../admin_pages/registrations/templates/reg_admin_details_header.template.php:9
 msgid "Change status to: "
@@ -20548,16 +20548,16 @@ msgstr ""
 #: ../admin_pages/registrations/templates/reg_admin_details_main_meta_box_attendees.template.php:11
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_attendees.template.php:8
 msgid "#"
-msgstr "#"
+msgstr ""
 
 #: ../admin_pages/registrations/templates/reg_admin_details_main_meta_box_attendees.template.php:13
 #: ../core/db_models/EEM_Attendee.model.php:55
 msgid "Attendee"
-msgstr "Résztvevő"
+msgstr "Attendee"
 
 #: ../admin_pages/registrations/templates/reg_admin_details_main_meta_box_attendees.template.php:14
 msgid "Price Paid"
-msgstr "Kifizetett ár"
+msgstr "Price Paid"
 
 #: ../admin_pages/registrations/EE_Registrations_List_Table.class.php:70
 #: ../admin_pages/registrations/Registrations_Admin_Page.core.php:1668
@@ -20567,7 +20567,7 @@ msgstr "Kifizetett ár"
 #: ../admin_pages/transactions/templates/txn_admin_details_side_meta_box_registrant.template.php:6
 #: ../core/db_models/EEM_Status.model.php:64
 msgid "Email"
-msgstr "Email"
+msgstr ""
 
 #: ../admin_pages/registrations/templates/reg_admin_details_main_meta_box_attendees.template.php:28
 msgid "View details for this attendee"
@@ -20575,32 +20575,32 @@ msgstr ""
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:89
 msgid "Payment Details"
-msgstr "Fizetési részletek"
+msgstr "Payment Details"
 
 #: ../admin_pages/registrations/help_tabs/registrations_details_table.help_tab.php:5
 #: ../admin_pages/registrations/templates/reg_admin_details_main_meta_box_reg_details.template.php:7
 msgid "Registration Items"
-msgstr "Regisztráció tételek"
+msgstr "Registration Items"
 
 #: ../admin_pages/registrations/templates/reg_admin_details_main_meta_box_reg_details.template.php:13
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:11
 msgid "Line Item ID"
-msgstr "Sor azonosítója"
+msgstr ""
 
 #: ../admin_pages/registrations/templates/reg_admin_details_main_meta_box_reg_details.template.php:16
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:13
 msgid "Ticket Option"
-msgstr "Ticket lehetőség"
+msgstr ""
 
 #: ../admin_pages/registrations/templates/reg_admin_details_main_meta_box_reg_details.template.php:19
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:16
 msgid "Line Total"
-msgstr "Vonal összesen"
+msgstr "Line Total"
 
 #: ../admin_pages/registrations/templates/reg_admin_details_main_meta_box_reg_details.template.php:44
 #: ../core/EE_Cart.core.php:122
 msgid "Grand Total"
-msgstr "Mindösszesen"
+msgstr ""
 
 #: ../admin_pages/registrations/templates/reg_admin_details_main_meta_box_reg_details.template.php:53
 msgid "view additional registration session details"
@@ -20613,11 +20613,11 @@ msgstr ""
 #: ../admin_pages/registrations/help_tabs/registrations_details_table.help_tab.php:49
 #: ../admin_pages/registrations/templates/reg_admin_details_main_meta_box_reg_details.template.php:64
 msgid "Registration Session Details"
-msgstr "Regisztráció részletei"
+msgstr "Registration Session Details"
 
 #: ../admin_pages/registrations/templates/reg_admin_details_side_meta_box_box_billing_info.template.php:4
 msgid "Free Event"
-msgstr "Ingyenes esemény"
+msgstr ""
 
 #: ../admin_pages/registrations/templates/reg_admin_details_side_meta_box_registrant.template.php:9
 #: ../admin_pages/transactions/templates/txn_admin_details_side_meta_box_registrant.template.php:9
@@ -20630,15 +20630,15 @@ msgstr ""
 
 #: ../modules/single_page_checkout/templates/registration_page_attendee_information.template.php:93
 msgid "Use Attendee #1's information for ALL attendees"
-msgstr "A Résztvevők # 1 adatai minden résztvevő számára"
+msgstr "Use Attendee #1's information for ALL attendees"
 
 #: ../admin_pages/registrations/templates/registration_page_registration_questions.template.php:61
 msgid "more options"
-msgstr "További lehetőségek"
+msgstr "more options"
 
 #: ../admin_pages/registrations/templates/registration_page_registration_questions.template.php:64
 msgid "less options"
-msgstr "kevesebb lehetőség"
+msgstr "less options"
 
 #: ../modules/single_page_checkout/templates/registration_page_attendee_information.template.php:140
 msgid ""
@@ -20655,7 +20655,7 @@ msgstr ""
 #: ../admin_pages/registrations/templates/registration_page_registration_questions.template.php:137
 #: ../modules/single_page_checkout/templates/registration_page_attendee_information.template.php:181
 msgid "show&nbsp;event&nbsp;questions"
-msgstr "mutatják esemény kérdések"
+msgstr "show&nbsp;event&nbsp;questions"
 
 #: ../admin_pages/support/templates/support_admin_details_contact_support.template.php:3
 msgid "Before Contacting Support"
@@ -20664,7 +20664,7 @@ msgstr ""
 #: ../../../plugins/espresso-calendar/calendar_help.php:339
 #: ../admin_pages/support/templates/support_admin_details_contact_support.template.php:21
 msgid "Premium Support Options"
-msgstr "Premium Support lehetőségek"
+msgstr ""
 
 #: ../admin_pages/support/templates/support_admin_details_contact_support.template.php:24
 msgid ""
@@ -20672,13 +20672,10 @@ msgid ""
 "support beyond the complimentary support included with all Event Espresso "
 "products."
 msgstr ""
-"Kínálunk kiemelt támogatása ügyfelek számára, akik vágynak vagy "
-"igényelhetnek támogatási szint túl az ingyenes támogatás tartalmazza az "
-"összes Esemény Espresso termék."
 
 #: ../admin_pages/support/templates/support_admin_details_contact_support.template.php:27
 msgid "Support Tokens"
-msgstr "Támogatás tokenek"
+msgstr "Support Tokens"
 
 #: ../admin_pages/support/templates/support_admin_details_favorite_theme_developers.template.php:4
 msgid ""
@@ -20740,7 +20737,7 @@ msgstr ""
 
 #: ../admin_pages/support/templates/support_admin_details_hire_developer.template.php:8
 msgid "WP Candy Pros"
-msgstr "WP Candy Érvek"
+msgstr "WP Candy Pros"
 
 #: ../admin_pages/support/templates/support_admin_details_hire_developer.template.php:10
 msgid "WordPress Professionals and theme developers."
@@ -20748,7 +20745,7 @@ msgstr ""
 
 #: ../admin_pages/support/templates/support_admin_details_important_information.template.php:31
 msgid "WordPress Version:"
-msgstr "WordPress verzió:"
+msgstr "WordPress Version:"
 
 #: ../admin_pages/support/templates/support_admin_details_important_information.template.php:35
 msgid "PHP Version:"
@@ -20756,15 +20753,15 @@ msgstr "PHP Version:"
 
 #: ../admin_pages/support/templates/support_admin_details_important_information.template.php:39
 msgid "MySQL Version:"
-msgstr "MySQL verzió:"
+msgstr ""
 
 #: ../admin_pages/support/templates/support_admin_details_important_information.template.php:45
 msgid "WordPress Address (URL):"
-msgstr "WordPress cím (URL):"
+msgstr ""
 
 #: ../admin_pages/support/templates/support_admin_details_important_information.template.php:49
 msgid "Site address (URL):"
-msgstr "Honlap címe (URL):"
+msgstr ""
 
 #: ../admin_pages/support/templates/support_admin_details_installation.template.php:2
 msgid ""
@@ -20774,7 +20771,7 @@ msgstr ""
 
 #: ../admin_pages/support/templates/support_admin_details_installation.template.php:4
 msgid "For the latest installation instructions please visit:"
-msgstr "A legfrissebb telepítési utasításokat, kérjük, látogasson el:"
+msgstr "For the latest installation instructions please visit:"
 
 #: ../admin_pages/support/templates/support_admin_details_other_resources.template.php:3
 msgid "WordPress Answers"
@@ -20782,7 +20779,7 @@ msgstr ""
 
 #: ../admin_pages/support/templates/support_admin_details_partners.template.php:18
 msgid "Become a Partner"
-msgstr "Legyen partnerünk"
+msgstr "Become a Partner"
 
 #: ../admin_pages/support/templates/support_admin_details_recommended_plugins.template.php:3
 msgid "Exclude Pages from Navigation"
@@ -20827,14 +20824,14 @@ msgstr ""
 #: ../modules/gateways/Invoice/lib/templates/receipt_body.template.php:64
 #: ../modules/single_page_checkout/templates/registration_page_attendee_information.template.php:58
 msgid "Total"
-msgstr "Összesen"
+msgstr "Total"
 
 #: ../admin_pages/registrations/EE_Registrations_List_Table.class.php:77
 #: ../admin_pages/transactions/EE_Admin_Transactions_List_Table.class.php:70
 #: ../admin_pages/transactions/help_tabs/transactions_overview_table_column_headings.help_tab.php:31
 #: ../caffeinated/admin/extend/registrations/EE_Event_Registrations_List_Table.class.php:56
 msgid "Paid"
-msgstr "Fizetett "
+msgstr ""
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_attendees.template.php:9
 msgid "Event Name and Ticket"
@@ -20843,20 +20840,20 @@ msgstr ""
 #: ../admin_pages/transactions/help_tabs/transactions_view_transaction_transaction_details_table.help_tab.php:1
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:4
 msgid "Transaction Items"
-msgstr "Tranzakciós tételek"
+msgstr ""
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:55
 msgid "view additional transaction session details"
-msgstr "megtekintheti a tranzakció ülésén további részletek"
+msgstr ""
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:62
 msgid "hide additional transaction session details"
-msgstr "elrejtéséhez további tranzakció ülésén további részletek"
+msgstr ""
 
 #: ../admin_pages/transactions/help_tabs/transactions_view_transaction_transaction_details_table.help_tab.php:45
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:66
 msgid "Transaction Session Details"
-msgstr "Tranzakció Session Részletek"
+msgstr ""
 
 #: ../admin_pages/registrations/Registrations_Admin_Page.core.php:912
 #: ../admin_pages/transactions/Transactions_Admin_Page.core.php:429
@@ -20865,21 +20862,21 @@ msgstr "Tranzakció Session Részletek"
 #: ../modules/gateways/Invoice/lib/templates/invoice_body.template.php:192
 #: ../modules/gateways/Invoice/lib/templates/receipt_body.template.php:225
 msgid "Date"
-msgstr "Dátum"
+msgstr "Date"
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:100
 msgid "Method"
-msgstr "Módszer"
+msgstr ""
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:101
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:329
 msgid "Gateway"
-msgstr "Gateway"
+msgstr ""
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:102
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:352
 msgid "Gateway Response"
-msgstr "Gateway Válasz"
+msgstr ""
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:103
 msgid "TXN&nbsp;ID / CHQ&nbsp;#"
@@ -20895,7 +20892,7 @@ msgstr ""
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:106
 msgid "Details"
-msgstr "Részletek"
+msgstr "Details"
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:107
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:308
@@ -20907,17 +20904,17 @@ msgstr "Részletek"
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:834
 #: ../modules/ticket_selector/templates/ticket_selector_chart.template.php:178
 msgid "Amount"
-msgstr "Összeg"
+msgstr "Amount"
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:122
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:204
 msgid "Edit Payment"
-msgstr "Szerkesztése Fizetés"
+msgstr "Edit Payment"
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:127
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:209
 msgid "Delete Payment"
-msgstr "Törlése Fizetés"
+msgstr "Delete Payment"
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:177
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:187
@@ -20925,47 +20922,47 @@ msgid ""
 "No payments have been applied to this transaction yet. Click \"Apply Payment"
 "\" below to make a payment."
 msgstr ""
-"Nincs kifizetéseket alkalmazták ezt a tranzakciót még. Kattintson az  "
-"\"Alkalmaz Fizetés \" alatt, hogy a kifizetést."
+"No payments have been applied to this transaction yet. Click \"Apply Payment"
+"\" below to make a payment."
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:256
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:412
 msgid "Apply Payment"
-msgstr "Alkalmaz Fizetés"
+msgstr "Apply Payment"
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:261
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:422
 msgid "Apply Refund"
-msgstr "Alkalmaz visszatérítése"
+msgstr "Apply Refund"
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:300
 msgid "Payment Date"
-msgstr "Kifizetés dátuma"
+msgstr "Payment Date"
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:303
 msgid "The date the payment was actually made on"
-msgstr "A dátum, amikor a kifizetés ténylegesen megtörtént"
+msgstr ""
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:311
 msgid "The amount of the payment"
-msgstr "A támogatás összege az"
+msgstr ""
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:316
 msgid "Method of Payment"
-msgstr "Fizetés módja"
+msgstr ""
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:318
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:331
 msgid "please select an option"
-msgstr "Kérjük, válasszon ki egy lehetőséget"
+msgstr ""
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:324
 msgid "Whether the payment was made via PayPal, Credit Card, Cheque, or Cash"
-msgstr "Akár a kifizetés PayPal, hitelkártya, csekk, vagy készpénz"
+msgstr ""
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:337
 msgid "The gateway used to process the payment"
-msgstr "Az átjáró használni, hogy feldolgozza a fizetési"
+msgstr ""
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:343
 msgid "TXN ID / CHQ #"
@@ -20973,39 +20970,37 @@ msgstr "TXN ID / CHQ #"
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:346
 msgid "The Transaction ID sent back from the payment gateway, or the Cheque #"
-msgstr "A Transaction ID küldte vissza a fizetési átjáró, vagy a csekk #"
+msgstr ""
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:355
 msgid "The gateway response string (optional)"
-msgstr "Az átjáró válasz string (opcionális)"
+msgstr ""
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:361
 msgid "Payment Status"
-msgstr "Fizetési állapot"
+msgstr ""
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:369
 msgid ""
 "Whether the payment was approved, cancelled, declined or failed after "
 "submission to the gateway"
 msgstr ""
-"Akár a kifizetést jóváhagyták, a lemondás, csökkent vagy sikertelen "
-"benyújtását követően az átjáró"
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:374
 msgid "P.O. / S.O. #"
-msgstr "PO / SO #"
+msgstr "P.O. / S.O. #"
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:377
 msgid "The Purchase or Sales Order Number if any (optional)"
-msgstr "A vételi vagy eladási Rendelési szám ha van ilyen (nem kötelező)"
+msgstr ""
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:381
 msgid "Notes / Extra Accounting"
-msgstr "Notes / Extra Számvitel"
+msgstr "Notes / Extra Accounting"
 
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:417
 msgid "Save Payment Details"
-msgstr "Mentés Fizetési részletek"
+msgstr ""
 
 #: ../admin_pages/messages/Messages_Admin_Page.core.php:1171
 #: ../admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:427
@@ -21014,7 +21009,7 @@ msgstr "Mentés Fizetési részletek"
 #: ../caffeinated/admin/new/pricing/templates/event_tickets_datetime_attached_tickets_row.template.php:52
 #: ../caffeinated/admin/new/pricing/templates/event_tickets_metabox_main.template.php:41
 msgid "Cancel"
-msgstr "Mégse"
+msgstr ""
 
 #: ../admin_pages/transactions/templates/txn_admin_details_side_meta_box_billing_info.template.php:4
 msgid "There is no billing info for this transaction."
@@ -21022,25 +21017,25 @@ msgstr ""
 
 #: ../admin_pages/transactions/templates/txn_admin_overview.template.php:8
 msgid "Display Transactions from "
-msgstr "Kijelző tranzakciók alapján "
+msgstr ""
 
 #: ../admin_pages/transactions/templates/txn_admin_overview.template.php:10
 msgid "until"
-msgstr "-ig"
+msgstr ""
 
 #: ../caffeinated/admin/extend/events/templates/event_datetime_add_additional_time.template.php:2
 msgid "Add New Dates &amp; Times"
-msgstr "Új dátumok &amp; idők hozzáadása"
+msgstr "Add New Dates &amp; Times"
 
 #: ../caffeinated/admin/extend/events/Extend_Events_Admin_Page.core.php:204
 #: ../caffeinated/admin/extend/events/templates/event_datetime_metabox_clone_button.template.php:1
 msgid "Clone this Event Date and Time"
-msgstr "Esemény dátumának és idejének klónozása"
+msgstr "Clone this Event Date and Time"
 
 #: ../caffeinated/admin/extend/events/Extend_Events_Admin_Page.core.php:207
 #: ../caffeinated/admin/extend/events/templates/event_datetime_metabox_clone_button.template.php:2
 msgid "clone"
-msgstr "klón"
+msgstr "clone"
 
 #: ../caffeinated/admin/extend/events/templates/event_datetime_timezones.template.php:3
 msgid "Current Time for Event Timezone:"
@@ -21048,19 +21043,19 @@ msgstr ""
 
 #: ../caffeinated/admin/extend/events/templates/event_datetime_timezones.template.php:6
 msgid "Change timezone and date format settings?"
-msgstr "Időzóna és dátum formátum beállítása?"
+msgstr ""
 
 #: ../caffeinated/admin/extend/events/templates/event_datetime_timezones.template.php:8
 msgid "Event Timezone:"
-msgstr "Event Timezone:"
+msgstr ""
 
 #: ../caffeinated/admin/extend/events/templates/event_registration_options.template.php:14
 msgid "Display  Description"
-msgstr "Leírás mutatása"
+msgstr "Display Description"
 
 #: ../caffeinated/admin/extend/events/templates/event_registration_options.template.php:19
 msgid "Display  Registration Form"
-msgstr "Kijelző Regisztrációs űrlap"
+msgstr "Display Registration Form"
 
 #: ../caffeinated/admin/extend/events/templates/event_type_metabox_contents.template.php:3
 msgid "All Event Types"
@@ -21076,42 +21071,42 @@ msgstr ""
 
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:53
 msgid "Set Map Zoom level: Range 1 - 19"
-msgstr "Állítsa Térképnagyítás szint: tartomány 1-19"
+msgstr "Set Map Zoom level: Range 1 - 19"
 
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:91
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:209
 msgid " Default"
-msgstr " Alapértelmezett"
+msgstr " Default"
 
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:97
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:215
 msgid " Horizontal"
-msgstr " Horizontális"
+msgstr " Horizontal"
 
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:103
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:221
 msgid " Dropdown"
-msgstr " Legördülő"
+msgstr " Dropdown"
 
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:116
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:235
 msgid " None"
-msgstr " Nincs"
+msgstr " None"
 
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:122
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:241
 msgid " Align Left"
-msgstr " Balra igazítás"
+msgstr " Align Left"
 
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:128
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:247
 msgid " Align Center"
-msgstr " Középre igazítás"
+msgstr " Align Center"
 
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:134
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:253
 msgid " Align Right"
-msgstr " Jobbra igazítás"
+msgstr " Align Right"
 
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:144
 msgid "Events List Options"
@@ -21119,7 +21114,7 @@ msgstr ""
 
 #: ../caffeinated/admin/extend/general_settings/templates/google_map.template.php:182
 msgid "Set Map Navigation Overlay "
-msgstr "Állítsa Map Navigation Overlay "
+msgstr ""
 
 #: ../caffeinated/admin/extend/registration_form/espresso_events_Registration_Form_Hooks_Extend.class.php:93
 msgid "to your event."
@@ -21164,15 +21159,15 @@ msgstr ""
 
 #: ../caffeinated/admin/extend/registration_form/templates/reg_form_settings.template.php:14
 msgid "Use reCAPTCHA"
-msgstr "A reCAPTCHA"
+msgstr "Use reCAPTCHA"
 
 #: ../caffeinated/admin/extend/registration_form/templates/reg_form_settings.template.php:34
 msgid "Public Key"
-msgstr "A(z)"
+msgstr "Public Key"
 
 #: ../caffeinated/admin/extend/registration_form/templates/reg_form_settings.template.php:48
 msgid "Private Key"
-msgstr "A(z)"
+msgstr "Private Key"
 
 #: ../caffeinated/admin/extend/registration_form/templates/reg_form_settings.template.php:62
 msgid "reCAPTCHA Appearance"
@@ -21180,51 +21175,50 @@ msgstr ""
 
 #: ../caffeinated/admin/extend/registration_form/templates/reg_form_settings.template.php:71
 msgid "Theme"
-msgstr "témák"
+msgstr "Theme"
 
 #: ../caffeinated/admin/extend/registration_form/templates/reg_form_settings.template.php:82
 msgid "Language"
-msgstr "Nyelv"
+msgstr "Language"
 
 #: ../caffeinated/admin/extend/registration_form/templates/reg_form_settings.template.php:93
 msgid "Width"
-msgstr "Szélesség"
+msgstr "Width"
 
 #: ../core/admin/templates/admin_general_metabox_contents_espresso_links.template.php:8
 msgid "Template Customization"
-msgstr ""
+msgstr "Template Customisation"
 
 #: ../caffeinated/admin/extend/support/templates/support_admin_details_faq.template.php:49
 msgid ""
 "Make sure you have a standard or a business PayPal account, personal "
 "accounts don't work."
 msgstr ""
-"Győződjön meg róla, hogy egy standard vagy egy üzleti PayPal számla, "
-"személyi fiók nem működik."
+"Make sure you have a standard or a business PayPal account, personal "
+"accounts don't work."
 
 #: ../caffeinated/admin/extend/support/templates/support_admin_details_faq.template.php:52
 msgid "Turn on your IPN."
-msgstr "Kapcsolja be a IPN."
+msgstr "Turn on your IPN."
 
 #: ../caffeinated/admin/extend/support/templates/support_admin_details_faq.template.php:55
 msgid "Make sure your PayPal account is verified."
-msgstr "Ellenőrizze, hogy a PayPal számla igazolt."
+msgstr "Make sure your PayPal account is verified."
 
 #: ../caffeinated/admin/extend/support/templates/support_admin_details_faq.template.php:58
 msgid "Make sure your Event Espresso pages are not protected or private."
-msgstr ""
-"Győződjön meg róla, Rendezvény Espresso oldalak nem védett vagy privát."
+msgstr "Make sure your Event Espresso pages are not protected or private."
 
 #: ../caffeinated/admin/extend/support/templates/support_admin_details_faq.template.php:62
 msgid "More information can be found here:"
-msgstr "További információ itt olvasható:"
+msgstr "More information can be found here:"
 
 #: ../admin_pages/registration_form/Registration_Form_Questions_Admin_List_Table.class.php:68
 #: ../caffeinated/admin/new/pricing/templates/pricing_details_main_meta_box.template.php:6
 #: ../core/db_models/EEM_Line_Item.model.php:108
 #: ../core/db_models/EEM_Status.model.php:58
 msgid "Type"
-msgstr "Típus"
+msgstr "Type"
 
 #: ../caffeinated/admin/extend/events/qtips/EE_Event_Editor_Tips.lib.php:57
 #: ../caffeinated/admin/new/pricing/templates/event_tickets_datetime_attached_tickets_row.template.php:2
@@ -21233,7 +21227,7 @@ msgstr ""
 
 #: ../caffeinated/admin/new/pricing/templates/event_tickets_datetime_attached_tickets_row.template.php:10
 msgid "Add New Ticket"
-msgstr ""
+msgstr "Add New Ticket"
 
 #: ../caffeinated/admin/new/pricing/templates/event_tickets_datetime_attached_tickets_row.template.php:49
 #: ../caffeinated/admin/new/pricing/templates/event_tickets_metabox_main.template.php:52
@@ -21304,7 +21298,7 @@ msgstr ""
 
 #: ../caffeinated/admin/new/pricing/templates/event_tickets_datetime_ticket_row.template.php:162
 msgid "Update Ticket"
-msgstr "Frissítse Ticket"
+msgstr ""
 
 #: ../caffeinated/admin/new/pricing/templates/event_tickets_datetime_ticket_row.template.php:162
 msgid "Close"
@@ -21326,7 +21320,7 @@ msgstr ""
 #: ../core/db_models/EEM_Ticket.model.php:40
 #: ../modules/gateways/Invoice/lib/templates/receipt_body.template.php:60
 msgid "Ticket"
-msgstr "Jegy"
+msgstr ""
 
 #: ../caffeinated/admin/new/pricing/templates/pricing_details_main_meta_box.template.php:11
 msgid ""
@@ -21340,7 +21334,7 @@ msgstr ""
 
 #: ../caffeinated/admin/new/pricing/templates/pricing_type_details_main_meta_box.template.php:8
 msgid "Basic Type"
-msgstr "Basic típus"
+msgstr "Basic Type"
 
 #: ../caffeinated/admin/new/pricing/templates/pricing_type_details_main_meta_box.template.php:12
 msgid ""
@@ -21349,49 +21343,48 @@ msgid ""
 "option.<br/>Discounts reduce the price of an event, Surcharges increase the "
 "price.<br/>Taxes are applied to the final total."
 msgstr ""
-"Kiválasztása az alap típus lehetővé teszi számunkra, hogy gyorsan beállítani "
-"egy csomó más lehetőség az Ön számára. <br/> Minden esemény kell, hogy "
-"legyen legalább egy Alapár típusú opció. <br/> Kedvezményes árának "
-"csökkentését, egy esemény, felárak növelik az árat . <br/> adókat "
-"alkalmaznak a végleges, teljes."
+"Choosing a basic type allows us to quickly configure a bunch of other "
+"options for you.<br/>All events need to have at least one Base Price type "
+"option.<br/>Discounts reduce the price of an event, Surcharges increase the "
+"price.<br/>Taxes are applied to the final total."
 
 #: ../caffeinated/admin/new/pricing/templates/pricing_type_details_main_meta_box.template.php:18
 #: ../core/db_models/EEM_Price_Type.model.php:101
 msgid "Price Type Name"
-msgstr "Ár Típus neve"
+msgstr "Price Type Name"
 
 #: ../caffeinated/admin/new/pricing/templates/pricing_type_details_main_meta_box.template.php:22
 msgid "A name for this Price Type."
-msgstr "A neve ennek Ár Típus."
+msgstr "A name for this Price Type."
 
 #: ../caffeinated/admin/new/pricing/templates/pricing_type_details_main_meta_box.template.php:28
 msgid "Percentage or Dollar Amount?"
-msgstr "Százalék vagy Dollar mennyisége?"
+msgstr "Percentage or Monetary Amount?"
 
 #: ../caffeinated/admin/new/pricing/templates/pricing_type_details_main_meta_box.template.php:33
 msgid "Percentage"
-msgstr "Százalék"
+msgstr "Percentage"
 
 #: ../caffeinated/admin/new/pricing/templates/pricing_type_details_main_meta_box.template.php:37
 #: ../core/EE_Config.core.php:1081
 msgid "Dollar"
-msgstr "Dollár"
+msgstr "Monetary"
 
 #: ../caffeinated/admin/new/pricing/templates/pricing_type_details_main_meta_box.template.php:39
 msgid ""
 "Whether this Price Type will be applied as a percentage or applied as a set "
 "dollar amount."
 msgstr ""
-"Hogy ez Ár Típus fogják alkalmazni százalékában vagy alkalmazzák egy sor "
-"dollár összeget."
+"Whether this Price Type will be applied as a percentage or applied as a set "
+"monetary amount."
 
 #: ../caffeinated/admin/new/pricing/templates/pricing_type_details_main_meta_box.template.php:44
 msgid "Order of Application "
-msgstr "Order Alkalmazási "
+msgstr "Order of Application "
 
 #: ../caffeinated/admin/new/venues/templates/event_venues_metabox_content.template.php:7
 msgid "You have not created any venues yet."
-msgstr "Még nem hozott létre olyan helyszíneken még."
+msgstr ""
 
 #: ../caffeinated/admin/new/venues/templates/event_venues_metabox_content_from_manager.template.php:4
 msgid "Select from Venue Manager List"
@@ -21411,7 +21404,7 @@ msgstr ""
 
 #: ../caffeinated/admin/new/venues/templates/venue_gmap_metabox_content.template.php:13
 msgid "Google Map Link (for email):"
-msgstr "Google Map Link (e-mail):"
+msgstr ""
 
 #: ../caffeinated/admin/new/venues/Venues_Admin_List_Table.class.php:64
 #: ../caffeinated/admin/new/venues/templates/venue_publish_box_extras.template.php:2
@@ -21432,7 +21425,7 @@ msgstr ""
 #: ../core/EE_Error.core.php:761 ../core/EE_PUE.core.php:223
 #: ../core/third_party_libs/pue/pue-client.php:812
 msgid "Dismiss"
-msgstr "Kihagyás"
+msgstr ""
 
 #: ../core/EE_PUE.core.php:224
 msgid "Yes! I'm In"
@@ -21444,7 +21437,7 @@ msgstr ""
 
 #: ../core/admin/EE_Admin.core.php:318
 msgid "View All"
-msgstr "Az összes megtekintése"
+msgstr ""
 
 #: ../core/admin/EE_Admin.core.php:350
 msgid "Select All"
@@ -21452,7 +21445,7 @@ msgstr ""
 
 #: ../core/admin/EE_Admin_Page.core.php:2042
 msgid "Warning!"
-msgstr "Vigyázat!"
+msgstr ""
 
 #: ../core/admin/EE_Admin_Page.core.php:2043
 msgid ""
@@ -21460,29 +21453,26 @@ msgid ""
 "enabled in order for all of the features on this page to function properly. "
 "Please turn your javascript back on."
 msgstr ""
-"Javascript jelenleg ki van kapcsolva a böngészőben. Javascript engedélyezni "
-"kell annak érdekében, hogy valamennyi szolgáltatását ezen az oldalon a "
-"megfelelő működéshez. Kérem, kapcsolja be a javascript vissza."
 
 #: ../core/admin/templates/admin_details_legend.template.php:9
 msgid "Legend"
-msgstr "Jelmagyarázat"
+msgstr ""
 
 #: ../core/admin/templates/admin_general_metabox_contents_espresso_links.template.php:13
 msgid "Support Forums"
-msgstr ""
+msgstr "Support Forums"
 
 #: ../core/admin/templates/admin_general_metabox_contents_espresso_links.template.php:19
 msgid "Changelog"
-msgstr "Változások"
+msgstr ""
 
 #: ../core/admin/templates/admin_general_metabox_contents_espresso_links.template.php:24
 msgid "Meet the Team"
-msgstr ""
+msgstr "Meet the Team"
 
 #: ../core/admin/templates/admin_general_metabox_contents_espresso_links.template.php:29
 msgid "Sponsor New Features!"
-msgstr ""
+msgstr "Sponsor New Features!"
 
 #: ../core/admin/templates/admin_general_metabox_contents_espresso_links.template.php:38
 msgid "Ticket Scanning"
@@ -21498,7 +21488,7 @@ msgstr ""
 
 #: ../core/admin/templates/admin_general_metabox_contents_espresso_links.template.php:53
 msgid "Seating Chart"
-msgstr ""
+msgstr "Seating Chart"
 
 #: ../core/admin/templates/admin_general_metabox_contents_espresso_sponsors.template.php:3
 msgid "Your browser doesn't support iframes. What a pity."
@@ -21516,7 +21506,7 @@ msgstr ""
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:125
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:325
 msgid "Button Image URL"
-msgstr "Gomb képe URL"
+msgstr "Button Image URL"
 
 #: ../core/db_classes/EE_Import.class.php:79
 msgid "Upload File"
@@ -21529,19 +21519,19 @@ msgstr ""
 
 #: ../core/helpers/EEH_DTT_Helper.helper.php:125
 msgid "Choose a city in the same timezone as the event."
-msgstr "Válassza ki a várost az azonos időzóna, mint az esemény."
+msgstr ""
 
 #: ../core/helpers/EEH_DTT_Helper.helper.php:141
 msgid "This timezone is currently in daylight saving time."
-msgstr "Ez az időzóna jelenleg nyári időszámítás."
+msgstr ""
 
 #: ../core/helpers/EEH_DTT_Helper.helper.php:143
 msgid "This timezone is currently in standard time."
-msgstr "Ez az időzóna jelenleg szabványos idő."
+msgstr ""
 
 #: ../core/helpers/EEH_DTT_Helper.helper.php:167
 msgid "This timezone does not observe daylight saving time."
-msgstr "Ez az időzóna nem tartja nyári időszámítás."
+msgstr ""
 
 #: ../modules/events_archive/templates/admin-event-list-settings.template.php:98
 #: ../modules/events_archive_filters/templates/admin-event-list-settings.template.php:112
@@ -21550,19 +21540,19 @@ msgstr ""
 
 #: ../modules/gateways/Aim/EE_Aim.class.php:119
 msgid "Please enter your Authorize.net Transaction Key."
-msgstr "Kérjük, adja meg Authorize.net tranzakció kulcs."
+msgstr "Please enter your Authorize.net Transaction Key."
 
 #: ../modules/gateways/Aim/EE_Aim.class.php:124
 msgid "Is this an account on the Authorize.net development server? "
-msgstr "Ez egy fiókot a Authorize.net fejlesztési szerver? "
+msgstr "Is this an account on the Authorize.net development server? "
 
 #: ../modules/gateways/Aim/EE_Aim.class.php:131
 msgid "Do you want to submit a test transaction? "
-msgstr "Szeretné, hogy nyújtson be egy teszt tranzakció? "
+msgstr "Do you want to submit a test transaction? "
 
 #: ../modules/gateways/Aim/EE_Aim.class.php:144
 msgid "Authorize.net AIM Test Mode"
-msgstr "Authorize.net AIM Teszt mód"
+msgstr "Authorize.net AIM Test Mode"
 
 #: ../modules/gateways/Aim/EE_Aim.class.php:147
 msgid ""
@@ -21572,15 +21562,15 @@ msgid ""
 "and the invoice amount. If you want a transaction to be approved, use one of "
 "the following card numbers."
 msgstr ""
-"Teszt mód lehetővé teszi, hogy terjesszen teszt tranzakciók a fizetési "
-"átjáró. Az ügyletek, amelyek benyújtott míg Test Mode ON NEM ténylegesen "
-"feldolgozott. Az eredmény egy tranzakció függ a kártya számát benyújtott és "
-"a számla összegét. Ha azt szeretnénk, hogy egy ügyletet jóvá kell hagyni, "
-"használja a következő kártya számokat."
+"Test Mode allows you to submit test transactions to the payment gateway. "
+"Transactions that are submitted while Test Mode is ON are NOT actually "
+"processed. The result of a transaction depends on the card number submitted, "
+"and the invoice amount. If you want a transaction to be approved, use one of "
+"the following card numbers."
 
 #: ../modules/gateways/Aim/EE_Aim.class.php:150
 msgid "Example Card Numbers:"
-msgstr "Példa Kártya számok:"
+msgstr "Example Card Numbers:"
 
 #: ../modules/gateways/Aim/EE_Aim.class.php:153
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:248
@@ -21590,7 +21580,7 @@ msgstr "American Express"
 #: ../modules/gateways/Aim/EE_Aim.class.php:156
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:253
 msgid "Discover"
-msgstr "Felfedez"
+msgstr "Discover"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:818
 msgid "Master Card"
@@ -21604,7 +21594,7 @@ msgstr "Visa"
 #: ../modules/gateways/Aim/EE_Aim.class.php:351
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:881
 msgid "Billing Address"
-msgstr "Számlázási cím "
+msgstr "Billing Address"
 
 #: ../admin_pages/registrations/Registrations_Admin_Page.core.php:1677
 #: ../core/db_models/EEM_Attendee.model.php:83
@@ -21612,58 +21602,58 @@ msgstr "Számlázási cím "
 #: ../modules/gateways/Aim/EE_Aim.class.php:427
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:987
 msgid "State"
-msgstr "Állam"
+msgstr "County"
 
 #: ../modules/gateways/Aim/EE_Aim.class.php:356
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:886
 msgid "Credit Card Information"
-msgstr "Hitelkártya szám"
+msgstr "Credit Card Information"
 
 #: ../core/db_classes/EE_Onsite_Gateway.class.php:83
 msgid "Expiry Date"
-msgstr "Lejárat dátuma "
+msgstr "Expiry Date"
 
 #: ../core/db_classes/EE_Onsite_Gateway.class.php:130
 msgid "(mm/yy)"
-msgstr "(Mm / év)"
+msgstr "(mm/yy)"
 
 #: ../modules/gateways/Aim/EE_Aim.class.php:495
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:1067
 msgid "CCV Code"
-msgstr "CCV kód"
+msgstr "CCV Code"
 
 #: ../modules/gateways/Bank/EE_Bank.class.php:78
 msgid "Page Title"
-msgstr "Oldal címe"
+msgstr "Page Title"
 
 #: ../modules/gateways/Bank/EE_Bank.class.php:84
 #: ../modules/gateways/Check/EE_Check.class.php:96
 msgid "Payment Instructions"
-msgstr "Fizetési megbízások"
+msgstr "Payment Instructions"
 
 #: ../modules/gateways/Bank/EE_Bank.class.php:98
 msgid "Bank Account #"
-msgstr "Bankszámla #"
+msgstr "Bank Account #"
 
 #: ../modules/gateways/Bank/EE_Bank.class.php:105
 msgid "Bank Name"
-msgstr "Bank neve"
+msgstr "Bank Name"
 
 #: ../modules/gateways/Bank/EE_Bank.class.php:112
 msgid "Bank Address"
-msgstr "Bank címe"
+msgstr "Bank Address"
 
 #: ../modules/gateways/Bank/EE_Bank.class.php:131
 msgid "Name on Account:"
-msgstr "Számlázási név:"
+msgstr "Name on Account:"
 
 #: ../modules/gateways/Bank/EE_Bank.class.php:133
 msgid "Account Number:"
-msgstr "Számlaszám:"
+msgstr "Account Number:"
 
 #: ../modules/gateways/Bank/EE_Bank.class.php:135
 msgid "Financial Institution:"
-msgstr "Számlavezető bank:"
+msgstr "Financial Institution:"
 
 #: ../modules/gateways/Bank/EE_Bank.class.php:151
 msgid ""
@@ -21679,16 +21669,16 @@ msgstr ""
 
 #: ../modules/gateways/Check/EE_Check.class.php:149
 msgid "Payable to:"
-msgstr "Fizetendő:"
+msgstr "Payable to:"
 
 #: ../modules/gateways/Check/EE_Check.class.php:152
 msgid "Payment Address: "
-msgstr "Fizetési cím: "
+msgstr "Payment Address: "
 
 #: ../admin_pages/payments/help_tabs/payment_methods_overview_invoice.help_tab.php:5
 #: ../modules/gateways/Invoice/EE_Invoice.class.php:106
 msgid "Invoice Display Settings"
-msgstr ""
+msgstr "Invoice Display Settings"
 
 #: ../modules/gateways/Invoice/EE_Invoice.class.php:108
 msgid ""
@@ -21698,20 +21688,21 @@ msgstr ""
 
 #: ../modules/gateways/Invoice/EE_Invoice.class.php:114
 msgid "Select Stylesheet"
-msgstr "Válasszuk a stíluslap"
+msgstr "Select Stylesheet"
 
 #: ../modules/gateways/Invoice/EE_Invoice.class.php:125
 msgid ""
 "Load a custom/pre-made style sheet <br />to change the look of your invoices."
 msgstr ""
+"Load a custom/pre-made style sheet <br />to change the look of your invoices."
 
 #: ../modules/gateways/Invoice/EE_Invoice.class.php:131
 msgid "Instructions"
-msgstr "Útmutatás"
+msgstr "Instructions"
 
 #: ../modules/gateways/Invoice/EE_Invoice.class.php:140
 msgid "Logo Image"
-msgstr "Logo fényképek"
+msgstr "Logo Image"
 
 #: ../modules/gateways/Invoice/EE_Invoice.class.php:150
 msgid "(Logo for the top left of the invoice)"
@@ -21728,33 +21719,33 @@ msgstr ""
 
 #: ../modules/gateways/Invoice/EE_Invoice.class.php:164
 msgid "Show as an option on the payment page?"
-msgstr "Megjelenítés opció a fizetési oldalon?"
+msgstr "Show as an option on the payment page?"
 
 #: ../modules/gateways/Invoice/EE_Invoice.class.php:174
 msgid "Invoice Title"
-msgstr "Számlázási cím"
+msgstr "Invoice Title"
 
 #: ../modules/gateways/Invoice/EE_Invoice.class.php:183
 msgid "Invoice Instructions"
-msgstr "Számla utasítások"
+msgstr "Invoice Instructions"
 
 #: ../modules/gateways/Check/EE_Check.class.php:106
 #: ../modules/gateways/Invoice/EE_Invoice.class.php:192
 msgid "Payable To"
-msgstr "Fizetendő"
+msgstr "Payable To"
 
 #: ../modules/gateways/Check/EE_Check.class.php:115
 #: ../modules/gateways/Invoice/EE_Invoice.class.php:201
 msgid "Address to Send Payment"
-msgstr "Cím a fizetés elküldéséhez"
+msgstr "Address to Send Payment"
 
 #: ../modules/gateways/Invoice/EE_Invoice.class.php:234
 msgid "Remove this image"
-msgstr "Eltávolítása ezt a képet"
+msgstr "Remove this image"
 
 #: ../modules/gateways/Invoice/EE_Invoice.class.php:273
 msgid "Download PDF Invoice"
-msgstr "Töltse le PDF Számla"
+msgstr "Download PDF Invoice"
 
 #: ../modules/gateways/Invoice/EE_Invoice.class.php:299
 msgid "You have selected \"Invoice\" as your method of payment"
@@ -21769,12 +21760,12 @@ msgstr ""
 #: ../modules/gateways/Invoice/EE_Invoice.class.php:73
 #: ../modules/gateways/Invoice/lib/templates/invoice_body.template.php:24
 msgid "Invoice"
-msgstr "Számla"
+msgstr ""
 
 #: ../modules/gateways/Invoice/lib/templates/invoice_body.template.php:25
 #: ../modules/gateways/Invoice/lib/templates/receipt_body.template.php:37
 msgid "Date:"
-msgstr "Dátum:"
+msgstr "Date:"
 
 #: ../modules/gateways/Invoice/lib/templates/invoice_body.template.php:26
 #: ../modules/gateways/Invoice/lib/templates/receipt_body.template.php:135
@@ -21816,12 +21807,12 @@ msgstr ""
 #: ../modules/gateways/Invoice/lib/templates/invoice_body.template.php:187
 #: ../modules/gateways/Invoice/lib/templates/receipt_body.template.php:219
 msgid "Payments"
-msgstr "Fizetések"
+msgstr ""
 
 #: ../modules/gateways/Invoice/lib/templates/invoice_body.template.php:191
 #: ../modules/gateways/Invoice/lib/templates/receipt_body.template.php:224
 msgid "Payment Method"
-msgstr "Fizetési mód "
+msgstr ""
 
 #: ../modules/gateways/Invoice/lib/templates/invoice_body.template.php:193
 #: ../modules/gateways/Invoice/lib/templates/receipt_body.template.php:226
@@ -21866,7 +21857,7 @@ msgstr ""
 
 #: ../modules/gateways/Invoice/lib/templates/receipt_body.template.php:46
 msgid "Event Name:"
-msgstr "Esemény neve:"
+msgstr ""
 
 #: ../modules/gateways/Invoice/lib/templates/receipt_body.template.php:46
 #: ../modules/gateways/Invoice/lib/templates/receipt_body.template.php:119
@@ -21878,7 +21869,7 @@ msgstr ""
 #: ../core/db_models/EEM_Line_Item.model.php:106
 #: ../modules/gateways/Invoice/lib/templates/receipt_body.template.php:62
 msgid "Quantity"
-msgstr "Mennyiség"
+msgstr "Quantity"
 
 #: ../modules/gateways/Invoice/lib/templates/receipt_body.template.php:96
 msgid "Ticket Total:"
@@ -21889,11 +21880,11 @@ msgstr ""
 #: ../modules/single_page_checkout/templates/registration_page_confirmation.template.php:5
 #: ../modules/single_page_checkout/templates/registration_page_payment_options.template.php:5
 msgid "edit"
-msgstr "EDIT"
+msgstr ""
 
 #: ../modules/gateways/Invoice/lib/templates/receipt_body.template.php:139
 msgid "Attendee:"
-msgstr ""
+msgstr "Attendee:"
 
 #: ../core/EE_Cart.core.php:158
 #: ../modules/gateways/Invoice/lib/templates/receipt_body.template.php:183
@@ -21930,7 +21921,7 @@ msgstr ""
 
 #: ../modules/gateways/Invoice/lib/templates/receipt_body.template.php:270
 msgid "Additional Information:"
-msgstr "További információ:"
+msgstr ""
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:113
 msgid "PayPal API Username"
@@ -21938,121 +21929,121 @@ msgstr "PayPal API Username"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:123
 msgid "PayPal API Password"
-msgstr "PayPal API jelszó"
+msgstr "PayPal API Password"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:133
 msgid "PayPal API Signature"
-msgstr "PayPal API Aláírás"
+msgstr "PayPal API Signature"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:143
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:174
 msgid "Country Currency"
-msgstr "Ország Pénznem"
+msgstr "Country Currency"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:151
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:180
 msgid "U.S. Dollars ($)"
-msgstr "Amerikai dollár"
+msgstr "U.S. Dollars ($)"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:154
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:183
 msgid "Pounds Sterling (&pound;)"
-msgstr "Font sterling (£)"
+msgstr "Pounds Sterling (&pound;)"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:157
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:186
 msgid "Canadian Dollars (C $)"
-msgstr "Kanadai dollár (C $)"
+msgstr "Canadian Dollars (C$)"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:160
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:189
 msgid "Australian Dollars (A $)"
-msgstr "Ausztrál dollár (A $)"
+msgstr "Australian Dollars (A $)"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:163
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:192
 msgid "Brazilian Real (only for Brazilian users)"
-msgstr "Brazil Real (csak a brazil felhasználóknak)"
+msgstr "Brazilian Real (only for Brazilian users)"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:166
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:195
 msgid "Swiss Franc"
-msgstr "Svájci frank"
+msgstr "Swiss Franc"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:169
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:198
 msgid "Czech Koruna"
-msgstr "Cseh korona"
+msgstr "Czech Koruna"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:172
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:201
 msgid "Danish Krone"
-msgstr "Dán korona"
+msgstr "Danish Krone"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:175
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:204
 msgid "Euros (&#8364;)"
-msgstr "euró (&#8364;)"
+msgstr "Euros (&#8364;)"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:178
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:207
 msgid "Hong Kong Dollar ($)"
-msgstr "Hong Kong-i dollár ($)"
+msgstr "Hong Kong Dollar ($)"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:181
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:210
 msgid "Hungarian Forint"
-msgstr "Forint"
+msgstr "Hungarian Forint"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:184
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:213
 msgid "Israeli Shekel"
-msgstr "Izraeli sékel"
+msgstr "Israeli Shekel"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:187
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:216
 msgid "Yen (&yen;)"
-msgstr "Jen (¥)"
+msgstr "Yen (&yen;)"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:190
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:219
 msgid "Mexican Peso"
-msgstr "Mexikói új peso"
+msgstr "Mexican Peso"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:193
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:222
 msgid "Malaysian Ringgits (only for Malaysian users)"
-msgstr "Maláj Ringgit (csak a malajziai felhasználóknak)"
+msgstr "Malaysian Ringgits (only for Malaysian users)"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:196
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:225
 msgid "Norwegian Krone"
-msgstr "Norvég korona"
+msgstr "Norwegian Krone"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:199
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:228
 msgid "New Zealand Dollar ($)"
-msgstr "Új-zélandi dollár ($)"
+msgstr "New Zealand Dollar ($)"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:202
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:231
 msgid "Philippine Pesos"
-msgstr "Fülöp-szigeteki peso"
+msgstr "Philippine Pesos"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:205
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:234
 msgid "Polish Zloty"
-msgstr "Lengyel zloty"
+msgstr "Polish Zloty"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:208
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:237
 msgid "Swedish Krona"
-msgstr "Svéd korona"
+msgstr "Swedish Krona"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:211
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:240
 msgid "Singapore Dollar ($)"
-msgstr "Szingapúri dollár ($)"
+msgstr "Singapore Dollar ($)"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:214
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:243
@@ -22062,20 +22053,20 @@ msgstr "Thai Baht"
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:217
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:246
 msgid "Turkish Lira (only for Turkish users)"
-msgstr "Török líra (csak a török ​​felhasználók számára)"
+msgstr "Turkish Lira (only for Turkish users)"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:220
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:249
 msgid "Taiwan New Dollars"
-msgstr "Tajvan új dollár"
+msgstr "Taiwan New Dollars"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:262
 msgid "Use the Debugging Feature<br/>and the PayPal Sandbox"
-msgstr ""
+msgstr "Use the Debugging Feature<br/>and the PayPal Sandbox"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:269
 msgid "Make sure you enter the sandbox credentials above."
-msgstr "Győződjön meg róla, írja be a sandbox hitelesítő adatok felett."
+msgstr "Make sure you enter the sandbox credentials above."
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:281
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:106
@@ -22091,9 +22082,9 @@ msgid ""
 "also output the form varibales to the payment page, send an email to the "
 "admin that contains the all PayPal variables."
 msgstr ""
-"Amellett, hogy a PayPal Sandbox fetaure. A hibakereső funkció is kibocsátja "
-"az űrlapot varibales a fizetési oldalra, küldjön egy e-mailt az admin, amely "
-"tartalmazza az összes PayPal változót."
+"In addition to using the PayPal Sandbox feature. The debugging feature will "
+"also output the form variables to the payment page, send an email to the "
+"admin that contains the all PayPal variables."
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:288
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:113
@@ -22105,17 +22096,17 @@ msgid ""
 "PayPal environment. Create and manage test accounts, and view emails and API "
 "credentials for those test accounts."
 msgstr ""
-"A PayPal Sandbox egy tesztelési környezet, amely egy másolat az élő PayPal "
-"oldalon, kivéve, hogy nincs valódi pénz cserél gazdát. A Sandbox lehetővé "
-"teszi, hogy tesztelje a teljes integráció benyújtása előtt ügyletek az élő "
-"PayPal környezetet. Létrehozása és kezelése teszt számlákat, és tekintse meg "
-"e-maileket és API hitelesítő e vizsgálat számlák."
+"The PayPal Sandbox is a testing environment that is a duplicate of the live "
+"PayPal site, except that no real money changes hands. The Sandbox allows you "
+"to test your entire integration before submitting transactions to the live "
+"PayPal environment. Create and manage test accounts, and view emails and API "
+"credentials for those test accounts."
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:293
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:135
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:335
 msgid "PayPal Image URL (logo for payment page)"
-msgstr "PayPal Kép URL (logo fizetési oldal)"
+msgstr "PayPal Image URL (logo for payment page)"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:296
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:138
@@ -22124,8 +22115,8 @@ msgid ""
 "The URL of the 150x50-pixel image displayed as your logo in the upper left "
 "corner of the PayPal checkout pages."
 msgstr ""
-"Az URL a 150x50 pixeles kép jelenik meg a logót a bal felső sarokban a "
-"PayPal fizetési oldalakon."
+"The URL of the 150x50-pixel image displayed as your logo in the upper left "
+"corner of the PayPal checkout pages."
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:299
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:141
@@ -22134,13 +22125,13 @@ msgid ""
 "Default - Your business name, if you have a Business account, or your email "
 "address, if you have Premier or Personal account."
 msgstr ""
-"Alapértelmezett - A vállalkozás neve, ha Business előfizetéssel rendelkezik, "
-"illetve az email címe, ha Premier vagy Personal előfizetéssel rendelkezik."
+"Default - Your business name, if you have a Business account, or your email "
+"address, if you have Premier or Personal account."
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:304
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:82
 msgid "PayPal Currency"
-msgstr "PayPal Pénznem"
+msgstr "PayPal Currency"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:307
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:85
@@ -22151,16 +22142,16 @@ msgid ""
 "you wish to use. The dropdown lists all currencies that PayPal (currently) "
 "supports."
 msgstr ""
-"PayPal használat 3 karakteres ISO-4217 kódok megadására devizák mezőket és "
-"változókat. </ P> <p> Az alapértelmezett pénznem kódja amerikai dollár "
-"(USD). Ha szeretné megkövetelni, vagy fogad el fizetést más pénznemben, "
-"válassza ki a kívánt pénznemet használni. A legördülő listák minden "
-"devizanemben, hogy a PayPal (jelenleg) támogatja."
+"PayPal uses 3-character ISO-4217 codes for specifying currencies in fields "
+"and variables. </p><p>The default currency code is US Dollars (USD). If you "
+"want to require or accept payments in other currencies, select the currency "
+"you wish to use. The dropdown lists all currencies that PayPal (currently) "
+"supports."
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:312
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:90
 msgid "Payment Surcharge"
-msgstr "Fizetési Felár"
+msgstr "Payment Surcharge"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:315
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:93
@@ -22172,16 +22163,17 @@ msgid ""
 "However, you will have the ability to change this value during the event "
 "creation."
 msgstr ""
-"Kérjük, adjon meg egy decimális szám jelzi a százalékos felár ellenében. "
-"Például, ha beírja 3,00, 3%-ot hozzá kell adni a végső árat a rendezvény "
-"ideje alatt a pénztár. Ha az esemény ára kezdetben 100 $, az ár a pótdíj "
-"lesz 103 $. <br /> Ez a felár vonatkozik minden új eseményeket. Azonban, "
-"akkor az képes megváltoztatni ezt az értéket, az esemény során létrehozását."
+"Please enter a decimal number indicating a percent surcharge. For example, "
+"if you enter 3.00, 3% will be added to the final price of the event during "
+"the checkout. If the event price is initially $100, the price with the "
+"surcharge will be $103.<br /> This surcharge will apply to all new events.  "
+"However, you will have the ability to change this value during the event "
+"creation."
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:320
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:98
 msgid "Shipping Address"
-msgstr "Szállítási cím"
+msgstr "Delivery Address"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:323
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:101
@@ -22191,23 +22183,22 @@ msgid ""
 "invoices, etc) then use this option. Otherwise it should not be used, as it "
 "will require a shipping address when someone registers for an event."
 msgstr ""
-"Alapértelmezésben PayPal megjeleníti szállítási cím információt a PayPal "
-"fizetési képernyőn. Ha azt tervezi, hogy a hajózás tételek a regisztráló "
-"(ingek, számlák, stb), akkor használja ezt a lehetőséget. Ellenkező esetben "
-"nem szabad használni, mivel ez szükséges a szállítási címet, ha valaki "
-"regisztrál egy esemény."
+"By default, PayPal will display delivery address information on the PayPal "
+"payment screen. If you plan on delivering items to a registrant (shirts, "
+"invoices, etc) then use this option. Otherwise it should not be used, as it "
+"will require a delivery address when someone registers for an event."
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:791
 msgid "PayPal Sandbox Mode"
-msgstr "PayPal Sandbox mód"
+msgstr "PayPal Sandbox Mode"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:792
 msgid "Debug Mode Is Turned On. Payments will not be processed"
-msgstr ""
+msgstr "Debug Mode Is Turned On. Payments will not be processed"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:795
 msgid "Testing Guidelines"
-msgstr ""
+msgstr "Testing Guidelines"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:798
 msgid ""
@@ -22221,64 +22212,66 @@ msgstr ""
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:804
 msgid "Credit Card Numbers Used for Testing"
-msgstr ""
+msgstr "Credit Card Numbers Used for Testing"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:805
 msgid ""
 "Use the following credit card numbers for testing. Any other card number "
 "produces a general failure."
 msgstr ""
+"Use the following credit card numbers for testing. Any other card number "
+"produces a general failure."
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:812
 msgid "Test Card Type"
-msgstr ""
+msgstr "Test Card Type"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:813
 msgid "Test Card Numbers"
-msgstr ""
+msgstr "Test Card Numbers"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:826
 msgid "Testing Result Code Responses"
-msgstr ""
+msgstr "Testing Result Code Responses"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:835
 msgid "Response"
-msgstr ""
+msgstr "Response"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:845
 msgid "Invalid amount"
-msgstr ""
+msgstr "Invalid amount"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:849
 msgid "Invalid transaction type"
-msgstr ""
+msgstr "Invalid transaction type"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:853
 msgid "Field format error"
-msgstr ""
+msgstr "Field format error"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:857
 msgid "Invalid expiry date"
-msgstr ""
+msgstr "Invalid expiry date"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:861
 msgid "CVV2 Mismatch"
-msgstr ""
+msgstr "CVV2 Mismatch"
 
 #: ../core/db_models/EEM_Promotion.model.php:67
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:865
 msgid "Declined"
-msgstr ""
+msgstr "Declined"
 
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:869
 #: ../modules/gateways/Paypal_Pro/EE_Paypal_Pro.class.php:873
 msgid "Invalid account number"
-msgstr ""
+msgstr "Invalid account number"
 
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:116
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:316
 msgid "Helpful Links"
-msgstr "Hasznos linkek"
+msgstr ""
 
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:118
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:318
@@ -22288,12 +22281,12 @@ msgstr ""
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:119
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:319
 msgid "Sandbox Tutorial"
-msgstr ""
+msgstr "Sandbox Tutorial"
 
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:120
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:320
 msgid "Getting Started with PayPal Sandbox"
-msgstr ""
+msgstr "Getting Started with PayPal Sandbox"
 
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:128
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:328
@@ -22302,14 +22295,14 @@ msgid ""
 "choose your image or upload a new one, and just copy the \"file url\" here "
 "(optional.)"
 msgstr ""
-"Az alapértelmezett fizetési gomb áll rendelkezésre. Egy egyéni fizetési gomb "
-"lehet használni, válassza ki a képet, vagy feltölteni egy újat, és csak "
-"másolja a  \"fájl url \" here (Adott esetben)"
+"A default payment button is provided. A custom payment button may be used, "
+"choose your image or upload a new one, and just copy the \"file url\" here "
+"(optional.)"
 
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:130
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:330
 msgid "Current Button Image"
-msgstr "Aktuális Gomb képe"
+msgstr "Current Button Image"
 
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:154
 msgid "Please Note"
@@ -22317,23 +22310,23 @@ msgstr ""
 
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:168
 msgid "Typically payment@yourdomain.com"
-msgstr "Jellemzően payment@yourdomain.com"
+msgstr ""
 
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:257
 msgid "Image URL"
-msgstr "Kép URL"
+msgstr "Image URL"
 
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:268
 msgid "Used for your business/personal logo on the PayPal page"
-msgstr "Használják fel az üzleti / személyes logót a PayPal oldalon"
+msgstr ""
 
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:275
 msgid "Use the Debugging Feature and the PayPal Sandbox"
-msgstr "A hibakeresés funkció és a PayPal Sandbox"
+msgstr "Use the Debugging Feature and the PayPal Sandbox"
 
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:284
 msgid "Shipping Address Options"
-msgstr "Szállítási cím opciók"
+msgstr "Delivery Address Options"
 
 #: ../modules/gateways/Paypal_Standard/EE_Paypal_Standard.class.php:494
 msgid "You have selected \"PayPal\" as your method of payment"
@@ -22347,11 +22340,11 @@ msgstr ""
 
 #: ../modules/single_page_checkout/templates/confirmation_page.template.php:5
 msgid "Event #"
-msgstr "Események "
+msgstr "Event #"
 
 #: ../modules/single_page_checkout/templates/confirmation_page.template.php:24
 msgid "Billing Details"
-msgstr "Számlázási adatok"
+msgstr "Billing Details"
 
 #: ../modules/single_page_checkout/templates/registration_page_attendee_information.template.php:98
 msgid ""
@@ -22377,23 +22370,23 @@ msgstr ""
 
 #: ../modules/single_page_checkout/templates/registration_page_payment_options.template.php:34
 msgid "Important Notice:"
-msgstr "Fontos megjegyzés:"
+msgstr "Important Notice:"
 
 #: ../modules/single_page_checkout/templates/registration_page_payment_options.template.php:38
 msgid "Events Requiring Pre-Approval:"
-msgstr "Igénylő események Pre-Jóváhagyás:"
+msgstr "Events Requiring Pre-Approval:"
 
 #: ../modules/single_page_checkout/templates/registration_page_payment_options.template.php:50
 msgid "Discount Codes"
-msgstr "Kedvezmény kódok"
+msgstr "Discount Codes"
 
 #: ../modules/single_page_checkout/templates/registration_page_payment_options.template.php:53
 msgid "Enter discount code"
-msgstr "Adja meg a diszkont kódot"
+msgstr "Enter discount code"
 
 #: ../modules/single_page_checkout/templates/registration_page_payment_options.template.php:56
 msgid "apply&nbsp;coupon&nbsp;"
-msgstr "alkalmazni kupon"
+msgstr "apply&nbsp;coupon&nbsp;"
 
 #: ../modules/single_page_checkout/templates/registration_page_payment_options.template.php:61
 msgid ""
@@ -22401,33 +22394,33 @@ msgid ""
 "field and then click apply coupon. Additional coupon codes can be entered "
 "one at a time."
 msgstr ""
-"Adjon meg bármilyen kupon kódok (beleértve Groupons), akkor a fenti mezőbe, "
-"majd kattintson az Alkalmaz gombra kupon. További kupon kódok adható "
-"egyesével."
+"Enter any coupon codes (including Groupons) you have into the above text "
+"field and then click apply coupon. Additional coupon codes can be entered "
+"one at a time."
 
 #: ../modules/single_page_checkout/templates/registration_page_payment_options.template.php:70
 msgid "Discounts:"
-msgstr "kedvezményeket szerezned."
+msgstr "Discounts:"
 
 #: ../modules/single_page_checkout/templates/registration_page_payment_options.template.php:74
 msgid "Billable Registrations:"
-msgstr "Számlázható regisztrációk:"
+msgstr "Billable Registrations:"
 
 #: ../modules/single_page_checkout/templates/registration_page_payment_options.template.php:104
 msgid "Please select your method of payment:"
-msgstr "Kérjük, válassza ki a fizetési módot:"
+msgstr ""
 
 #: ../modules/single_page_checkout/templates/registration_page_payment_options.template.php:106
 msgid "select a different method of payment:"
-msgstr ""
+msgstr "select a different method of payment:"
 
 #: ../modules/single_page_checkout/templates/registration_page_payment_options.template.php:113
 msgid "This is a free event, so no billing will occur."
-msgstr "Ez egy ingyenes rendezvény, így nem számlázási fog bekövetkezni."
+msgstr "This is a free event, so no billing will occur."
 
 #: ../modules/single_page_checkout/templates/registration_page_wrapper.template.php:6
 msgid " Steps"
-msgstr " Lépései"
+msgstr " Steps"
 
 #: ../modules/single_page_checkout/templates/registration_page_wrapper.template.php:37
 msgid "Nothing in your Event Queue"
@@ -22508,15 +22501,15 @@ msgstr ""
 
 #: ../shortcodes/espresso_thank_you/templates/payment_overview.template.php:144
 msgid "Payment Overview"
-msgstr "Fizetés áttekintése"
+msgstr "Payment Overview"
 
 #: ../shortcodes/espresso_thank_you/templates/payment_overview.template.php:166
 msgid "Payment Type:"
-msgstr "Fizetés módja:"
+msgstr ""
 
 #: ../shortcodes/espresso_thank_you/templates/payment_overview.template.php:174
 msgid "Payment Date:"
-msgstr "Fizetés időpontja:"
+msgstr ""
 
 #: ../shortcodes/espresso_thank_you/templates/payment_overview.template.php:182
 msgid "Payment Amount: "
@@ -22555,7 +22548,7 @@ msgstr ""
 
 #: ../shortcodes/espresso_thank_you/templates/payment_overview.template.php:122
 msgid "Primary Registrant:"
-msgstr "Elsődleges regisztrált:"
+msgstr ""
 
 #: ../shortcodes/espresso_thank_you/templates/payment_overview.template.php:138
 msgid "Click here to view Payment Options"
@@ -22563,11 +22556,11 @@ msgstr ""
 
 #: ../shortcodes/espresso_thank_you/templates/payment_overview.template.php:34
 msgid "Registration  Details:"
-msgstr "Regisztráció Részletek:"
+msgstr ""
 
 #: ../admin_pages/registrations/Registrations_Admin_Page.core.php:915
 msgid "Registration Status"
-msgstr "Regisztráció Status"
+msgstr "Registration Status"
 
 #: ../shortcodes/espresso_thank_you/templates/payment_overview.template.php:82
 msgid "Click here to edit Attendee Information"
@@ -22575,7 +22568,7 @@ msgstr ""
 
 #: ../templates/attendee_list.php:61
 msgid "Attendee Listing For: "
-msgstr "A résztvevők listája ettől:"
+msgstr ""
 
 #: ../templates/maintenance_mode.template.php:23
 msgid "Maintenance Mode"
@@ -22597,16 +22590,16 @@ msgstr[1] ""
 
 #: ../templates/Espresso_Arabica_2014/content-espresso_events-venues.php:25
 msgid "Description:"
-msgstr "Leírás:"
+msgstr "Description:"
 
 #: ../templates/Espresso_Arabica_2014/content-espresso_venues-location.php:8
 msgid "Location"
-msgstr "Helyszín"
+msgstr ""
 
 #: ../widgets/upcoming_events/EEW_Upcoming_Events.widget.php:87
 #: ../widgets/upcoming_events/EEW_Upcoming_Events.widget.php:97
 msgid "Event Category:"
-msgstr "Esemény kategória:"
+msgstr ""
 
 #: ../widgets/upcoming_events/EEW_Upcoming_Events.widget.php:107
 msgid "Number of Events to Display:"
