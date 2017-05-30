@@ -1,8 +1,8 @@
-# Translation of Event Espresso 4 in Malay
+# Translation of Event Espresso 4 in Korean
 # This file is distributed under the same license as the Event Espresso 4 package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-05-30 21:41:49+0000\n"
+"PO-Revision-Date: 2017-05-30 21:41:32+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18303,7 +18303,7 @@ msgstr ""
 
 #: event-espresso-core/caffeinated/admin/extend/registration_form/Extend_Registration_Form_Questions_Admin_List_Table.class.php:83
 msgid "Trash Question"
-msgstr ""
+msgstr "질문 삭제"
 
 #: event-espresso-core/admin_pages/venues/help_tabs/venues_editor_other.help_tab.php:10
 msgid "An excerpt can be thought of as a short description for your venue."
@@ -18323,7 +18323,7 @@ msgstr ""
 
 #: event-espresso-core/caffeinated/admin/extend/registration_form/Extend_Registration_Form_Questions_Admin_List_Table.class.php:88
 msgid "Restore Question"
-msgstr ""
+msgstr "질문 복구"
 
 #: event-espresso-core/admin_pages/venues/help_tabs/venues_editor_other.help_tab.php:12
 msgid "Venue Custom Fields"
@@ -18347,7 +18347,7 @@ msgstr ""
 
 #: event-espresso-core/caffeinated/admin/extend/registration_form/Extend_Registration_Form_Questions_Admin_List_Table.class.php:91
 msgid "Delete Question Permanently"
-msgstr ""
+msgstr "질문을 영구적으로 삭제"
 
 #: event-espresso-core/admin_pages/venues/help_tabs/venues_editor_other.help_tab.php:14
 msgid "Setup custom fields for your venue."
@@ -18396,7 +18396,7 @@ msgstr ""
 
 #: event-espresso-core/caffeinated/admin/extend/registration_form/help_tours/Registration_Form_Questions_Overview_Help_Tour.class.php:146
 msgid "Perform bulk actions to multiple questions."
-msgstr ""
+msgstr "복수의 질문에 일괄 작업을 수행합니다."
 
 #: event-espresso-core/admin_pages/venues/help_tabs/venues_editor_other.help_tab.php:20
 msgid "Venue Slug"
@@ -18622,7 +18622,7 @@ msgstr ""
 
 #: event-espresso-core/caffeinated/admin/extend/registrations/EE_Registration_CheckIn_List_Table.class.php:49
 msgid "check-ins"
-msgstr ""
+msgstr "체크-인"
 
 #: event-espresso-core/core/data_migration_scripts/4_1_0_stages/EE_DMS_4_1_0_answers.dmsstage.php:51
 msgid "Could not find new registrations for old attendee %d when creating answer %s"
@@ -18672,7 +18672,7 @@ msgstr ""
 
 #: event-espresso-core/caffeinated/admin/extend/registrations/EE_Registration_CheckIn_List_Table.class.php:101
 msgid "Click here to delete this check-in record"
-msgstr ""
+msgstr "체크-인 레코드를 삭제하려면 여기를 클릭"
 
 #: event-espresso-core/admin_pages/venues/help_tabs/venues_editor_save_new_venue.help_tab.php:25
 msgid "Enter the URL (website address) for this venue. This field is optional."
@@ -18688,7 +18688,7 @@ msgstr ""
 
 #: event-espresso-core/caffeinated/admin/extend/registrations/EE_Registration_CheckIn_List_Table.class.php:129
 msgid "This route cannot be viewed unless registration and datetime IDs are included in the request (via REG_ID and DTT_ID parameters)"
-msgstr ""
+msgstr "이 루트는 등록 및 일시 ID(REG_ID 및 DTT_ID 파라미터)가 요청에 포함되지 않으면 표시되지 않습니다."
 
 #: event-espresso-core/core/data_migration_scripts/4_1_0_stages/EE_DMS_4_1_0_attendees.dmsstage.php:585
 msgid "Could not update datetimes related to ticket with ID %d's TKT_sold by %d because %s"
@@ -20099,7 +20099,7 @@ msgstr ""
 #: event-espresso-core/caffeinated/admin/new/pricing/help_tabs/pricing_default_pricing_table_column_headings.help_tab.php:33
 #: event-espresso-core/caffeinated/brewing_regular.php:110
 msgid "Regional Tax"
-msgstr ""
+msgstr "지방세"
 
 #: event-espresso-core/core/db_classes/EE_Import.class.php:323
 msgid "%s existing records in the database were updated."
@@ -20116,7 +20116,7 @@ msgstr ""
 #: event-espresso-core/caffeinated/admin/new/pricing/help_tabs/pricing_default_pricing_table_column_headings.help_tab.php:37
 #: event-espresso-core/caffeinated/brewing_regular.php:130
 msgid "Federal Tax"
-msgstr ""
+msgstr "연방세"
 
 #: event-espresso-core/core/db_classes/EE_Import.class.php:327
 msgid "%s new records were added to the database."
@@ -20136,7 +20136,7 @@ msgstr ""
 
 #: event-espresso-core/caffeinated/brewing_regular.php:152
 msgid "Sales Tax"
-msgstr ""
+msgstr "거래세"
 
 #: event-espresso-core/core/db_classes/EE_Import.class.php:332
 msgid "'One or more errors occurred, and a total of %s existing records in the database were <strong>not</strong> updated.'"
@@ -20154,7 +20154,7 @@ msgstr ""
 #: event-espresso-core/admin_pages/general_settings/templates/espresso_page_settings.template.php:182
 #: event-espresso-core/caffeinated/brewing_regular.php:254
 msgid "Venue List"
-msgstr ""
+msgstr "장소 리스트"
 
 #: event-espresso-core/core/db_classes/EE_Import.class.php:336
 msgid "One or more errors occurred, and a total of %s new records were <strong>not</strong> added to the database.'"
@@ -20170,7 +20170,7 @@ msgstr ""
 
 #: event-espresso-core/caffeinated/brewing_regular.php:256
 msgid "Archive page for all venues."
-msgstr ""
+msgstr "모든 장소에 대한 아카이브 페이지"
 
 #: event-espresso-core/core/db_classes/EE_CSV.class.php:362
 #: event-espresso-core/core/helpers/EEH_Export.helper.php:63
@@ -20346,7 +20346,7 @@ msgstr ""
 #: event-espresso-core/admin_pages/registration_form/help_tabs/registration_form_edit_question.help_tab.php:16
 #: event-espresso-core/core/db_models/EEM_Question.model.php:180
 msgid "Question Label (admin-only)"
-msgstr ""
+msgstr "질문 라벨(관리자 전용)"
 
 #: event-espresso-core/caffeinated/admin/new/pricing/help_tabs/pricing_add_new_price_type.help_tab.php:13
 #: event-espresso-core/caffeinated/admin/new/pricing/help_tabs/pricing_edit_price_type.help_tab.php:13
@@ -20376,7 +20376,7 @@ msgstr ""
 
 #: event-espresso-core/core/db_models/EEM_Question.model.php:183
 msgid "Required Question?"
-msgstr ""
+msgstr "필수 질문?"
 
 #: event-espresso-core/core/libraries/shortcodes/EE_Email_Shortcodes.lib.php:49
 msgid "This will parse to the email address only for the organization set in Your Organization Settings."
@@ -20410,7 +20410,7 @@ msgstr ""
 #: event-espresso-core/admin_pages/registration_form/help_tabs/registration_form_edit_question.help_tab.php:25
 #: event-espresso-core/core/db_models/EEM_Question.model.php:186
 msgid "Admin-Only Question?"
-msgstr ""
+msgstr "관리자 전용 질문?"
 
 #: event-espresso-core/core/libraries/shortcodes/EE_Event_Author_Shortcodes.lib.php:40
 msgid "Event Author Details Shortcodes"
@@ -20464,7 +20464,7 @@ msgstr ""
 #: event-espresso-core/core/db_models/EEM_Question_Group.model.php:42
 #: event-espresso-core/core/db_models/EEM_Question_Group_Question.model.php:46
 msgid "Question Group ID"
-msgstr ""
+msgstr "질문 그룹 ID"
 
 #: event-espresso-core/core/libraries/shortcodes/EE_Event_Author_Shortcodes.lib.php:44
 msgid "Parses to the last name of the event author."
@@ -20567,7 +20567,7 @@ msgstr ""
 
 #: event-espresso-core/core/db_classes/EE_Import.class.php:219
 msgid "%s was not successfully uploaded"
-msgstr ""
+msgstr "%s가 성공적으로 업로드 되지 않음"
 
 #: event-espresso-core/core/db_models/EEM_Question_Group.model.php:50
 msgid "Indicate IF this is a system group and if it is what system group it corresponds to."
@@ -21748,7 +21748,7 @@ msgstr ""
 
 #: event-espresso-core/caffeinated/admin/new/pricing/templates/event_tickets_datetime_ticket_row.template.php:59
 msgid "Total Final Price: %s"
-msgstr ""
+msgstr "최종 전체 가격: %s"
 
 #: event-espresso-core/core/EE_Module_Request_Router.core.php:144
 msgid "The %s  route has not been properly registered."
@@ -22021,7 +22021,7 @@ msgstr ""
 #: event-espresso-core/modules/events_archive_filters/EED_Events_Archive_Filters.module.php:951
 #: event-espresso-core/public/Espresso_Arabica_2014/functions.php:34
 msgid "&lsaquo; PREV"
-msgstr ""
+msgstr "&lsaquo; 이전"
 
 #: event-espresso-core/admin_pages/venues/Venues_Admin_Page.core.php:279
 #: event-espresso-core/admin_pages/venues/Venues_Admin_Page.core.php:316
@@ -22040,7 +22040,7 @@ msgstr ""
 #: event-espresso-core/modules/events_archive_filters/EED_Events_Archive_Filters.module.php:952
 #: event-espresso-core/public/Espresso_Arabica_2014/functions.php:35
 msgid "NEXT &rsaquo;"
-msgstr ""
+msgstr "다음 &rsaquo;"
 
 #: event-espresso-core/admin_pages/venues/Venues_Admin_Page.core.php:283
 #: event-espresso-core/admin_pages/venues/Venues_Admin_Page.core.php:320
@@ -22194,7 +22194,7 @@ msgstr ""
 
 #: event-espresso-core/modules/feeds/templates/espresso_events_feed.template.php:13
 msgid "Event Organizer: "
-msgstr ""
+msgstr "이벤트 운영자:"
 
 #: event-espresso-core/admin_pages/venues/Venues_Admin_Page.core.php:412
 msgid "Venue Categories Other"
@@ -22202,7 +22202,7 @@ msgstr ""
 
 #: event-espresso-core/core/admin/EE_Admin.core.php:394
 msgid "Archive page for all events."
-msgstr ""
+msgstr "전체 이벤트의 아카이브 페이지"
 
 #: event-espresso-core/core/db_models/EEM_Country.model.php:61
 #: event-espresso-core/core/db_models/EEM_Currency.model.php:41
@@ -22216,11 +22216,11 @@ msgstr ""
 #: event-espresso-core/modules/feeds/templates/espresso_events_feed.template.php:14
 #: event-espresso-core/modules/feeds/templates/espresso_venues_feed.template.php:14
 msgid "Organizer Email: "
-msgstr ""
+msgstr "운영자 이메일:"
 
 #: event-espresso-core/core/admin/EE_Admin.core.php:418
 msgid "Extra Nav Menu Item"
-msgstr ""
+msgstr "추가 네비게이션 메뉴 아이템"
 
 #: event-espresso-core/core/db_models/EEM_Country.model.php:62
 #: event-espresso-core/core/db_models/EEM_Currency.model.php:42
@@ -22233,7 +22233,7 @@ msgstr ""
 
 #: event-espresso-core/modules/feeds/templates/espresso_events_feed.template.php:15
 msgid "Event Phone: "
-msgstr ""
+msgstr "이벤트 전화:"
 
 #: event-espresso-core/admin_pages/venues/Venues_Admin_Page.core.php:509
 #: event-espresso-core/admin_pages/venues/help_tabs/venues_overview_views_bulk_actions_search.help_tab.php:12
@@ -22280,7 +22280,7 @@ msgstr ""
 
 #: event-espresso-core/modules/feeds/templates/espresso_events_feed.template.php:18
 msgid "Dates and Times: "
-msgstr ""
+msgstr "날짜 및 시간:"
 
 #: event-espresso-core/admin_pages/venues/Venues_Admin_Page.core.php:851
 msgid "Venue Details did not save successfully."
@@ -22560,7 +22560,7 @@ msgstr ""
 #: event-espresso-core/caffeinated/admin/extend/events/Tickets_List_Table.class.php:114
 #: event-espresso-core/caffeinated/admin/new/tickets/Tickets_List_Table.class.php:115
 msgid "Restore Ticket"
-msgstr ""
+msgstr "티켓 복구"
 
 #: event-espresso-core/core/admin/EE_Admin_Page.core.php:1126
 msgid "The file path given for the help tour (%s) is not a valid path.  Please check that the string you set for the help tour on this route (%s) is the correct spelling"

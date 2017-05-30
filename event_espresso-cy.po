@@ -1,12 +1,12 @@
-# Translation of Event Espresso 4 in Malay
+# Translation of Event Espresso 4 in Welsh
 # This file is distributed under the same license as the Event Espresso 4 package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-05-30 21:41:49+0000\n"
+"PO-Revision-Date: 2017-05-30 21:41:33+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3;\n"
 "X-Generator: GlotPress/0.1\n"
 "Project-Id-Version: Event Espresso 4\n"
 
@@ -519,11 +519,17 @@ msgstr ""
 msgid "%1$sSend notifications %4$s day before the datetime.%2$s%1$s%5$s%2$s"
 msgid_plural "%1$sSend notifications %4$s days before the datetime.%2$s%1$s%5$s%2$s"
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: eea-automated-upcoming-event-notifications/core/messages/admin/SchedulingMetaboxFormHandler.php:189
 msgid "%1$sSend notifications %4$s day before the event.%2$s%1$s%5$s%2$s"
 msgid_plural "%1$sSend notifications %4$s days before the event.%2$s%1$s%5$s%2$s"
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: eea-automated-upcoming-event-notifications/core/messages/shortcodes/EE_Specific_Datetime_Shortcodes.lib.php:8
 msgid "Specific Datetime Shortcodes"
@@ -1564,11 +1570,17 @@ msgstr ""
 msgid "We're sorry, but there is only %1$s available space left for this event at this particular date and time. Please select a different number (or different combination) of tickets by cancelling the current selection and choosing again, or proceed to registration."
 msgid_plural "We're sorry, but there are only %1$s available spaces left for this event at this particular date and time. Please select a different number (or different combination) of tickets by cancelling the current selection and choosing again, or proceed to registration."
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: event-espresso-core/modules/ticket_selector/ProcessTicketSelector.php:474
 msgid "We're sorry, but there is only %1$s available space left for this event at this particular date and time. Please select a different number (or different combination) of tickets."
 msgid_plural "We're sorry, but there are only %1$s available spaces left for this event at this particular date and time. Please select a different number (or different combination) of tickets."
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: event-espresso-core/payment_methods/Paypal_Express/EE_PMT_Paypal_Express.pm.php:79
 msgid "Request Shipping Address %s"
@@ -1972,6 +1984,9 @@ msgstr ""
 msgid "The following task needs to be performed:"
 msgid_plural "The following %s tasks need to be performed:"
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: event-espresso-core/admin_pages/maintenance/templates/ee_migration_page.template.php:141
 msgid "Please note: after each task is completed you will need to continue the Database Update, or report an error to Event Espresso."
@@ -2279,6 +2294,9 @@ msgstr ""
 msgid "(%1$s Cancellation)"
 msgid_plural "(%1$s Cancellations)"
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: event-espresso-core/core/libraries/line_item_display/EE_Default_Line_Item_Display_Strategy.strategy.php:155
 #: event-espresso-core/modules/ticket_selector/templates/standard_ticket_selector.template.php:84
@@ -2415,21 +2433,33 @@ msgstr ""
 msgid "You have attempted to purchase %d ticket."
 msgid_plural "You have attempted to purchase %d tickets."
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: eea-multi-event-registration/EED_Multi_Event_Registration.module.php:1186
 msgid "There is only %1$d ticket remaining for this event, therefore the total number of tickets you may purchase is %1$d."
 msgid_plural "There are only %1$d tickets remaining for this event, therefore the total number of tickets you may purchase is %1$d."
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: eea-multi-event-registration/EED_Multi_Event_Registration.module.php:1203
 msgid "You have attempted to purchase %1$d ticket but that would result in too many tickets in the %2$s for this event."
 msgid_plural "You have attempted to purchase %1$d tickets but that would result in too many tickets in the %2$s for this event."
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: eea-multi-event-registration/EED_Multi_Event_Registration.module.php:1211
 msgid "The registration limit for this event is %1$d ticket per transaction, therefore the total number of tickets you may purchase at any time can not exceed %1$d."
 msgid_plural "The registration limit for this event is %1$d tickets per transaction, therefore the total number of tickets you may purchase at any time can not exceed %1$d."
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: eea-multi-event-registration/templates/event_cart.template.php:33
 msgid "Empty %s"
@@ -4253,11 +4283,17 @@ msgstr ""
 msgid "%d message successfully queued for resending."
 msgid_plural "%d messages successfully queued for resending."
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: event-espresso-core/modules/messages/EED_Messages.module.php:1022
 msgid "%d message successfully sent."
 msgid_plural "%d messages successfully sent."
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: event-espresso-core/modules/messages/EED_Messages.module.php:1033
 #: event-espresso-core/modules/messages/EED_Messages.module.php:1040
@@ -4268,11 +4304,17 @@ msgstr ""
 msgid "You have attempted to purchase %s ticket."
 msgid_plural "You have attempted to purchase %s tickets."
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: event-espresso-core/modules/ticket_selector/ProcessTicketSelector.php:161
 msgid "The registration limit for this event is %s ticket per registration, therefore the total number of tickets you may purchase at a time can not exceed %s."
 msgid_plural "The registration limit for this event is %s tickets per registration, therefore the total number of tickets you may purchase at a time can not exceed %s."
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: event-espresso-core/payment_methods/Paypal_Standard/EEG_Paypal_Standard.gateway.php:227
 msgid "PayPal payment request initiated."
@@ -4429,11 +4471,17 @@ msgstr ""
 msgid "There was %d message queued for resending."
 msgid_plural "There were %d messages queued for resending."
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: event-espresso-core/modules/messages/EED_Messages.module.php:699
 msgid "The payment notification generation failed."
 msgid_plural "%d payment notifications failed being sent."
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: event-espresso-core/modules/messages/EED_Messages.module.php:909
 msgid "The messages were not generated. This could mean there is already a batch being generated on a separate request, or because the selected messages are not ready for generation. Please wait a minute or two and try again."
@@ -4447,6 +4495,9 @@ msgstr ""
 msgid "There was %d message successfully sent."
 msgid_plural "There were %d messages successfully sent."
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: event-espresso-core/caffeinated/payment_methods/Aim/EE_PMT_Aim.pm.php:197
 msgid "Authorize.net/Akamai (default)"
@@ -4899,6 +4950,9 @@ msgstr ""
 msgid "Showing Aggregate output for 1 result"
 msgid_plural "Showing Aggregate output for %d items"
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: event-espresso-core/core/libraries/messages/EE_Message_Type_Collection_Loader.lib.php:92
 msgid "The \"%1$s\" message type class can't be loaded from %2$s. Likely there is a typo in the class name or the file name."
@@ -5003,11 +5057,17 @@ msgstr ""
 msgid "message"
 msgid_plural "messages"
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: event-espresso-core/admin_pages/messages/Messages_Admin_Page.core.php:3796
 msgid "The message was not deleted."
 msgid_plural "The messages were not deleted"
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: event-espresso-core/admin_pages/messages/Messages_Admin_Page.core.php:219
 msgid "Show All Messengers"
@@ -6709,7 +6769,7 @@ msgstr ""
 #: event-espresso-core/core/helpers/EEH_Line_Item.helper.php:263
 msgctxt "(For Event Name)"
 msgid "(For %1$s)"
-msgstr ""
+msgstr "(Ar gyfer %1$s)"
 
 #: event-espresso-core/core/libraries/form_sections/inputs/EE_CVV_Input.input.php:40
 msgctxt "CVV (What's this?)"
@@ -7066,11 +7126,17 @@ msgstr ""
 msgid "1 item was successfully added for this event."
 msgid_plural "%1$s items were successfully added for this event."
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: eea-multi-event-registration/EED_Multi_Event_Registration.module.php:800
 msgid "There is currently 1 item in the %2$s."
 msgid_plural "There are currently %1$d items in the %2$s."
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: eea-multi-event-registration/EED_Multi_Event_Registration.module.php:1338
 msgid "%1$s item was successfully %2$s for this event."
@@ -7141,7 +7207,7 @@ msgstr ""
 #: event-espresso-core/modules/single_page_checkout/reg_steps/attendee_information/attendee_info_main.template.php:35
 #: event-espresso-core/modules/single_page_checkout/reg_steps/payment_options/payment_options_main.template.php:18
 msgid "Name and Description"
-msgstr ""
+msgstr "Enw a Disgrifiad"
 
 #: event-espresso-core/modules/ticket_selector/templates/ticket_details.template.php:36
 msgid "Sale Dates"
@@ -8004,6 +8070,9 @@ msgstr ""
 msgid "1 Event"
 msgid_plural "%d Events"
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: eea-multi-event-registration/templates/widget_minicart_list.template.php:33
 #: eea-multi-event-registration/templates/widget_minicart_table.template.php:48
@@ -9731,11 +9800,17 @@ msgstr ""
 msgid "Payment cancelled. Please try again."
 msgid_plural "Payment cancelled. Please try again or select another method of payment."
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: event-espresso-core/modules/single_page_checkout/reg_steps/payment_options/EE_SPCO_Reg_Step_Payment_Options.class.php:2340
 msgid "We're sorry but your payment was declined. Please try again."
 msgid_plural "We're sorry but your payment was declined. Please try again or select another method of payment."
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: event-espresso-core/caffeinated/core/libraries/messages/message_type/payment_cancelled/EE_Payment_Cancelled_message_type.class.php:24
 msgid "This message type is used for all cancelled payment notification messages that go out including any manual payments entered by an event administrator."
@@ -10642,11 +10717,17 @@ msgstr ""
 msgid "1 promotion was successfully trashed"
 msgid_plural "%s promotions were successfully trashed"
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: eea-promotions/admin/promotions/Promotions_Admin_Page.core.php:782
 msgid "1 promotion was successfully restored"
 msgid_plural "%s promotions were successfully restored"
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: eea-promotions/admin/promotions/Promotions_Admin_Page.core.php:807
 msgid "Unable to delete permanently the promotion because no promotion id is accessible."
@@ -10676,6 +10757,9 @@ msgstr ""
 msgid "1 promotion was successfully deleted."
 msgid_plural "%s promotions were successfully deleted."
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: eea-promotions/admin/promotions/Promotions_Admin_Page.core.php:941
 msgid "Ribbon Banner"
@@ -11614,7 +11698,7 @@ msgstr ""
 
 #: eea-grid-template/templates/espresso-grid-template.template.php:21
 msgid "Register Now!"
-msgstr ""
+msgstr "Cofrestrwch nawr!"
 
 #: eea-people-addon/admin/people/People_Admin_Page.core.php:686
 msgid "Notes on the Person"
@@ -11645,6 +11729,9 @@ msgstr ""
 msgid "1 Person successfully deleted."
 msgid_plural "%s People successfully deleted."
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: eea-ideal-mollie-gateway/payment_methods/Ideal_Mollie/EEG_Ideal_Mollie.gateway.php:143
 msgid "Could not find iDeal payment for transaction %s"
@@ -11654,6 +11741,9 @@ msgstr ""
 msgid "1 Person not deleted."
 msgid_plural "%d People not deleted"
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: eea-ideal-mollie-gateway/payment_methods/Ideal_Mollie/EE_PMT_Ideal_Mollie.pm.php:28
 msgid "iDeal/Mollie"
@@ -12842,7 +12932,7 @@ msgstr ""
 
 #: event-espresso-core/modules/single_page_checkout/reg_steps/attendee_information/EE_SPCO_Reg_Step_Attendee_Information.class.php:46
 msgid "Attendee Information"
-msgstr ""
+msgstr "Gwybodaeth am fynychwr"
 
 #: event-espresso-core/core/libraries/messages/defaults/EE_Messages_Template_Pack_Default.class.php:47
 #: event-espresso-core/core/libraries/messages/defaults/EE_Messages_Template_Pack_Default.class.php:56
@@ -16968,7 +17058,7 @@ msgstr ""
 #: event-espresso-core/admin_pages/registrations/help_tabs/registrations_details_table.help_tab.php:32
 #: event-espresso-core/admin_pages/transactions/help_tabs/transactions_view_transaction_transaction_details_table.help_tab.php:28
 msgid "QTY"
-msgstr ""
+msgstr "NIFER"
 
 #: event-espresso-core/core/libraries/plugin_api/EE_Register_Data_Migration_Scripts.lib.php:52
 msgid "In order to register Data Migration Scripts with EE_Register_Data_Migration_Scripts::register(), you must include a \"dms_id\" (a unique identifier for this set of data migration scripts), and  an array containing the following keys: \"dms_paths\" (an array of full server paths to folders that contain data migration scripts)"
@@ -17182,7 +17272,7 @@ msgstr ""
 #: event-espresso-core/admin_pages/registrations/templates/registration_page_registration_questions.template.php:7
 #: event-espresso-core/modules/single_page_checkout/reg_steps/attendee_information/attendee_info_main.template.php:7
 msgid "In order to process your registration, we ask you to provide the following information.%1$sPlease note that all fields marked with an asterisk (%2$s) are required."
-msgstr ""
+msgstr "Er mwyn prosesu'ch cofrestriad, rydym yn gofyn am y gwybodaeth canlynol.%1$sMae'r holl feysydd gyda seren (%2$s) yn angenrheidiol."
 
 #: event-espresso-core/admin_pages/registrations/templates/reg_admin_details_main_meta_box_reg_questions.template.php:2
 msgid "This displays the custom questions and answers for this registrant.  Please note that any answers to system questions have been saved with the contact record.  You can edit those answers via the \"View/Edit this Contact\" link in the Contact Details metabox in the sidebar."
@@ -18005,12 +18095,18 @@ msgstr ""
 msgid "Minor Release Information"
 msgid_plural "Minor Releases"
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: event-espresso-core/admin_pages/about/templates/whats_new.template.php:3
 #: event-espresso-core/caffeinated/admin/extend/about/templates/whats_new.template.php:3
 msgid "Major Release Information"
 msgid_plural "Major Releases"
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: event-espresso-core/admin_pages/about/templates/whats_new.template.php:6
 msgid "<strong>Version %1$s</strong> is a %2$s bug fix/enhancement release."
@@ -18408,7 +18504,7 @@ msgstr ""
 
 #: event-espresso-core/core/helpers/EEH_Activation.helper.php:875
 msgid "Personal Information"
-msgstr ""
+msgstr "Gwybodaeth Personol"
 
 #: event-espresso-core/admin_pages/venues/help_tabs/venues_editor_other.help_tab.php:22
 msgid "The slug is the customizable portion of the URL for your venue. For example, if my venue was called \"Annual Parade,\" then the URL could appear as such: http://example.com/venues/annual-parade -- the slug would be then be annual-parade."
@@ -26420,6 +26516,9 @@ msgstr ""
 msgid "Message Template Context"
 msgid_plural "Message Template Contexts"
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: event-espresso-core/admin_pages/registration_form/help_tabs/registration_form_questions_overview_views_bulk_actions_search.help_tab.php:21
 msgid "Questions Groups Overview Search"
@@ -26433,6 +26532,9 @@ msgstr ""
 msgid "template"
 msgid_plural "templates"
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: event-espresso-core/admin_pages/registration_form/help_tabs/registration_form_questions_overview_views_bulk_actions_search.help_tab.php:23
 msgid "You can perform a search to find certain question groups. The following sources will be searched: Question (name of question). To use the search feature, enter a value into the search box and click on the Search Questions button."
@@ -27617,7 +27719,7 @@ msgstr ""
 #: event-espresso-core/modules/ticket_selector/DisplayTicketSelector.php:602
 #: event-espresso-core/public/template_tags.php:278
 msgid "Register Now"
-msgstr ""
+msgstr "Cofrestrwch Nawr"
 
 #: event-espresso-core/admin_pages/events/Events_Admin_Page.core.php:796
 #: event-espresso-core/caffeinated/admin/extend/messages/Extend_Messages_Admin_Page.core.php:187
@@ -27811,7 +27913,7 @@ msgstr ""
 
 #: event-espresso-core/caffeinated/admin/new/pricing/Prices_List_Table.class.php:61
 msgid "price"
-msgstr ""
+msgstr "pris"
 
 #: event-espresso-core/admin_pages/messages/Messages_Admin_Page.core.php:2101
 msgid "There are no valid shortcodes available"
@@ -27823,7 +27925,7 @@ msgstr ""
 
 #: event-espresso-core/caffeinated/admin/new/pricing/Prices_List_Table.class.php:62
 msgid "prices"
-msgstr ""
+msgstr "prisiau"
 
 #: event-espresso-core/caffeinated/admin/new/pricing/Prices_List_Table.class.php:150
 #: event-espresso-core/caffeinated/admin/new/pricing/Prices_List_Table.class.php:153
@@ -27911,7 +28013,7 @@ msgstr ""
 #: event-espresso-core/core/data_migration_scripts/4_5_0_stages/EE_DMS_4_5_0_update_wp_user_for_prices.dmsstage.php:13
 #: event-espresso-core/core/db_models/EEM_Price.model.php:28
 msgid "Prices"
-msgstr ""
+msgstr "Prisiau"
 
 #: event-espresso-core/admin_pages/messages/Messages_Admin_Page.core.php:2774
 msgid "Drag this message type to the messenger to activate"
@@ -28201,6 +28303,9 @@ msgstr ""
 msgid "Message Template Group"
 msgid_plural "Message Template Groups"
 msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: event-espresso-core/admin_pages/messages/Messages_Template_List_Table.class.php:51
 #: event-espresso-core/caffeinated/admin/extend/messages/Custom_Messages_Template_List_Table.class.php:64
@@ -28302,7 +28407,7 @@ msgstr ""
 
 #: eea-ticketing/core/messages/templates/html_ticketing_content.template.php:29
 msgid "Location:"
-msgstr ""
+msgstr "Lleoliad:"
 
 #: event-espresso-core/core/libraries/messages/messenger/EE_Email_messenger.class.php:190
 #: event-espresso-core/core/libraries/messages/messenger/EE_Email_messenger.class.php:541
@@ -29762,7 +29867,7 @@ msgstr ""
 #: event-espresso-core/core/libraries/messages/defaults/default/email_payment_ticket_list.template.php:5
 #: event-espresso-core/tests/mocks/addons/new-messages-template-pack/templates/email_payment_ticket_list.template.php:3
 msgid "Price:"
-msgstr ""
+msgstr "Pris:"
 
 #: event-espresso-core/core/CPTs/EE_Register_CPTs.core.php:526
 msgid "Recurring Event"
@@ -30286,7 +30391,7 @@ msgstr ""
 #: event-espresso-core/core/helpers/EEH_Activation.helper.php:941
 #: event-espresso-core/core/libraries/form_sections/payment_methods/EE_Billing_Attendee_Info_Form.form.php:27
 msgid "First Name"
-msgstr ""
+msgstr "Enw Cyntaf"
 
 #: eea-infusionsoft/core/db_class_extensions/EEE_Infusionsoft_Ticket.class_extension.php:130
 #: eea-wpuser-integration/templates/content-espresso_my_events-event_section.template.php:84
@@ -30473,7 +30578,7 @@ msgstr ""
 #: event-espresso-core/core/helpers/EEH_Activation.helper.php:986
 #: event-espresso-core/core/libraries/form_sections/payment_methods/EE_Billing_Attendee_Info_Form.form.php:30
 msgid "Address"
-msgstr ""
+msgstr "Cyfeiriad"
 
 #: event-espresso-core/caffeinated/admin/new/pricing/templates/pricing_type_details_main_meta_box.template.php:12
 msgid "Choosing a basic type allows us to quickly configure a bunch of other options for you.<br/>All events need to have at least one Base Price type option.<br/>Discounts reduce the price of an event, Surcharges increase the price.<br/>Taxes are applied to the final total."
@@ -30986,7 +31091,7 @@ msgstr ""
 #: event-espresso-core/modules/gateways/Invoice/lib/templates/receipt_body.template.php:123
 #: event-espresso-core/public/Espresso_Arabica_2014/content-espresso_events-venues.php:20
 msgid "Venue:"
-msgstr ""
+msgstr "Lleoliad:"
 
 #: event-espresso-core/admin_pages/events/Events_Admin_Page.core.php:775
 #: event-espresso-core/admin_pages/events/help_tabs/events_overview_views.help_tab.php:8
@@ -31174,7 +31279,7 @@ msgstr ""
 #: event-espresso-core/public/Espresso_Arabica_2014/content-espresso_events-venues.php:66
 #: event-espresso-core/public/Espresso_Arabica_2014/content-espresso_venues-location.php:8
 msgid "Location"
-msgstr ""
+msgstr "Lleoliad"
 
 #: event-espresso-core/admin_pages/events/templates/event_registration_options.template.php:7
 #: event-espresso-core/caffeinated/admin/extend/events/templates/event_registration_options.template.php:9
@@ -31291,7 +31396,7 @@ msgstr ""
 #: event-espresso-core/modules/ticket_selector/TicketDetails.php:197
 #: event-espresso-core/modules/ticket_selector/templates/standard_ticket_selector.template.php:52
 msgid "Price"
-msgstr ""
+msgstr "Pris"
 
 #: eea-evertec/payment_methods/Evertec_Onsite/templates/evertec_debug_info.template.php:37
 #: event-espresso-core/caffeinated/payment_methods/Aim/templates/authorize_net_aim_debug_info.template.php:34
@@ -31309,7 +31414,7 @@ msgstr ""
 #: event-espresso-core/modules/single_page_checkout/reg_steps/payment_options/payment_options_main.template.php:20
 #: event-espresso-core/modules/ticket_selector/templates/standard_ticket_selector.template.php:70
 msgid "Qty"
-msgstr ""
+msgstr "Nifer"
 
 #: event-espresso-core/caffeinated/payment_methods/Aim/templates/authorize_net_aim_debug_info.template.php:38
 msgid "Example Card Numbers:"
@@ -31565,7 +31670,7 @@ msgstr ""
 #: event-espresso-core/public/Espresso_Arabica_2014/content-espresso_events-venues.php:33
 #: event-espresso-core/public/Espresso_Arabica_2014/content-espresso_venues-location.php:10
 msgid "Address:"
-msgstr ""
+msgstr "Cyfeiriad:"
 
 #: event-espresso-core/core/libraries/messages/messenger/EE_Html_messenger.class.php:278
 #: event-espresso-core/core/libraries/messages/messenger/EE_Pdf_messenger.class.php:168
@@ -31575,7 +31680,7 @@ msgstr ""
 
 #: event-espresso-core/admin_pages/venues/templates/venue_address_metabox_content.template.php:10
 msgid "Address 2:"
-msgstr ""
+msgstr "Cyfeiriad 2:"
 
 #: event-espresso-core/admin_pages/messages/help_tabs/messages_overview_types.help_tab.php:15
 #: event-espresso-core/admin_pages/messages/templates/ee_msg_message_type_help_tab.template.php:5
@@ -31819,7 +31924,7 @@ msgstr ""
 #: event-espresso-core/modules/single_page_checkout/reg_steps/attendee_information/attendee_info_main.template.php:38
 #: event-espresso-core/modules/single_page_checkout/reg_steps/payment_options/payment_options_main.template.php:21
 msgid "Total"
-msgstr ""
+msgstr "Cyfanswm"
 
 #: event-espresso-core/admin_pages/messages/Messages_Admin_Page.core.php:618
 #: event-espresso-core/admin_pages/messages/help_tabs/messages_settings_message_types.help_tab.php:1
@@ -32157,7 +32262,7 @@ msgstr ""
 #: event-espresso-core/modules/ticket_selector/templates/ticket_details.template.php:21
 #: event-espresso-core/public/Espresso_Arabica_2014/content-espresso_venues-details.php:20
 msgid "Details"
-msgstr ""
+msgstr "Manylion"
 
 #: event-espresso-core/core/libraries/messages/defaults/default/html_receipt_content.template.php:26
 #: event-espresso-core/modules/gateways/Invoice/lib/templates/receipt_body.template.php:39
