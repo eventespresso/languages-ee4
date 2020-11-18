@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Event Espresso 4 package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-11-16 13:18:15+0000\n"
+"PO-Revision-Date: 2020-11-18 14:26:15+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -10,6 +10,16 @@ msgstr ""
 "X-Generator: GlotPress/2.3.1\n"
 "Language: es\n"
 "Project-Id-Version: Event Espresso 4\n"
+
+#: event-espresso-core-reg/core/helpers/EEH_Activation.helper.php:422
+msgid "Registration Checkout"
+msgstr "Opciones de pago"
+
+#: event-espresso-core-reg/modules/single_page_checkout/reg_steps/attendee_information/attendee_info_main.template.php:50
+#: event-espresso-core-reg/modules/single_page_checkout/reg_steps/attendee_information/attendee_info_single.template.php:41
+#: event-espresso-core-reg/modules/single_page_checkout/reg_steps/payment_options/payment_options_main.template.php:18
+msgid "Name and Description"
+msgstr "Nombre y descripción"
 
 #. translators: %1$s is a list of allowed file extensions.
 #: event-espresso-core-reg/core/libraries/form_sections/inputs/EE_File_Input.input.php:55
@@ -2989,10 +2999,6 @@ msgstr "Ciudad de la sede"
 #: event-espresso-core-reg/core/db_models/EEM_Venue.model.php:147
 msgid "Venue Phone"
 msgstr "Teléfono de la sede"
-
-#: event-espresso-core-reg/core/helpers/EEH_Activation.helper.php:422
-msgid "Registration Checkout"
-msgstr "Proceso de Registro"
 
 #: event-espresso-core-reg/core/helpers/EEH_Activation.helper.php:861
 msgid "Personal Information"
@@ -26114,12 +26120,6 @@ msgstr ""
 
 #: event-espresso-core-reg/caffeinated/admin/extend/registrations/EE_Event_Registrations_List_Table.class.php:380
 msgid "(%s of %s)"
-msgstr ""
-
-#: event-espresso-core-reg/modules/single_page_checkout/reg_steps/attendee_information/attendee_info_main.template.php:50
-#: event-espresso-core-reg/modules/single_page_checkout/reg_steps/attendee_information/attendee_info_single.template.php:41
-#: event-espresso-core-reg/modules/single_page_checkout/reg_steps/payment_options/payment_options_main.template.php:18
-msgid "Name and Description"
 msgstr ""
 
 #: event-espresso-core-reg/modules/ticket_selector/templates/ticket_details.template.php:37
