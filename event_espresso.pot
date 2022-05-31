@@ -41146,6 +41146,16 @@ msgid ""
 "instead."
 msgstr ""
 
+#: event-espresso-core-reg/tests/includes/EE_UnitTestCase.class.php:206
+msgid ""
+"Accidental MySQL Commit was issued sometime during the previous test. This "
+"means we couldn't properly restore database to its pre-test state. If this "
+"doesnt create problems now it probably will later! Read up on MySQL "
+"commits, especially Implicit Commits. Queries executed were: \r\n"
+"%s. \r\n"
+"This accidental commit happened during %s"
+msgstr ""
+
 #: event-espresso-core-reg/tests/includes/EE_UnitTestCase.class.php:616
 msgid "Expected date %1$s could not be parsed into format %2$s"
 msgstr ""
