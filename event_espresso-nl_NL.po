@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Event Espresso 4 package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2021-06-18 13:50:15+0000\n"
+"PO-Revision-Date: 2022-10-05 18:23:14+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -168,7 +168,7 @@ msgstr "Er kan geen testbericht worden verzonden voor deze berichtsjabloon omdat
 
 #: event-espresso-core-reg/admin_pages/general_settings/General_Settings_Admin_Page.core.php:796
 msgid "(space)"
-msgstr "Gelieve uw betaling %snogmaals te proberen%s, of kies een alternatieve betalingsmethode om uw plaats te reserveren."
+msgstr "(space)"
 
 #: eea-stripe-gateway/payment_methods/Stripe_Onsite/templates/stripe_elements_form.template.php:19
 msgid "Expiry Date (MM/YY)"
@@ -1049,7 +1049,7 @@ msgstr "Deelnemer %s"
 #: event-espresso-core-reg/modules/single_page_checkout/reg_steps/attendee_information/EE_SPCO_Reg_Step_Attendee_Information.class.php:311
 msgctxt "Attendee 123"
 msgid "Attendee %d"
-msgstr "Deelnemend Koppel %d"
+msgstr "Deelnemer %d"
 
 #: event-espresso-core-reg/modules/single_page_checkout/reg_steps/attendee_information/EE_SPCO_Reg_Step_Attendee_Information.class.php:80
 msgctxt "The attendee information was successfully copied.(line break)Please ensure the rest of the registration form is completed before proceeding."
@@ -1349,7 +1349,7 @@ msgstr "Als u extra ticketopties wilt weergeven, klikt u op de knop 'Filteren op
 
 #: event-espresso-core-reg/core/helpers/EEH_Sideloader.helper.php:242
 msgid "Unable to upload the file. Either the path given to download from is incorrect, or something else happened. Here is the path given: %s"
-msgstr ""
+msgstr "Kan het bestand niet uploaden. Ofwel het pad gegeven om te uploaden van is onjuist, of iets anders gebeurd. Hier is het gegeven pad: %s"
 
 #: event-espresso-core-reg/core/helpers/EEH_Money.helper.php:142
 msgid "Unknown operator %s in EEH_Money::compare_floats()"
@@ -1549,15 +1549,15 @@ msgstr "Privacy Instellingen"
 
 #: event-espresso-core-reg/core/domain/services/admin/privacy/export/ExportTransaction.php:116
 msgid "Event Espresso Transaction Exporter"
-msgstr "Gebeurtenis Espresso Transactie-exporteur"
+msgstr "Espresso Transactie gebeurtenissen exporteren"
 
 #: event-espresso-core-reg/core/domain/services/admin/privacy/export/ExportRegistration.php:146
 msgid "Event Espresso Registration Data Exporter"
-msgstr "Event Espresso Registratie Gegevens Exporteur"
+msgstr "Event Espresso Registratie Gegevens Exporteren"
 
 #: event-espresso-core-reg/core/domain/services/admin/privacy/export/ExportCheckins.php:123
 msgid "Event Espresso Checkins Exporter"
-msgstr "Event Espresso Checkins Exporteur"
+msgstr "Event Espresso Checkins Exporteren"
 
 #: event-espresso-core-reg/core/domain/services/admin/privacy/export/ExportCheckins.php:101
 msgid "Out"
@@ -2479,7 +2479,7 @@ msgstr "Het spijt ons, maar de %1$s-addon voor het evenement is gedeactiveerd om
 #: event-espresso-core-reg/core/request_stack/EE_Request_Stack_Builder.core.php:24
 #: event-espresso-core-reg/core/request_stack/EE_Response.core.php:53
 msgid "This class is deprecated. Please use %1$s instead. All Event Espresso request stack classes have been moved to %2$s and are now under the %3$s namespace"
-msgstr "Deze klas is afgeschaft. Gebruik %1$s in plaats daarvan. Alle event espresso-aanvraagtacklessen zijn verplaatst naar %2$s en bevinden zich nu onder de %3$s naamruimte"
+msgstr "Deze klasse bestaat niet meer. Gebruik in plaats daarvan %1$s. Alle event espresso-aanvraag klassen zijn verplaatst naar %2$s en bevinden zich nu onder de naamruimte %3$s "
 
 #: event-espresso-core-reg/core/EE_Error.core.php:1169
 #: event-espresso-core-reg/core/EE_Error.core.php:1198
@@ -2976,7 +2976,7 @@ msgstr "Helaas is een %1$sevent%2$s u overweegt alleen beschikbaar op de wachtli
 #: eea-wait-lists/views/messages/templates/email_registration_added_to_waitlist_subject.template.php:2
 #: eea-wait-lists/views/messages/templates/email_registration_demoted_to_waitlist_subject.template.php:2
 msgid "You're on the Wait List!"
-msgstr "Je staat op de wachtlijst."
+msgstr "U staat op de wachtlijst."
 
 #: eea-wait-lists/views/messages/templates/email_registration_added_to_waitlist_content.template.php:36
 msgid "You are on the wait list for the following event(s):"
@@ -3620,7 +3620,7 @@ msgstr "Verberg"
 
 #: eea-authnet-accept/payment_methods/AuthorizeNet_Accept/EE_PMT_AuthorizeNet_Accept.pm.php:60
 msgid "Authorize.net API login ID %s"
-msgstr "Authorize.net %s API-aanmeldings-ID %s"
+msgstr "Authorize.net API-aanmeldings-ID %s"
 
 #: eea-authnet-accept/payment_methods/AuthorizeNet_Accept/EE_PMT_AuthorizeNet_Accept.pm.php:39
 #: eea-authnet-accept/payment_methods/AuthorizeNet_Accept/help_tabs/payment_methods_overview_authorizenet_accept.help_tab.php:1
@@ -4377,7 +4377,7 @@ msgstr "HMAC-sleutel-ID"
 
 #: eea-payeezy/payment_methods/Payeezy_Onsite/help_tabs/payeezy_onsite.help_tab.php:21
 msgid "For more details on how the HMAC Key can be obtained please visit %1$this documentation page%2$s."
-msgstr "Voor meer informatie over hoe de HMAC-sleutel kan worden verkregen, u terecht op %1$deze documentatiepagina%2$s."
+msgstr "Voor meer informatie over hoe de HMAC-sleutel kan worden verkregen, u terecht op %1$s deze documentatiepagina%2$s."
 
 #: eea-payeezy/payment_methods/Payeezy_Onsite/help_tabs/payeezy_onsite.help_tab.php:20
 msgid "SHA-1 HMAC hash calculation is offered to increase the security of transaction processing through this interface."
@@ -5840,7 +5840,7 @@ msgstr "iPay88 is een off-site betalingsmethode voor het accepteren van creditca
 
 #: eea-ideal-mollie-gateway/payment_methods/Ideal_Mollie/templates/ideal_mollie_intro.template.php:1
 msgid "Mollie is an off-site payment method for accepting payments via iDeal, credit and debit cards, and other payment services. iDEAL is available to event organizers in the Netherlands. Other payment options such as credit and debit card payments are available to event organizers in many countries in Europe. An account with Mollie is required to accept payments. Need a Mollie account? %1$sClick here to sign up for a merchant account%2$s."
-msgstr ""
+msgstr "iDEAL Mollie is een off-site betaalmethode voor het accepteren van betalingen via iDeal, creditcards en betaalpassen en andere betaaldiensten. iDEAL is beschikbaar voor organisatoren van evenementen in Nederland. Andere betalingsopties, zoals creditcard- en betaalkaartbetalingen, zijn beschikbaar voor organisatoren van evenementen in veel landen in Europa. Een rekening bij Mollie is verplicht om betalingen te accepteren. Heb je een Mollie account nodig? %1$s Klik hier om je aan te melden voor een merchant account%2$s."
 
 #: eea-authorizenet-sim/payment_methods/AuthorizeNet_Sim/templates/authorizenet_sim_intro.template.php:1
 msgid "Authorize.Net SIM is an off-site payment method for accepting credit and debit card payments and is available to event organizers in the United States, Canada, United Kingdom, and Australia. An account with Authorize.Net is required to accept payments. Need an Authorize.Net account? %1$sClick here to sign up for a merchant account%2$s."
@@ -6066,8 +6066,8 @@ msgstr "Maak leeg %s"
 #: eea-multi-event-registration/EED_Multi_Event_Registration.module.php:1282
 msgid "The registration limit for this event is %1$d ticket per transaction, therefore the total number of tickets you may purchase at any time can not exceed %1$d."
 msgid_plural "The registration limit for this event is %1$d tickets per transaction, therefore the total number of tickets you may purchase at any time can not exceed %1$d."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "De registratielimiet voor dit deze workshop is %1$d ticket per reservering."
+msgstr[1] "De registratielimiet voor dit deze workshop is %1$d tickets per reservering."
 
 #: eea-multi-event-registration/EED_Multi_Event_Registration.module.php:1274
 msgid "You have attempted to purchase %1$d ticket but that would result in too many tickets in the %2$s for this event."
@@ -10047,10 +10047,7 @@ msgstr "De %1$s Stripe Gateway %2$s plugin is gedeactiveerd! Deze plug-in vereis
 
 #: eea-people-addon/admin/people/espresso_events_People_Hooks.class.php:223
 msgid "Viewing the events that has at least one person assigned as %s."
-msgstr ""
-"Viewing the events that has at least one person assigned as %s.\n"
-"\n"
-"Bekijk de events waar tenminste één persoon aan is toegewezen als %s."
+msgstr "Bekijk de events waar tenminste één persoon aan is toegewezen als %s."
 
 #: eea-people-addon/admin/people/espresso_events_People_Hooks.class.php:221
 msgid "Viewing the events that %s is assigned to"
@@ -10935,7 +10932,7 @@ msgstr "U heeft geen kaarten voor dit evenement"
 
 #: eea-wp-user-integration/templates/content-espresso_my_events-event_section.template.php:24
 msgid "Link to %"
-msgstr "Link naar %s"
+msgstr "Link naar %"
 
 #: eea-wp-user-integration/templates/content-espresso_my_events-event_section.template.php:15
 #: eea-wp-user-integration/templates/content-espresso_my_events-simple_list_table.template.php:12
@@ -11205,7 +11202,7 @@ msgstr "Activeer ten minste één betalingsmethode om dingen correct te laten we
 
 #: event-espresso-core-reg/core/business/EE_Transaction_Payments.class.php:287
 msgid "An invalid Registration Payment object was associated with payment ID# %1$d."
-msgstr "Er is een ongeldig object Registratiebetaling gekoppeld aan het %1$d betalings-ID#%1$d."
+msgstr "Er is een ongeldig object Registratiebetaling gekoppeld aan het betalings-ID#%1$d."
 
 #: event-espresso-core-reg/core/business/EE_Transaction_Payments.class.php:272
 msgid "An invalid Registration object was associated with Registration Payment ID# %1$d."
@@ -12163,7 +12160,7 @@ msgstr "Klik om te wisselen"
 
 #: event-espresso-core-reg/admin_pages/messages/templates/ee_msg_details_messenger_mt_meta_box.template.php:13
 msgid "Below are message types that are currently %sactive%s with this messenger. Drag them over to the \"Inactive Message Types\" box to deactivate them."
-msgstr "Hieronder staan berichttypen die momenteel %sactive% met deze messenger. Sleep ze naar het vak 'Inactieve berichttypen' om ze te deactiveren."
+msgstr "Hieronder staan berichttypen die momenteel %sactive%s met deze messenger. Sleep ze naar het vak 'Inactieve berichttypen' om ze te deactiveren."
 
 #: event-espresso-core-reg/admin_pages/messages/help_tabs/messages_overview_messengers.help_tab.php:4
 msgid "Messengers are the vehicles that deliver messages to individuals (recipients). By default, every install of Event Espresso has the %sEmail%s messenger active. The Email messenger is a vehicle for delivering messages.  Other possible vehicles might be any social media applications, 3rd party API's etc."
@@ -14594,7 +14591,7 @@ msgstr "Optie Naam"
 #: eea-infusionsoft/admin/infusionsoft/Infusionsoft_Admin_Page_Init.core.php:109
 #: eea-infusionsoft/payment_methods/Infusionsoft_Onsite/EE_PMT_Infusionsoft_Onsite.pm.php:25
 msgid "Infusionsoft"
-msgstr "Aanmaken van een Infusionsoft factuur voor deze betaling is mislukt."
+msgstr "Infusionsoft"
 
 #: eea-infusionsoft/admin/infusionsoft/Infusionsoft_Admin_Page.core.php:275
 msgid "Error connecting to Infusionsoft: %s. Please double-check your application name and private key"
@@ -14634,7 +14631,7 @@ msgstr "EED_Infusionsoft::mark_model_obj_synced een niet-modelobject van type %s
 
 #: eea-ideal-mollie-gateway/payment_methods/Ideal_Mollie/help_tabs/payment_methods_overview_ideal_mollie.help_tab.php:18
 msgid "To create test payments you will need to use the %s Mollie Test API key %s. Using Test API key will cause your Mollie Gateway to (automatically) only create test payments. Both, Test and Live API Keys can be found in %s your dashboard. %s"
-msgstr ""
+msgstr "Om de test betalingen te maken, moet u de %s Mollie Test API Key %s gebruiken. Met behulp van Test API Key zal uw iDeal Gateway (automatisch) alleen test betalingen maken. Zowel, test en live API Key kunnen worden gevonden in %s uw dashboard. %s"
 
 #: eea-ideal-mollie-gateway/payment_methods/Ideal_Mollie/help_tabs/payment_methods_overview_ideal_mollie.help_tab.php:14
 msgid "Enter your Mollie API Key. Your API Key can be found in your %s Mollie account dashboard. %s"
@@ -14642,7 +14639,7 @@ msgstr "Voer uw Mollie API Key in. Uw API Key kan worden gevonden in uw %s Molli
 
 #: eea-ideal-mollie-gateway/payment_methods/Ideal_Mollie/help_tabs/payment_methods_overview_ideal_mollie.help_tab.php:8
 msgid "Adjust the settings for the Mollie payment method."
-msgstr ""
+msgstr "Pas de instellingen aan voor de iDeal/Mollie betaalmethode."
 
 #: eea-ideal-mollie-gateway/payment_methods/Ideal_Mollie/help_tabs/payment_methods_overview_ideal_mollie.help_tab.php:5
 msgid "After the consumer selects the iDEAL payment method the consumer’s bank is selected. The actual payment then takes place in the bank’s trusted online banking environment – for which security is guaranteed by the bank."
@@ -14654,7 +14651,7 @@ msgstr "Mollie API Key %s"
 
 #: eea-ideal-mollie-gateway/payment_methods/Ideal_Mollie/EE_PMT_Ideal_Mollie.pm.php:29
 msgid "After clicking 'Finalize Registration', you will be forwarded to Mollie to make your payment. %1$sMake sure you return to this site in order to properly finalize your registration.%2$s"
-msgstr ""
+msgstr "Nadat u \"Bestelling afronden\" heeft gekozen, wordt u doorgestuurd naar een iDeal-pagina om te betalen. %1$sZorg ervoor dat u terugkeert naar deze pagina om uw reservering correct af te ronden.%2$s"
 
 #: eea-ideal-mollie-gateway/payment_methods/Ideal_Mollie/EEG_Ideal_Mollie.gateway.php:187
 msgid "Updated payment from IPN that came from Mollie"
@@ -15767,7 +15764,7 @@ msgstr "Deze parses aan de gegenereerde url voor het ophalen van de ontvangst vo
 #: event-espresso-core-reg/core/libraries/shortcodes/EE_Transaction_Shortcodes.lib.php:193
 #: event-espresso-core-reg/core/libraries/shortcodes/EE_Transaction_Shortcodes.lib.php:434
 msgid "%sPlease make a payment.%s"
-msgstr "%sGelieve te betalen.$s"
+msgstr "%sGelieve te betalen.%s"
 
 #: event-espresso-core-reg/core/libraries/shortcodes/EE_Transaction_Shortcodes.lib.php:181
 msgid "The subtotal for all tax line items."
@@ -18136,11 +18133,11 @@ msgstr "Belangrijke opmerking: PayPal berekent alleen verzendkosten voor een bes
 
 #: event-espresso-core-reg/payment_methods/Paypal_Standard/help_tabs/payment_methods_overview_paypalstandard.help_tab.php:29
 msgid "PayPal Calculates Shipping"
-msgstr "Paypal berekent verzendkosten %s"
+msgstr "Paypal berekent verzendkosten"
 
 #: event-espresso-core-reg/payment_methods/Paypal_Standard/help_tabs/payment_methods_overview_paypalstandard.help_tab.php:24
 msgid "PayPal Calculates Taxes"
-msgstr "Paypal berekent belastingen %s"
+msgstr "Paypal berekent belastingen"
 
 #: event-espresso-core-reg/payment_methods/Paypal_Standard/help_tabs/payment_methods_overview_paypalstandard.help_tab.php:13
 msgid "If this option is enabled, be sure to enter your PayPal sandbox credentials in the fields above. Be sure to turn this setting off when you are done testing."
@@ -18259,7 +18256,7 @@ msgstr "Logo afbeelding %s"
 
 #: event-espresso-core-reg/payment_methods/Invoice/EE_PMT_Invoice.pm.php:81
 msgid "Payee Address %s"
-msgstr "%s"
+msgstr "Adres begunstigde %s"
 
 #: event-espresso-core-reg/payment_methods/Invoice/EE_PMT_Invoice.pm.php:78
 msgid "Payee Tax Number %s"
@@ -18271,7 +18268,7 @@ msgstr "E-mail van payee %s"
 
 #: event-espresso-core-reg/payment_methods/Invoice/EE_PMT_Invoice.pm.php:72
 msgid "Payee Name %s"
-msgstr "%s"
+msgstr "Naam begunstigde %s"
 
 #: event-espresso-core-reg/payment_methods/Bank/EE_PMT_Bank.pm.php:58
 msgid "Provide instructions on how registrants can send the bank draft payment. Eg, mention your account name, bank account number, bank name, bank routing code, and bank address, etc."
@@ -18719,7 +18716,7 @@ msgstr "Wat er ook in het veld adres 2 stond voor de registratie."
 
 #: event-espresso-core-reg/core/libraries/shortcodes/EE_Attendee_Shortcodes.lib.php:78
 msgid "The Address for the Registration"
-msgstr "Transacties doorzoeken. De volgende bronnen zullen worden doorzocht: Workshopnaam, Beschrijving Workshop, Voornaam, Achternaam, Biografie, E-mailadres, Adres, Reacties, Opmerkingen, Registraties Definitieve Prijs, Registratiecode, Registratie Groepsgrootte, Ticketnaam, Ticketbeschrijving, Betalingsmethode, Betalingspoort, Transactiegegevens en Transactiesessie."
+msgstr ""
 
 #: event-espresso-core-reg/core/libraries/shortcodes/EE_Attendee_Shortcodes.lib.php:74
 msgid "The Phone Number for the Registration."
@@ -21567,7 +21564,7 @@ msgstr "evenement is geweest"
 
 #: event-espresso-core-reg/core/helpers/EEH_Activation.helper.php:1624
 msgid "The following wp-options could not be deleted: %s%s"
-msgstr "De volgende wp-opties konden niet worden verwijderd: %s% s"
+msgstr "De volgende wp-opties konden niet worden verwijderd: %s%s"
 
 #: event-espresso-core-reg/core/helpers/EEH_Activation.helper.php:1073
 msgid "Phone Number - System Question"
@@ -22846,7 +22843,7 @@ msgstr "Kan geen objecten van type %s verwijderen omdat er geen primaire sleutel
 
 #: event-espresso-core-reg/core/db_models/EEM_Base.model.php:1082
 msgid "Datatype %s (for selection '%s' and alias '%s') is not a valid wpdb datatype (eg %%s)"
-msgstr "Datatype %s (voor selectie '%s' en alias '%s') is geen geldig wpdb-datatype (bijv. %% s)"
+msgstr "Datatype %s (voor selectie '%s' en alias '%s') is geen geldig wpdb-datatype (bijv. %%s)"
 
 #: event-espresso-core-reg/core/db_models/EEM_Base.model.php:1070
 msgid "Custom selection %s (alias %s) needs to be an array like array('COUNT(REG_ID)','%%d')"
@@ -23326,7 +23323,7 @@ msgstr "Workshop naar Locatie Relaties"
 #. translators: %s event ID
 #: event-espresso-core-reg/core/data_migration_scripts/4_1_0_stages/EE_DMS_4_1_0_event_question_group.dmsstage.php:131
 msgid "Could not find 4.1 event 3.1 event id #%s"
-msgstr "Kon geen 4.1 workshop vinden 3.1 workshop id #<ph id=\"mtc_1\" equiv-text=\"base64:JWQ=\"/>."
+msgstr "Kon geen 4.1 workshop vinden 3.1 workshop id #%s"
 
 #. translators: %s question ID, %s event ID
 #: event-espresso-core-reg/core/data_migration_scripts/4_1_0_stages/EE_DMS_4_1_0_event_question_group.dmsstage.php:115
@@ -23345,7 +23342,7 @@ msgstr "Kan de term-taxonomie-ID 4.1 niet vinden voor 3.1 categorie # %d."
 #: event-espresso-core-reg/core/data_migration_scripts/4_1_0_stages/EE_DMS_4_1_0_event_venue.dmsstage.php:93
 #: event-espresso-core-reg/core/data_migration_scripts/4_1_0_stages/EE_DMS_4_1_0_events.dmsstage.php:704
 msgid "Could not find 4.1 event id for 3.1 event #%d."
-msgstr "Kan geen 4.1 workshop-id voor 3.1 workshop #<ph id=\"mtc_1\" equiv-text=\"base64:JWQ=\"/>."
+msgstr "Kan geen 4.1 workshop-id voor 3.1 workshop #%d."
 
 #: event-espresso-core-reg/core/data_migration_scripts/4_1_0_stages/EE_DMS_4_1_0_checkins.dmsstage.php:33
 msgid "Checkins"
@@ -24936,7 +24933,7 @@ msgstr "FAQ"
 
 #: event-espresso-core-reg/caffeinated/admin/extend/registrations/Extend_Registrations_Admin_Page.core.php:1171
 msgid "Viewing Registrations for Event: %s"
-msgstr "Registraties voor workshop bekijken: <ph id=\"mtc_1\" equiv-text=\"base64:JXM=\"/>"
+msgstr "Registraties voor workshop bekijken: %s"
 
 #: event-espresso-core-reg/ui/browser/checkins/entities/CheckinStatusDashicon.php:112
 msgid "No Check-in Record has been Created for this Registrant"
@@ -25401,7 +25398,7 @@ msgstr "Toont de factuurgegevens die aan deze transactie zijn gekoppeld."
 
 #: event-espresso-core-reg/admin_pages/transactions/help_tabs/transactions_view_transaction_attendees_registered.help_tab.php:21
 msgid "Shows the email address for the registrant."
-msgstr "Adres"
+msgstr "Viser e-mailadressen for den registrerede."
 
 #: event-espresso-core-reg/admin_pages/transactions/help_tabs/transactions_view_transaction_attendees_registered.help_tab.php:9
 msgid "Shows the name (title) of the event and the name of the ticket associated with this event."
@@ -25503,7 +25500,7 @@ msgstr "Klik om evenement te bewerken"
 
 #: event-espresso-core-reg/admin_pages/transactions/Transactions_Admin_Page.core.php:654
 msgid "%sViewing Transactions for the Event: %s%s"
-msgstr "%s Transacties voor het evenement bekijken: %s% s"
+msgstr "%s Transacties voor het evenement bekijken: %s%s"
 
 #: event-espresso-core-reg/admin_pages/transactions/Transactions_Admin_Page.core.php:421
 #: event-espresso-core-reg/admin_pages/transactions/help_tabs/transactions_overview_views_filters_search.help_tab.php:7
@@ -25998,7 +25995,7 @@ msgstr "Dit is het e-mailadres van de registrant."
 
 #: event-espresso-core-reg/admin_pages/registrations/help_tabs/registrations_event_checkin_table_column_headings.help_tab.php:21
 msgid "This is the name of the registrant."
-msgstr ""
+msgstr "Dette er navnet på registranten."
 
 #: event-espresso-core-reg/admin_pages/registrations/help_tabs/registrations_event_checkin_table_column_headings.help_tab.php:17
 msgid "This is the registrant number in the group. For example, 1 of 1 means that there was a single registrant. 1 of 2 means that this registrant is the first to register of the the two registrants in the group."
@@ -26121,11 +26118,11 @@ msgstr "In de tabel Registratiegegevens worden registratieitems weergegeven die 
 
 #: event-espresso-core-reg/admin_pages/transactions/help_tabs/transactions_view_transaction_attendees_registered.help_tab.php:25
 msgid "Shows the address for the registrant."
-msgstr ""
+msgstr "Viser registrantens adresse."
 
 #: event-espresso-core-reg/admin_pages/transactions/help_tabs/transactions_view_transaction_attendees_registered.help_tab.php:13
 msgid "Shows the name of the registrant."
-msgstr ""
+msgstr "Viser navnet på registranten."
 
 #: event-espresso-core-reg/admin_pages/registrations/help_tabs/registrations_details_form_answers.help_tab.php:5
 msgid "Existing Questions are Linked to a Registrant"
@@ -26305,7 +26302,7 @@ msgstr "Andere registraties in deze transactie"
 #. translators: %s: <h3>  %s: <a href>Event Name</a>  %s: </h3>
 #: event-espresso-core-reg/core/domain/services/admin/registrations/list_table/page_header/EventFilterHeader.php:67
 msgid "%s Viewing registrations for the event: %s%s"
-msgstr "%s Registraties voor het evenement bekijken: %s% s"
+msgstr "%s Registraties voor het evenement bekijken: %s%s"
 
 #: event-espresso-core-reg/admin_pages/registrations/Registrations_Admin_Page.core.php:1027
 msgid "This is the Primary Registrant"
@@ -27363,7 +27360,7 @@ msgstr "Belangrijke opmerking voor degenen die Event Espresso 3-add-ons gebruike
 
 #: event-espresso-core-reg/admin_pages/maintenance/templates/migration_options_from_ee3.template.php:107
 msgid "%1$sNot sure how to backup your existing data?%2$s Here is %3$sWordPress's explanation%7$s, and here's %6$sour explanation%7$s.%8$sYou can also search the WordPress plugin database for %4$s database backup plugins %7$s,%8$sor have one of our dedicated support technicians help you by purchasing a %5$sPriority Support Token%7$s."
-msgstr "%1$s Weet u niet zeker hoe u een back-up van uw bestaande gegevens maken? %2$s Hier is de uitleg van %3$sWordPress%7$s, en hier is %6$s onze uitleg%7$s. %8$s U ook zoeken in de WordPress-plug-indatabase voor %4$s back-upplug-plugins van %4$s database %7$s,%8$sof een van onze toegewijde ondersteuningstechnici u helpen door een %5$sPriority Support Token%7$s aan te schaffen."
+msgstr "%1$s Weet u niet zeker hoe u een back-up van uw bestaande gegevens maken? %2$s Hier is de uitleg van %3$sWordPress%7$s, en hier is %6$s onze uitleg%7$s. %8$s U ook zoeken in de WordPress-plug-indatabase voor %4$s back-upplug-plugins van database %7$s,%8$sof een van onze toegewijde ondersteuningstechnici u helpen door een %5$sPriority Support Token%7$s aan te schaffen."
 
 #: event-espresso-core-reg/admin_pages/maintenance/templates/migration_options_from_ee3.template.php:97
 msgid "%s Important: %s Before migrating, please back up your database and files."
@@ -28373,7 +28370,7 @@ msgstr "Er is een fout opgetreden. Gebeurtenis-ID # %d kan niet worden verwijder
 
 #: event-espresso-core-reg/admin_pages/events/Events_Admin_Page.core.php:2197
 msgid "Event ID # %d has been deleted."
-msgstr "Workshop-ID # <ph id=\"mtc_1\" equiv-text=\"base64:JWQ=\"/> is verwijderd."
+msgstr "Workshop-ID # %d is verwijderd."
 
 #: event-espresso-core-reg/admin_pages/events/Events_Admin_Page.core.php:2083
 #: event-espresso-core-reg/admin_pages/events/Events_Admin_Page.core.php:2123
@@ -28395,7 +28392,7 @@ msgstr "Er is een fout opgetreden. Er werd geen Workshop-ID of ongeldig workshop
 
 #: event-espresso-core-reg/admin_pages/events/Events_Admin_Page.core.php:1975
 msgid "An error occurred. Event #%d could not be moved to the trash because a valid event ID was not not supplied."
-msgstr "Er is een fout opgetreden. De workshop kon niet naar de prullenmand worden verplaatst, omdat geen geldig event-ID werd opgegeven."
+msgstr "Er is een fout opgetreden. De workshop #%d kon niet naar de prullenmand worden verplaatst, omdat geen geldig event-ID werd opgegeven."
 
 #: event-espresso-core-reg/admin_pages/events/Events_Admin_Page.core.php:1939
 msgid "An error occurred. The event could not be moved to the trash because a valid event ID was not not supplied."
@@ -29205,7 +29202,7 @@ msgstr "Workshoplijst Shortcodes"
 
 #: event-espresso-core-reg/core/libraries/shortcodes/EE_Email_Shortcodes.lib.php:162
 msgid "Query Results: %s"
-msgstr "Resultaten van het zoeken"
+msgstr "Resultaten van het zoeken: %s"
 
 #: event-espresso-core-reg/core/libraries/shortcodes/EE_Email_Shortcodes.lib.php:161
 msgid "Event IDS: %s"
@@ -29843,7 +29840,7 @@ msgstr "Betaal mogelijkheden"
 
 #: event-espresso-core-reg/admin_pages/messages/templates/ee_msg_messages_settings_help_tab.template.php:31
 msgid "On means of course that the messenger is active and %s means the messenger is inactive."
-msgstr "%1$s betekend natuurlijk dat de messenger actief is en %2$s betekend dat de messenger inactief is."
+msgstr "betekend natuurlijk dat de messenger actief is en %s betekend dat de messenger inactief is."
 
 #: event-espresso-core-reg/admin_pages/messages/Messages_Template_List_Table.class.php:345
 msgid "Edit Context"
@@ -31914,11 +31911,11 @@ msgstr "Op de server is 'fsockopen' en 'cURL' ingeschakeld."
 
 #: event-espresso-core-reg/admin_pages/support/templates/support_admin_details_important_information.template.php:30
 msgid "Your version of MySQL is out of date, please update to the latest version of MySQL. <br>Required version of MySQL:"
-msgstr "Uw versie van MySQL is verouderd, update naar de nieuwste versie van MySQL.&#10; Vereiste versie van MySQL:"
+msgstr "Uw versie van MySQL is verouderd, update naar de nieuwste versie van MySQL. <br>Vereiste versie van MySQL:"
 
 #: event-espresso-core-reg/admin_pages/support/templates/support_admin_details_important_information.template.php:23
 msgid "Your version of PHP is out of date, please update to the latest version of PHP. <br>Required version of PHP:"
-msgstr "Uw versie van PHP is verouderd, update naar de nieuwste versie van PHP.&#10; Vereiste versie van PHP:"
+msgstr "Uw versie van PHP is verouderd, update naar de nieuwste versie van PHP. <br>Vereiste versie van PHP:"
 
 #: event-espresso-core-reg/admin_pages/support/templates/support_admin_details_important_information.template.php:16
 msgid "Please upgrade to the latest version of WordPress."
@@ -35240,7 +35237,7 @@ msgstr "Toon workshops die vandaag plaatsvinden."
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_views.help_tab.php:19
 msgid "View Events for Today"
-msgstr "Bekijk Workshops voor Vandaag<ph id=\"mtc_1\" equiv-text=\"base64:Jmx0Oy9zdHJvbmcmZ3Q7\"/>"
+msgstr "Bekijk Workshops voor Vandaag"
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_views.help_tab.php:16
 msgid "Show events that have been moved to the trash."
@@ -35248,7 +35245,7 @@ msgstr "Toon workshops die in de prullenbak zijn gedaan."
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_views.help_tab.php:15
 msgid "View Trashed Events"
-msgstr "Bekijk Weggegooide Workshops<ph id=\"mtc_1\" equiv-text=\"base64:Jmx0Oy9zdHJvbmcmZ3Q7\"/>"
+msgstr "Bekijk Weggegooide Workshops"
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_views.help_tab.php:12
 msgid "Show events that are not published and have a status of draft."
@@ -35256,7 +35253,7 @@ msgstr "Geeft workshops weer die niet zijn gepubliceerd en de status van concept
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_views.help_tab.php:11
 msgid "View Draft Events"
-msgstr "Bekijk Concept Workshops<ph id=\"mtc_1\" equiv-text=\"base64:Jmx0Oy9zdHJvbmcmZ3Q7\"/>"
+msgstr "Bekijk Concept Workshops"
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_views.help_tab.php:8
 msgid "Show all events."
