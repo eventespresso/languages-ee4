@@ -1,14 +1,14 @@
-# Translation of Event Espresso in Polish
+# Translation of Event Espresso in Thai
 # This file is distributed under the same license as the Event Espresso package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-12-08 21:20:28+0000\n"
+"PO-Revision-Date: +0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: GlotPress/4.0.1\n"
-"Language: pl\n"
+"Language: th\n"
 "Project-Id-Version: Event Espresso\n"
 
 #: event-espresso-core-reg/core/domain/services/graphql/mutators/EntityMutator.php:83
@@ -2154,8 +2154,6 @@ msgstr ""
 msgid "Used to adjust the number of attendees displayed (There is %d total attendee for the current filter settings)."
 msgid_plural "Used to adjust the number of attendees displayed (There are %d total attendees for the current filter settings)."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/languages/ee-js.pot.php:23
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:101
@@ -5286,23 +5284,17 @@ msgstr ""
 msgid "%1$d Event"
 msgid_plural "%1$d Events"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #. translators: 1: number of datetimes
 #: event-espresso-core-reg/admin_pages/events/templates/event_preview_deletion.template.php:44
 msgid "%1$d Datetime"
 msgid_plural "%1$d Datetimes"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/admin_pages/events/templates/event_preview_deletion.template.php:64
 msgid "%1$d Registration"
 msgid_plural "%1$d Registrations"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/admin_pages/events/templates/event_preview_deletion.template.php:75
 msgid "Only showing first %1$d."
@@ -7121,8 +7113,6 @@ msgstr ""
 msgid "%1$sSend notifications %4$s day after the event.%2$s"
 msgid_plural "%1$sSend notifications %4$s days after the event.%2$s"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: eea-automated-upcoming-event-notifications/views/message/templates/email_automate_post_datetime_content.template.php:38
 msgid "We're reaching out to thank you for attending our event on %s."
@@ -7546,15 +7536,11 @@ msgstr ""
 msgid "The registration limit for this ticket is %1$d ticket per transaction, therefore the total number of tickets you may purchase at this time can not exceed %1$d."
 msgid_plural "The registration limit for this ticket is %1$d tickets per transaction, therefore the total number of tickets you may purchase at this time can not exceed %1$d."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: eea-multi-event-registration/EED_Multi_Event_Registration.module.php:1399
 msgid "The registration minimum for this ticket is %1$d ticket per transaction, therefore the total number of tickets you may purchase at this time can not be less than %1$d."
 msgid_plural "The registration minimum for this ticket is %1$d tickets per transaction, therefore the total number of tickets you may purchase at this time can not be less than %1$d."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: eea-multi-event-registration/EE_Event_Cart_Line_Item_Display_Strategy.php:295
 msgid "You cannot remove more items"
@@ -8322,8 +8308,6 @@ msgctxt "2 hours"
 msgid "%1$s hour"
 msgid_plural "%1$s hours"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/core/domain/services/admin/privacy/policy/privacy_policy.template.php:62
 msgctxt "Please see the privacy policy of PayPal Pro"
@@ -9183,8 +9167,6 @@ msgstr ""
 msgid "There was %d message successfully generated and sent."
 msgid_plural "There were %d messages successfully generated and sent."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/core/services/request/middleware/RecommendedVersions.php:187
 msgid "Please note: The next update of Event Espresso 4 will %1$srequire%2$s PHP 5.4.45 or greater.  Your web server's PHP version is %3$s.  You can contact your host and ask them to update your PHP version to at least PHP 5.6.  Please do not update to the new version of Event Espresso 4 until the PHP update is completed. Read about why keeping your server on the latest version of PHP is a good idea %4$shere%5$s"
@@ -9803,8 +9785,6 @@ msgstr ""
 msgid "Message successfully deleted"
 msgid_plural "Messages successfully deleted"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/admin_pages/messages/help_tabs/messages_settings_messengers.help_tab.php:18
 msgid "The green colored gear %s indicates that this messenger is currently active."
@@ -10527,8 +10507,6 @@ msgstr ""
 msgid "question option"
 msgid_plural "question options"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: eea-infusionsoft/admin/infusionsoft/espresso_events_Infusionsoft_Hooks.class.php:51
 msgid "Infusionsoft Tags"
@@ -10669,15 +10647,11 @@ msgstr ""
 msgid "%1$sSend notifications %4$s day after the datetime.%2$s"
 msgid_plural "%1$sSend notifications %4$s days after the datetime.%2$s"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: eea-automated-upcoming-event-notifications/domain/services/admin/message/SchedulingMetaboxFormHandler.php:216
 msgid "%1$sSend notifications %4$s day before the event.%2$s"
 msgid_plural "%1$sSend notifications %4$s days before the event.%2$s"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: eea-automated-upcoming-event-notifications/domain/services/commands/message/PostNotificationsCommandHandler.php:84
 #: eea-automated-upcoming-event-notifications/domain/services/commands/message/UpcomingNotificationsCommandHandler.php:93
@@ -11390,8 +11364,6 @@ msgstr ""
 msgid "%1$sSend notifications %4$s day before the datetime.%2$s"
 msgid_plural "%1$sSend notifications %4$s days before the datetime.%2$s"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: eea-automated-upcoming-event-notifications/domain/services/messages/EE_Specific_Datetime_Shortcodes.lib.php:22
 msgid "Specific Datetime Shortcodes"
@@ -12397,15 +12369,11 @@ msgstr ""
 msgid "We're sorry, but there is only %1$s available space left for this event at this particular date and time. Please select a different number (or different combination) of tickets by cancelling the current selection and choosing again, or proceed to registration."
 msgid_plural "We're sorry, but there are only %1$s available spaces left for this event at this particular date and time. Please select a different number (or different combination) of tickets by cancelling the current selection and choosing again, or proceed to registration."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/modules/ticket_selector/TicketDatetimeAvailabilityTracker.php:224
 msgid "We're sorry, but there is only %1$s available space left for this event at this particular date and time. Please select a different number (or different combination) of tickets."
 msgid_plural "We're sorry, but there are only %1$s available spaces left for this event at this particular date and time. Please select a different number (or different combination) of tickets."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/payment_methods/Paypal_Express/forms/SettingsForm.php:39
 msgid "Request Shipping Address %s"
@@ -12786,8 +12754,6 @@ msgstr ""
 msgid "The following task needs to be performed:"
 msgid_plural "The following %s tasks need to be performed:"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/admin_pages/maintenance/templates/ee_migration_page.template.php:205
 msgid "Please note: after each task is completed you will need to continue the Database Update, or report an error to Event Espresso."
@@ -13010,8 +12976,6 @@ msgstr ""
 msgid "(%1$s Cancellation)"
 msgid_plural "(%1$s Cancellations)"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/core/libraries/line_item_display/EE_Default_Line_Item_Display_Strategy.strategy.php:172
 #: event-espresso-core-reg/modules/ticket_selector/templates/standard_ticket_selector.template.php:58
@@ -13144,29 +13108,21 @@ msgstr ""
 msgid "You have attempted to purchase %d ticket."
 msgid_plural "You have attempted to purchase %d tickets."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: eea-multi-event-registration/EED_Multi_Event_Registration.module.php:1354
 msgid "There is only %1$d ticket remaining for this event, therefore the total number of tickets you may purchase is %1$d."
 msgid_plural "There are only %1$d tickets remaining for this event, therefore the total number of tickets you may purchase is %1$d."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: eea-multi-event-registration/EED_Multi_Event_Registration.module.php:1429
 msgid "You have attempted to purchase %1$d ticket but that would result in too many tickets in the %2$s for this event."
 msgid_plural "You have attempted to purchase %1$d tickets but that would result in too many tickets in the %2$s for this event."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: eea-multi-event-registration/EED_Multi_Event_Registration.module.php:1440
 msgid "The registration limit for this event is %1$d ticket per transaction, therefore the total number of tickets you may purchase at any time can not exceed %1$d."
 msgid_plural "The registration limit for this event is %1$d tickets per transaction, therefore the total number of tickets you may purchase at any time can not exceed %1$d."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: eea-multi-event-registration/templates/event_cart.template.php:52
 msgid "Empty %s"
@@ -14822,15 +14778,11 @@ msgstr ""
 msgid "%d message successfully queued for resending."
 msgid_plural "%d messages successfully queued for resending."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/modules/messages/EED_Messages.module.php:1299
 msgid "%d message successfully sent."
 msgid_plural "%d messages successfully sent."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/modules/messages/EED_Messages.module.php:1310
 #: event-espresso-core-reg/modules/messages/EED_Messages.module.php:1321
@@ -14841,15 +14793,11 @@ msgstr ""
 msgid "You have attempted to purchase %s ticket."
 msgid_plural "You have attempted to purchase %s tickets."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/modules/ticket_selector/ProcessTicketSelector.php:257
 msgid "The registration limit for this event is %s ticket per registration, therefore the total number of tickets you may purchase at a time can not exceed %s."
 msgid_plural "The registration limit for this event is %s tickets per registration, therefore the total number of tickets you may purchase at a time can not exceed %s."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/payment_methods/Paypal_Standard/EEG_Paypal_Standard.gateway.php:189
 msgid "PayPal payment request initiated."
@@ -15001,15 +14949,11 @@ msgstr ""
 msgid "There was %d message queued for resending."
 msgid_plural "There were %d messages queued for resending."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/modules/messages/EED_Messages.module.php:874
 msgid "The payment notification generation failed."
 msgid_plural "%d payment notifications failed being sent."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/modules/messages/EED_Messages.module.php:1128
 msgid "The messages were not generated. This could mean there is already a batch being generated on a separate request, or because the selected messages are not ready for generation. Please wait a minute or two and try again."
@@ -15023,8 +14967,6 @@ msgstr ""
 msgid "There was %d message successfully sent."
 msgid_plural "There were %d messages successfully sent."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/core/EE_Dependency_Map.core.php:267
 msgid "\"%1$s\" is not a valid loader method on EE_Registry."
@@ -15454,8 +15396,6 @@ msgstr ""
 msgid "Showing Aggregate output for 1 result"
 msgid_plural "Showing Aggregate output for %d items"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/core/libraries/messages/EE_Message_Type_Collection_Loader.lib.php:90
 msgid "The \"%1$s\" message type class can't be loaded from %2$s. Likely there is a typo in the class name or the file name."
@@ -15560,8 +15500,6 @@ msgstr ""
 msgid "The message was not deleted."
 msgid_plural "The messages were not deleted"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/admin_pages/messages/Messages_Admin_Page.core.php:180
 msgid "Show All Messengers"
@@ -17306,15 +17244,11 @@ msgstr ""
 msgid "1 item was successfully added for this event."
 msgid_plural "%1$s items were successfully added for this event."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: eea-multi-event-registration/EED_Multi_Event_Registration.module.php:908
 msgid "There is currently 1 item in the %2$s."
 msgid_plural "There are currently %1$d items in the %2$s."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: eea-multi-event-registration/EED_Multi_Event_Registration.module.php:1560
 msgid "%1$s item was successfully %2$s for this event."
@@ -18180,8 +18114,6 @@ msgstr ""
 msgid "1 Event"
 msgid_plural "%d Events"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: eea-multi-event-registration/templates/widget_minicart_list.template.php:33
 #: eea-multi-event-registration/templates/widget_minicart_table.template.php:48
@@ -18636,7 +18568,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/events/Events_Admin_Page.core.php:2850
 #: event-espresso-core-reg/admin_pages/venues/Venues_Admin_Page.core.php:1463
 msgid "You must add a name for the category."
-msgstr "Musisz podać nazwę kategorii."
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registrations/templates/reg_admin_details_header.template.php:46
 msgid "View %1$sRegistrations%4$s /  %2$sTransactions%4$s for this %3$sevent%4$s."
@@ -18644,15 +18576,15 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/transactions/Transactions_Admin_Page.core.php:1521
 msgid "There is no attached contact for this transaction.  The transaction either failed due to an error or was abandoned."
-msgstr "Brak kontaktu dla tej transakcji.Transakcja nie powiodła się z powodu błędu lub została przerwana."
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/transactions/templates/txn_admin_details_header.template.php:48
 msgid "Last Method of Payment: "
-msgstr "Ostatnia metoda płatności:"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/modules/ticket_selector_caff/EED_Ticket_Selector_Caff.module.php:177
 msgid "Show Expired Tickets?"
-msgstr "Wyświetlić nieaktywne bilety?"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/modules/ticket_selector_caff/EED_Ticket_Selector_Caff.module.php:181
 msgid "Indicate whether to show expired tickets in the ticket selector"
@@ -19009,7 +18941,7 @@ msgstr ""
 
 #: event-espresso-core-reg/core/db_classes/EE_Payment_Method.class.php:536
 msgid "Pay using %s"
-msgstr "Zapłać za pomocą %s"
+msgstr ""
 
 #: event-espresso-core-reg/core/db_models/EEM_Attendee.model.php:183
 msgid "Creator ID of the first Event attended"
@@ -19642,15 +19574,11 @@ msgstr ""
 msgid "Payment cancelled. Please try again."
 msgid_plural "Payment cancelled. Please try again or select another method of payment."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/modules/single_page_checkout/reg_steps/payment_options/EE_SPCO_Reg_Step_Payment_Options.class.php:2491
 msgid "We're sorry but your payment was declined. Please try again."
 msgid_plural "We're sorry but your payment was declined. Please try again or select another method of payment."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/caffeinated/core/libraries/messages/message_type/payment_cancelled/EE_Payment_Cancelled_message_type.class.php:21
 msgid "This message type is used for all cancelled payment notification messages that go out including any manual payments entered by an event administrator."
@@ -20569,15 +20497,11 @@ msgstr ""
 msgid "1 promotion was successfully trashed"
 msgid_plural "%s promotions were successfully trashed"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: eea-promotions/admin/promotions/Promotions_Admin_Page.core.php:810
 msgid "1 promotion was successfully restored"
 msgid_plural "%s promotions were successfully restored"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: eea-promotions/admin/promotions/Promotions_Admin_Page.core.php:837
 msgid "Unable to delete permanently the promotion because no promotion id is accessible."
@@ -20607,8 +20531,6 @@ msgstr ""
 msgid "1 promotion was successfully deleted."
 msgid_plural "%s promotions were successfully deleted."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: eea-promotions/admin/promotions/Promotions_Admin_Page.core.php:976
 msgid "Ribbon Banner"
@@ -21545,15 +21467,11 @@ msgstr ""
 msgid "1 Person successfully deleted."
 msgid_plural "%s People successfully deleted."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: eea-people-addon/admin/people/People_Admin_Page.core.php:1151
 msgid "1 Person not deleted."
 msgid_plural "%d People not deleted"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: eea-people-addon/admin/people/People_Admin_Page.core.php:1338
 #: eea-people-addon/admin/people/help_tabs/people_add_type.help_tab.php:8
@@ -25457,8 +25375,6 @@ msgstr ""
 msgid "The \"%1$s\" has been successfully %2$s."
 msgid_plural "The \"%1$s\" have been successfully %2$s."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/core/admin/EE_Admin_Page.core.php:4022
 msgid "\"%s\" have been successfully updated."
@@ -27295,15 +27211,11 @@ msgstr ""
 msgid "Minor Release Information"
 msgid_plural "Minor Releases"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/caffeinated/admin/extend/about/templates/whats_new.template.php:8
 msgid "Major Release Information"
 msgid_plural "Major Releases"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/caffeinated/admin/extend/messages/Custom_Messages_Template_List_Table.class.php:54
 msgid "Template Name"
@@ -28842,8 +28754,6 @@ msgstr ""
 msgid "The Price has been trashed"
 msgid_plural "The Prices have been trashed"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: eea-promotions/core/db_models/EEM_Promotion.model.php:36
 msgid "Scope"
@@ -28877,8 +28787,6 @@ msgstr ""
 msgid "The Price has been restored"
 msgid_plural "The Prices have been restored"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/core/db_classes/EE_CSV.class.php:262
 msgid "The column titled %s is invalid for importing. It must be be in the format of 'Nice Name[model_field_name]' in row %s"
@@ -28948,8 +28856,6 @@ msgstr ""
 msgid "The Price Type has been trashed"
 msgid_plural "The Price Types have been trashed"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: eea-promotions/core/db_models/EEM_Promotion.model.php:49
 msgid "Acceptance Message"
@@ -28986,8 +28892,6 @@ msgstr ""
 msgid "The Price Type has been restored"
 msgid_plural "The Price Types have been restored"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/core/db_classes/EE_Import.class.php:835
 msgid "Could not insert new %s with the csv data: %s"
@@ -30391,7 +30295,7 @@ msgstr ""
 #: event-espresso-core-reg/languages/ee-js.pot.php:227
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:1761
 msgid "sold out"
-msgstr "brak wolnych miejsc"
+msgstr ""
 
 #: event-espresso-core-reg/core/third_party_libs/pue/pue-client.php:1630
 msgid "Congratulations!  You have entered in a valid api key for the premium version of %s.  You can click the button below to upgrade to this version immediately."
@@ -34071,8 +33975,6 @@ msgstr ""
 msgid "Message Template Context"
 msgid_plural "Message Template Contexts"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/admin_pages/registration_form/help_tabs/registration_form_questions_overview_views_bulk_actions_search.help_tab.php:30
 msgid "Questions Groups Overview Search"
@@ -34086,8 +33988,6 @@ msgstr ""
 msgid "template"
 msgid_plural "templates"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/admin_pages/registration_form/help_tabs/registration_form_questions_overview_views_bulk_actions_search.help_tab.php:33
 msgid "You can perform a search to find certain question groups. The following sources will be searched: Question (name of question). To use the search feature, enter a value into the search box and click on the Search Questions button."
@@ -34921,7 +34821,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/transactions/EE_Admin_Transactions_List_Table.class.php:517
 #: event-espresso-core-reg/admin_pages/transactions/Transactions_Admin_Page.core.php:537
 msgid "View Transaction Details"
-msgstr "Wyświetl szczegóły transakcji"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registrations/templates/reg_admin_details_header.template.php:62
 msgid "Registration Status: "
@@ -35032,7 +34932,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/transactions/help_tabs/transactions_overview_table_column_headings.help_tab.php:14
 #: event-espresso-core-reg/admin_pages/transactions/templates/txn_admin_details_header.template.php:35
 msgid "Transaction Date"
-msgstr "Data transakcji"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/general_settings/OrganizationSettings.php:122
 msgid "Displayed on all emails and invoices."
@@ -35789,7 +35689,7 @@ msgstr ""
 
 #: eea-mailchimp/admin/mailchimp/Mailchimp_Admin_Page.core.php:116
 msgid "API Settings"
-msgstr "Ustawienia API"
+msgstr ""
 
 #: event-espresso-core-reg/core/domain/services/registration/form/v1/RegFormInputHandler.php:217
 msgid "Last Name is a required value."
@@ -35932,8 +35832,6 @@ msgstr ""
 msgid "Message Template Group"
 msgid_plural "Message Template Groups"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/admin_pages/messages/Messages_Template_List_Table.class.php:56
 #: event-espresso-core-reg/caffeinated/admin/extend/messages/Custom_Messages_Template_List_Table.class.php:46
@@ -36014,8 +35912,6 @@ msgstr ""
 msgid "question"
 msgid_plural "questions"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #: event-espresso-core-reg/core/libraries/messages/messenger/EE_Email_messenger.class.php:60
 msgid "emails"
@@ -36273,7 +36169,7 @@ msgstr ""
 #: ee4-events-calendar/CalendarIframe.php:32
 #: ee4-events-calendar/admin/calendar/Calendar_Admin_Page_Init.core.php:31
 msgid "Calendar"
-msgstr "Kalendarz"
+msgstr ""
 
 #: event-espresso-core-reg/core/admin/EE_Admin_Page.core.php:1007
 msgid " Check the route you are using in your method (%s) and make sure it matches a route set in your \"_page_routes\" array property"
@@ -37912,7 +37808,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/general_settings/OrganizationSettings.php:228
 msgid "The phone number for your organization."
-msgstr "Numer telefonu twojej organizacji."
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registrations/templates/attendee_address_details_metabox_content.template.php:31
 msgid "The contact's street address."
@@ -37930,12 +37826,12 @@ msgstr ""
 #: event-espresso-core-reg/caffeinated/admin/extend/events/templates/event_registration_options.template.php:54
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:205
 msgid "Default Registration Status"
-msgstr "Domyślny status rejestracji"
+msgstr ""
 
 #: event-espresso-core-reg/modules/gateways/Invoice/lib/templates/invoice_body.template.php:34
 #: event-espresso-core-reg/modules/gateways/Invoice/lib/templates/receipt_body.template.php:38
 msgid "VAT/Tax Number:"
-msgstr "Numer VAT/NIP:"
+msgstr ""
 
 #: eea-chase-orbital/payment_methods/Chase_Orbital/EE_PMT_Chase_Orbital.pm.php:143
 #: eea-people-addon/admin/people/templates/people_address_details_metabox_content.template.php:22
@@ -37953,7 +37849,7 @@ msgstr "Numer VAT/NIP:"
 #: event-espresso-core-reg/core/helpers/EEH_Activation.helper.php:900
 #: event-espresso-core-reg/core/libraries/form_sections/payment_methods/EE_Billing_Attendee_Info_Form.form.php:54
 msgid "City"
-msgstr "Miasto"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/admin/new/pricing/templates/event_tickets_datetime_ticket_row.template.php:539
 msgid "This ticket will be usable (allow entrance) for the following selected event datetimes (click to select).  The \"# Datetimes\" amount (above) indicates how many of the assigned datetimes the ticket holder can gain access to:"
@@ -37968,11 +37864,11 @@ msgstr ""
 #: event-espresso-core-reg/core/domain/services/admin/AdminToolBar.php:639
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:1811
 msgid "Approved"
-msgstr "Zatwierdzony"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/general_settings/OrganizationSettings.php:241
 msgid "The VAT/Tax Number may be displayed on invoices and receipts."
-msgstr "Numer VAT/NIP może być umieszczany na fakturach i rachunkach."
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/admin/new/pricing/templates/event_tickets_datetime_ticket_row.template.php:563
 msgid "use this new ticket as a default ticket for any new events"
@@ -37984,7 +37880,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/general_settings/OrganizationSettings.php:262
 msgid "Upload New Logo"
-msgstr "Dodaj nowe logo"
+msgstr ""
 
 #: eea-importer/src/domain/services/import/csv/attendees/templates/ee_importer_mapping_instructions.template.php:20
 #: eea-people-addon/admin/people/templates/person_contact_info_metabox_content.template.php:8
@@ -38002,14 +37898,14 @@ msgstr "Dodaj nowe logo"
 #: event-espresso-core-reg/core/helpers/EEH_Activation.helper.php:833
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:652
 msgid "Email Address"
-msgstr "Adres e-mail"
+msgstr ""
 
 #: event-espresso-core-reg/core/domain/services/admin/AdminToolBar.php:487
 #: event-espresso-core-reg/core/domain/services/admin/AdminToolBar.php:665
 #: event-espresso-core-reg/core/domain/services/admin/AdminToolBar.php:675
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:1018
 msgid "Pending"
-msgstr "Oczekujący"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registrations/templates/attendee_details_main_meta_box.template.php:27
 #: event-espresso-core-reg/admin_pages/registrations/templates/attendee_details_main_meta_box.template.php:51
@@ -38019,7 +37915,7 @@ msgstr "Oczekujący"
 #: event-espresso-core-reg/admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:540
 #: event-espresso-core-reg/admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:547
 msgid "The following is  a required field"
-msgstr "Następujące pole jest wymagane"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/admin/extend/events/espresso_events_Events_Hooks_Extend.class.php:209
 #: event-espresso-core-reg/caffeinated/admin/new/pricing/templates/event_tickets_datetime_ticket_row.template.php:579
@@ -38028,11 +37924,11 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/general_settings/OrganizationSettings.php:263
 msgid "Your logo will be used on custom invoices, tickets, certificates, and payment templates."
-msgstr "Logo będzie umieszczane na fakturach, biletach, certyfikatach i szablonach płatności."
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registrations/templates/attendee_details_main_meta_box.template.php:84
 msgid "( required value )"
-msgstr "(wartość wymagana)"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/admin/new/pricing/templates/event_tickets_metabox_main.template.php:39
 msgid "Add Datetime"
@@ -38044,7 +37940,7 @@ msgstr ""
 
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:1802
 msgid "Not Approved"
-msgstr "Niezatwierdzony"
+msgstr ""
 
 #: eea-ipay88-gateway/payment_methods/IPay88/EE_PMT_IPay88.pm.php:68
 #: eea-people-addon/admin/people/templates/person_contact_info_metabox_content.template.php:11
@@ -38055,7 +37951,7 @@ msgstr "Niezatwierdzony"
 #: event-espresso-core-reg/core/services/form/meta/inputs/Phone.php:87
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:1579
 msgid "Phone Number"
-msgstr "Numer Telefonu"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/admin/new/pricing/templates/event_tickets_metabox_main.template.php:90
 msgid "Add New Datetime"
@@ -38068,7 +37964,7 @@ msgstr ""
 #: eea-people-addon/admin/people/templates/people_details_after_title_form_fields.template.php:9
 #: event-espresso-core-reg/admin_pages/registrations/templates/attendee_details_after_title_form_fields.template.php:11
 msgid "First Name:"
-msgstr "Imię:"
+msgstr ""
 
 #: event-espresso-core-reg/modules/ticket_selector/TicketSelectorRow.php:276
 msgid "Goes&nbsp;On&nbsp;Sale"
@@ -38077,11 +37973,11 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/events/Events_Admin_Page.core.php:473
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_edit_category.help_tab.php:1
 msgid "Edit Event Category"
-msgstr "Edytuj kategorię wydarzenia"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/general_settings/OrganizationSettings.php:278
 msgid "Enter any links to social accounts for your organization here"
-msgstr "Dodaj odnośniki do kont w mediach społecznościowych twojej organizacji"
+msgstr ""
 
 #: eea-chase-orbital/payment_methods/Chase_Orbital/EE_PMT_Chase_Orbital.pm.php:137
 #: eea-importer/src/domain/services/import/csv/attendees/templates/ee_importer_mapping_instructions.template.php:19
@@ -38097,7 +37993,7 @@ msgstr "Dodaj odnośniki do kont w mediach społecznościowych twojej organizacj
 #: event-espresso-core-reg/core/helpers/EEH_Activation.helper.php:801
 #: event-espresso-core-reg/core/libraries/form_sections/payment_methods/EE_Billing_Attendee_Info_Form.form.php:30
 msgid "First Name"
-msgstr "Imię"
+msgstr ""
 
 #: eea-importer/src/domain/services/import/csv/attendees/forms/form_handlers/ChooseTicket.php:91
 #: eea-importer/src/domain/services/import/csv/attendees/templates/importer_verify_info.template.php:17
@@ -38115,11 +38011,11 @@ msgstr "Imię"
 #: event-espresso-core-reg/core/libraries/messages/defaults/default/html_receipt_ticket_list.template.php:13
 #: event-espresso-core-reg/modules/gateways/Invoice/lib/templates/receipt_body.template.php:97
 msgid "Ticket"
-msgstr "Bilet"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_edit_category.help_tab.php:3
 msgid "This page allows you to edit an event category."
-msgstr "Na tej stronie możesz edytować kategorię wydarzenia."
+msgstr ""
 
 #: eea-automated-upcoming-event-notifications/views/message/templates/email_automate_post_datetime_content.template.php:74
 #: eea-automated-upcoming-event-notifications/views/message/templates/email_automate_post_event_content.template.php:71
@@ -38149,12 +38045,12 @@ msgstr "Na tej stronie możesz edytować kategorię wydarzenia."
 #: event-espresso-core-reg/core/libraries/messages/defaults/default/email_registration_event_list_primary_attendee.template.php:52
 #: event-espresso-core-reg/core/libraries/messages/defaults/default/email_registration_summary_content.template.php:65
 msgid "Facebook"
-msgstr "Facebook"
+msgstr ""
 
 #: eea-people-addon/admin/people/templates/people_details_after_title_form_fields.template.php:11
 #: event-espresso-core-reg/admin_pages/registrations/templates/attendee_details_after_title_form_fields.template.php:24
 msgid "Last Name:"
-msgstr "Nazwisko:"
+msgstr ""
 
 #: eea-automated-upcoming-event-notifications/views/message/templates/email_automate_post_datetime_content.template.php:75
 #: eea-automated-upcoming-event-notifications/views/message/templates/email_automate_post_event_content.template.php:72
@@ -38183,7 +38079,7 @@ msgstr "Nazwisko:"
 #: event-espresso-core-reg/core/libraries/messages/defaults/default/email_registration_event_list_primary_attendee.template.php:53
 #: event-espresso-core-reg/core/libraries/messages/defaults/default/email_registration_summary_content.template.php:66
 msgid "Twitter"
-msgstr "Twitter"
+msgstr ""
 
 #: eea-chase-orbital/payment_methods/Chase_Orbital/EE_PMT_Chase_Orbital.pm.php:138
 #: eea-people-addon/admin/people/templates/people_details_after_title_form_fields.template.php:12
@@ -38197,7 +38093,7 @@ msgstr "Twitter"
 #: event-espresso-core-reg/core/helpers/EEH_Activation.helper.php:817
 #: event-espresso-core-reg/core/libraries/form_sections/payment_methods/EE_Billing_Attendee_Info_Form.form.php:35
 msgid "Last Name"
-msgstr "Nazwisko"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/admin/new/pricing/templates/pricing_details_main_meta_box.template.php:32
 msgid "This is the default base price. Every new ticket created will start off with this base price."
@@ -38210,7 +38106,7 @@ msgstr ""
 #: eea-importer/src/ui/admin/importer/Importer_Admin_Page.core.php:128
 #: event-espresso-core-reg/caffeinated/admin/extend/events/Extend_Events_Admin_Page.core.php:665
 msgid "Import"
-msgstr "Importuj"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/admin/new/pricing/templates/pricing_details_main_meta_box.template.php:50
 msgid "Price Modifier. Default items will apply to ALL new events you create."
@@ -38226,7 +38122,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/general_settings/OrganizationSettings.php:323
 msgid "Pinterest"
-msgstr "Pinterest"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/admin/new/pricing/help_tabs/pricing_add_new_price_type.help_tab.php:15
 #: event-espresso-core-reg/caffeinated/admin/new/pricing/help_tabs/pricing_edit_price_type.help_tab.php:15
@@ -38258,7 +38154,7 @@ msgstr ""
 #: event-espresso-core-reg/core/helpers/EEH_Activation.helper.php:868
 #: event-espresso-core-reg/core/libraries/form_sections/payment_methods/EE_Billing_Attendee_Info_Form.form.php:43
 msgid "Address"
-msgstr "Adres"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/admin/new/pricing/templates/pricing_type_details_main_meta_box.template.php:24
 msgid "Choosing a basic type allows us to quickly configure a bunch of other options for you.%1$sAll events need to have at least one Base Price type option.%1$sDiscounts reduce the price of an event, Surcharges increase the price.%1$sTaxes are applied to the final total."
@@ -38270,7 +38166,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/general_settings/OrganizationSettings.php:333
 msgid "Instagram"
-msgstr "Instagram"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/admin/new/pricing/help_tabs/pricing_add_new_price_type.help_tab.php:19
 #: event-espresso-core-reg/caffeinated/admin/new/pricing/help_tabs/pricing_edit_price_type.help_tab.php:19
@@ -38281,7 +38177,7 @@ msgstr ""
 
 #: event-espresso-core-reg/caffeinated/core/services/licensing/UserExperienceForm.php:97
 msgid "UXIP Opt In?"
-msgstr "Dołączyć do UXIP?"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/admin/new/pricing/templates/pricing_type_details_main_meta_box.template.php:44
 msgid "A name for this Price Type."
@@ -38311,7 +38207,7 @@ msgstr ""
 #: event-espresso-core-reg/core/libraries/batch/JobHandlers/AttendeesReport.php:154
 #: event-espresso-core-reg/core/libraries/form_sections/payment_methods/EE_Billing_Attendee_Info_Form.form.php:69
 msgid "Country"
-msgstr "Kraj"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview.help_tab.php:5
 msgid "This page shows all events that have been created with Event Espresso."
@@ -38325,7 +38221,7 @@ msgstr ""
 #: event-espresso-core-reg/core/db_models/EEM_Event.model.php:93
 #: event-espresso-core-reg/core/domain/services/graphql/types/Event.php:181
 msgid "Event Name"
-msgstr "Nazwa wydarzenia"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/admin/new/pricing/templates/pricing_type_details_main_meta_box.template.php:63
 msgid "Percentage"
@@ -38358,7 +38254,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/templates/ee_msg_overview_help_tab.template.php:53
 msgid "Filters"
-msgstr "Filtry"
+msgstr ""
 
 #: eea-wp-user-integration/templates/eea-wp-users-registrations-table.template.php:26
 #: event-espresso-core-reg/admin_pages/registrations/help_tabs/registrations_event_checkin_table_column_headings.help_tab.php:42
@@ -38386,16 +38282,16 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_filters.help_tab.php:7
 #: event-espresso-core-reg/admin_pages/registrations/help_tabs/registrations_overview_filters.help_tab.php:19
 msgid "Filter by Status"
-msgstr "Filtruj wg statusu"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_filters.help_tab.php:8
 msgid "The following statuses are available: Active, Upcoming, Expired, and Inactive. An Active event is one that is currently ongoing. An Upcoming event is one that has been created but is scheduled to take place in the future. An Expired event is one that has already taken place. An Inactive event is one that has been cancelled."
-msgstr "Dostępne są następujące statusy wydarzeń: aktywne, nadchodzące, minione i nieaktywne. Wydarzenie aktywne to takie, które akurat trwa. Wydarzenie nadchodzące to takie, które zostało stworzone, ale będzie miało miejsce w przyszłości. Wydarzenie minione to takie, które już się odbyło. Wydarzenie nieaktywne to takie, które zostało odwołane."
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registrations/templates/reg_admin_details_main_meta_box_attendees.template.php:19
 #: event-espresso-core-reg/admin_pages/transactions/help_tabs/transactions_view_transaction_attendees_registered.help_tab.php:6
 msgid "#"
-msgstr "#"
+msgstr ""
 
 #: event-espresso-core-reg/modules/ticket_selector/templates/ticket_details.template.php:192
 msgid "# Datetimes:"
@@ -38404,7 +38300,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_filters.help_tab.php:14
 #: event-espresso-core-reg/admin_pages/registrations/help_tabs/registrations_overview_filters.help_tab.php:9
 msgid "Filter by Month / Year"
-msgstr "Filtruj wg miesiąca / roku"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registrations/templates/reg_admin_details_main_meta_box_attendees.template.php:21
 #: event-espresso-core-reg/caffeinated/core/libraries/messages/defaults/default/html_receipt_attendee_list.template.php:11
@@ -38412,15 +38308,15 @@ msgstr "Filtruj wg miesiąca / roku"
 #: event-espresso-core-reg/core/libraries/messages/defaults/default/html_receipt_attendee_list.template.php:11
 #: event-espresso-core-reg/modules/gateways/Invoice/lib/templates/receipt_body.template.php:347
 msgid "Attendee"
-msgstr "Uczestnik"
+msgstr ""
 
 #: event-espresso-core-reg/modules/thank_you_page/templates/thank-you-page-payment-details.template.php:13
 msgid "Payment Overview"
-msgstr "Opis płatności"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_filters.help_tab.php:15
 msgid "Show events that fall under a specific month and year."
-msgstr "Pokazuj wydarzenia z konkretnego miesiąca lub roku."
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registrations/templates/reg_admin_details_main_meta_box_attendees.template.php:22
 msgid "Price Paid"
@@ -38433,7 +38329,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_filters.help_tab.php:18
 #: event-espresso-core-reg/admin_pages/registrations/help_tabs/registrations_overview_filters.help_tab.php:14
 msgid "Filter by Categories"
-msgstr "Filtruj wg kategorii"
+msgstr ""
 
 #: eea-chase-orbital/payment_methods/Chase_Orbital/EE_PMT_Chase_Orbital.pm.php:139
 #: eea-importer/src/ui/admin/importer/help_tabs/importer_import_upload.help_tab.php:16
@@ -38450,7 +38346,7 @@ msgstr "Filtruj wg kategorii"
 #: event-espresso-core-reg/core/libraries/form_sections/payment_methods/EE_Billing_Attendee_Info_Form.form.php:40
 #: event-espresso-core-reg/core/services/form/meta/inputs/Text.php:44
 msgid "Email"
-msgstr "E-mail"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/venues/templates/event_venues_metabox_content_from_manager.template.php:62
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:1136
@@ -38463,7 +38359,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registrations/templates/reg_admin_details_main_meta_box_attendees.template.php:40
 msgid "View details for this attendee"
-msgstr "Wyświetl szczegóły dla tego uczestnika"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/venues/templates/venue_gmap_metabox_content.template.php:20
 msgid "Display Google Map for this venue? "
@@ -38475,7 +38371,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:104
 msgid "Payment Details"
-msgstr "Szczegóły płatności"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_other.help_tab.php:11
 msgid "You can perform a search to find certain events. The following sources will be searched: Event Name (Title), Event Description, and Event Short Description (Excerpt). To use the search feature, enter a value into the search box and click on the Search Events button."
@@ -38508,7 +38404,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_table_column_headings.help_tab.php:12
 msgid "This is the name of an event. "
-msgstr "Jest to nazwa wydarzenia."
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registrations/help_tabs/registrations_details_table.help_tab.php:33
 #: event-espresso-core-reg/admin_pages/transactions/help_tabs/transactions_view_transaction_transaction_details_table.help_tab.php:27
@@ -38523,7 +38419,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/transactions/Transactions_Admin_Page.core.php:844
 #: event-espresso-core-reg/modules/thank_you_page/templates/thank-you-page-transaction-details.template.php:14
 msgid "Transaction Details"
-msgstr "Szczegóły transakcji"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/maintenance/templates/ee_migration_was_borked_page.template.php:7
 msgid "Data Migration Error"
@@ -38549,7 +38445,7 @@ msgstr ""
 
 #: event-espresso-core-reg/modules/thank_you_page/templates/thank-you-page-transaction-details.template.php:22
 msgid "Total Cost: "
-msgstr "Łączny koszt:"
+msgstr ""
 
 #: eea-events-table-view-template/templates/espresso-events-table-template-toggle.template.php:46
 #: eea-events-table-view-template/templates/espresso-events-table-template.template.php:47
@@ -38561,7 +38457,7 @@ msgstr "Łączny koszt:"
 #: event-espresso-core-reg/core/libraries/messages/defaults/default/email_registration_event_list_primary_attendee.template.php:35
 #: event-espresso-core-reg/core/libraries/messages/defaults/default/html_receipt_ticket_list.template.php:35
 msgid "Venue"
-msgstr "Miejsce"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/maintenance/templates/ee_migration_was_borked_page.template.php:27
 msgid "Fill out the below form to automatically Send Event Espresso a Crash Report"
@@ -38591,7 +38487,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/transactions/templates/txn_admin_details_header.template.php:39
 #: event-espresso-core-reg/modules/thank_you_page/templates/thank-you-page-transaction-details.template.php:42
 msgid "Transaction Status: "
-msgstr "Status transakcji:"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/Events_Admin_List_Table.class.php:55
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_table_column_headings.help_tab.php:33
@@ -38599,7 +38495,7 @@ msgstr "Status transakcji:"
 #: event-espresso-core-reg/caffeinated/admin/new/pricing/templates/event_tickets_metabox_main.template.php:62
 #: event-espresso-core-reg/caffeinated/admin/new/pricing/templates/event_tickets_metabox_main.template.php:107
 msgid "Event Start"
-msgstr "Początek wydarzenia"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/maintenance/templates/ee_migration_was_borked_page.template.php:54
 msgid "Your Name"
@@ -38616,7 +38512,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_table_column_headings.help_tab.php:34
 #: event-espresso-core-reg/admin_pages/registrations/help_tabs/registrations_overview_table_column_headings.help_tab.php:42
 msgid "The date that the event begins."
-msgstr "Data, kiedy wydarzenie się zaczyna."
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/maintenance/templates/ee_migration_was_borked_page.template.php:70
 msgid "Comments"
@@ -38633,7 +38529,7 @@ msgstr ""
 
 #: event-espresso-core-reg/modules/thank_you_page/templates/thank-you-page-transaction-details.template.php:73
 msgid "Click here to view Payment Options"
-msgstr "Kliknij by zobaczyć Opcje Płatności"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/Events_Admin_List_Table.class.php:56
 #: event-espresso-core-reg/admin_pages/events/help_tabs/event_editor_event_tickets.help_tab.php:93
@@ -38670,7 +38566,7 @@ msgstr ""
 #: event-espresso-core-reg/core/db_classes/EE_Export.class.php:488
 #: event-espresso-core-reg/core/libraries/batch/JobHandlers/RegistrationsReport.php:406
 msgid "Registration Status"
-msgstr "Status rejestracji"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/Events_Admin_List_Table.class.php:257
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_table_column_headings.help_tab.php:41
@@ -38683,7 +38579,7 @@ msgstr "Status rejestracji"
 #: event-espresso-core-reg/core/domain/services/admin/AdminToolBar.php:394
 #: event-espresso-core-reg/core/domain/services/admin/AdminToolBar.php:397
 msgid "Registrations"
-msgstr "Rejestracje"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registrations/help_tabs/registrations_details_registrant_details.help_tab.php:20
 #: event-espresso-core-reg/admin_pages/transactions/help_tabs/transactions_view_transaction_primary_registrant_billing_information.help_tab.php:19
@@ -38696,7 +38592,7 @@ msgstr ""
 
 #: event-espresso-core-reg/modules/thank_you_page/templates/thank-you-page-registration-details.template.php:73
 msgid "Click here to edit Attendee Information"
-msgstr "Kliknij, aby edytować szczegóły uczestnika"
+msgstr ""
 
 #: event-espresso-core-reg/core/admin/templates/admin_general_metabox_contents_espresso_links.template.php:24
 msgid "Changelog"
@@ -38716,7 +38612,7 @@ msgstr ""
 #: event-espresso-core-reg/core/libraries/messages/messenger/admin_templates/event_switcher_wrapper.template.php:22
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:623
 msgid "Actions"
-msgstr "Akcje"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registrations/templates/reg_admin_register_new_attendee.template.php:14
 msgid "Adding Registration For: "
@@ -38753,12 +38649,12 @@ msgstr ""
 #: event-espresso-core-reg/modules/gateways/Invoice/lib/templates/receipt_body.template.php:261
 #: event-espresso-core-reg/public/Espresso_Arabica_2014/content-espresso_events-venues.php:20
 msgid "Venue:"
-msgstr "Miejsce:"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/Events_Admin_Page.core.php:827
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_views.help_tab.php:11
 msgid "View All Events"
-msgstr "Zobacz wszystkie wydarzenia"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/Messages_Admin_Page.core.php:460
 #: event-espresso-core-reg/admin_pages/messages/help_tabs/messages_overview.help_tab.php:2
@@ -38767,7 +38663,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registrations/templates/registration_page_registration_questions.template.php:127
 msgid "more options"
-msgstr "więcej opcji"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/other_services/templates/other_services_content.template.php:137
 #: event-espresso-core-reg/admin_pages/other_services/templates/other_services_content.template.php:143
@@ -38779,11 +38675,11 @@ msgstr ""
 #: event-espresso-core-reg/public/Espresso_Arabica_2014/content-espresso_events-venues.php:52
 #: event-espresso-core-reg/public/Espresso_Arabica_2014/content-espresso_events-venues.php:60
 msgid "Description:"
-msgstr "Opis:"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_views.help_tab.php:12
 msgid "Show all events."
-msgstr "Pokaż wszystkie wydarzenia."
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/help_tabs/messages_overview.help_tab.php:6
 msgid "The Messages system is used by Event Espresso to prepare messages for different uses (Message Types) and these messages are delivered by different Messengers. %1$sThis framework offers a large amount of flexibility. This page shows message templates that have been created with Event Espresso and are currently enable for at least one event."
@@ -38791,7 +38687,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registrations/templates/registration_page_registration_questions.template.php:135
 msgid "less options"
-msgstr "mniej opcji"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/other_services/templates/other_services_content.template.php:340
 #: event-espresso-core-reg/admin_pages/other_services/templates/other_services_content.template.php:346
@@ -38801,7 +38697,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_views.help_tab.php:15
 msgid "View Draft Events"
-msgstr "Zobacz szkicowe wydarzenia"
+msgstr ""
 
 #: event-espresso-core-reg/core/admin/templates/admin_general_metabox_contents_espresso_links.template.php:64
 msgid "Seating Chart"
@@ -38809,7 +38705,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_views.help_tab.php:16
 msgid "Show events that are not published and have a status of draft."
-msgstr "Pokaż wydarzenia, które nie są opublikowane, ale mają status szkicu."
+msgstr ""
 
 #: event-espresso-core-reg/modules/single_page_checkout/reg_steps/attendee_information/auto_copy_attendee_info.template.php:4
 msgid "The above information will be used for any additional tickets/attendees."
@@ -38817,7 +38713,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_views.help_tab.php:19
 msgid "View Trashed Events"
-msgstr "Zobacz usunięte wydarzenia"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/Messages_Admin_Page.core.php:468
 #: event-espresso-core-reg/admin_pages/messages/help_tabs/messages_overview_filters.help_tab.php:1
@@ -38830,7 +38726,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_views.help_tab.php:20
 msgid "Show events that have been moved to the trash."
-msgstr "Pokaż wydarzenia, które zostały przeniesione do kosza."
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/help_tabs/messages_overview_filters.help_tab.php:3
 msgid "Filters are a way to show message templates that fall into certain criteria."
@@ -38844,20 +38740,20 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_views.help_tab.php:23
 msgid "View Events for Today"
-msgstr "Zobacz wydarzenia z dzisiaj"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_views.help_tab.php:24
 msgid "Show events that are taking place today."
-msgstr "Pokaż wydarzenia, które odbywają się dzisiaj."
+msgstr ""
 
 #: event-espresso-core-reg/core/db_classes/EE_Export.class.php:666
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:680
 msgid "all"
-msgstr "wszystkie"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_views.help_tab.php:27
 msgid "View Events for this Month"
-msgstr "Zobacz wydarzenia w tym miesiącu"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/help_tabs/messages_overview_filters.help_tab.php:18
 msgid "Filter by Message Types"
@@ -38869,7 +38765,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_overview_views.help_tab.php:28
 msgid "Show events that fall under the current month."
-msgstr "Pokaż wydarzenia, które odbywają się w bieżącym miesiącu."
+msgstr ""
 
 #: eea-authnet-accept/payment_methods/AuthorizeNet_Accept/help_tabs/payment_methods_overview_authorizenet_accept.help_tab.php:23
 #: eea-authorizenet-sim/payment_methods/AuthorizeNet_Sim/help_tabs/payment_methods_overview_authorizenet_sim.help_tab.php:27
@@ -38885,11 +38781,11 @@ msgstr "Pokaż wydarzenia, które odbywają się w bieżącym miesiącu."
 #: event-espresso-core-reg/payment_methods/Invoice/help_tabs/payment_methods_overview_invoice.help_tab.php:43
 #: event-espresso-core-reg/payment_methods/Paypal_Standard/help_tabs/payment_methods_overview_paypalstandard.help_tab.php:43
 msgid "Button Image URL"
-msgstr "URL Przycisk"
+msgstr ""
 
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:971
 msgid "Reset"
-msgstr "Reset"
+msgstr ""
 
 #: event-espresso-core-reg/core/db_classes/EE_Import.class.php:115
 msgid "Upload File"
@@ -38914,7 +38810,7 @@ msgstr ""
 #: event-espresso-core-reg/core/helpers/EEH_Activation.helper.php:965
 #: event-espresso-core-reg/core/helpers/EEH_Form_Fields.helper.php:859
 msgid "This field is required"
-msgstr "To pole jest wymagane"
+msgstr ""
 
 #: event-espresso-core-reg/core/services/helpers/datetime/AbstractHelper.php:150
 msgid "Choose a city in the same timezone as the event."
@@ -38923,7 +38819,7 @@ msgstr ""
 #: eea-people-addon/admin/people/People_Admin_Page.core.php:1340
 #: event-espresso-core-reg/admin_pages/events/templates/event_category_details.template.php:50
 msgid "This is a default category so you can edit the label and the description but not the slug"
-msgstr "Ta kategoria jest domyślna, więc można edytować jej nazwę i opis, ale nie nazwę uproszczoną"
+msgstr ""
 
 #: event-espresso-core-reg/core/services/helpers/datetime/AbstractHelper.php:181
 msgid "This timezone is currently in daylight saving time."
@@ -38944,7 +38840,7 @@ msgstr ""
 #: event-espresso-core-reg/public/Espresso_Arabica_2014/content-espresso_events-venues.php:74
 #: event-espresso-core-reg/public/Espresso_Arabica_2014/content-espresso_venues-location.php:8
 msgid "Location"
-msgstr "Lokalizacja"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/templates/event_registration_options.template.php:21
 #: event-espresso-core-reg/caffeinated/admin/extend/events/templates/event_registration_options.template.php:24
@@ -38968,7 +38864,7 @@ msgstr ""
 #: event-espresso-core-reg/widgets/upcoming_events/EEW_Upcoming_Events.widget.php:135
 #: event-espresso-core-reg/widgets/upcoming_events/EEW_Upcoming_Events.widget.php:428
 msgid "Event Category:"
-msgstr "Kategoria zdarzenia:"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/templates/event_tickets_metabox_main.template.php:24
 msgid "Event Datetime"
@@ -38980,7 +38876,7 @@ msgstr ""
 
 #: event-espresso-core-reg/widgets/upcoming_events/EEW_Upcoming_Events.widget.php:141
 msgid "Number of Events to Display:"
-msgstr "Liczba wyświetlanych wydarzeń:"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/templates/event_tickets_metabox_main.template.php:50
 #: event-espresso-core-reg/caffeinated/admin/new/pricing/templates/event_tickets_metabox_main.template.php:65
@@ -38991,7 +38887,7 @@ msgstr ""
 #: event-espresso-core-reg/widgets/upcoming_events/EEW_Upcoming_Events.widget.php:152
 #: event-espresso-core-reg/widgets/upcoming_events/EEW_Upcoming_Events.widget.php:161
 msgid "Show Expired Events:"
-msgstr "Pokazuj minione wydarzenia"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/templates/event_tickets_metabox_main.template.php:51
 msgid "Reg Limit"
@@ -39000,7 +38896,7 @@ msgstr ""
 #: event-espresso-core-reg/widgets/upcoming_events/EEW_Upcoming_Events.widget.php:190
 #: event-espresso-core-reg/widgets/upcoming_events/EEW_Upcoming_Events.widget.php:464
 msgid "Image Size:"
-msgstr "Rozmiar obrazka:"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/templates/event_tickets_metabox_main.template.php:105
 msgid "Ticket Options"
@@ -39009,7 +38905,7 @@ msgstr ""
 #: event-espresso-core-reg/widgets/upcoming_events/EEW_Upcoming_Events.widget.php:197
 #: event-espresso-core-reg/widgets/upcoming_events/EEW_Upcoming_Events.widget.php:202
 msgid "Show Description:"
-msgstr "Pokaż opis:"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/templates/event_tickets_metabox_main.template.php:113
 #: event-espresso-core-reg/caffeinated/admin/new/pricing/templates/event_tickets_datetime_attached_tickets_row.template.php:66
@@ -39021,7 +38917,7 @@ msgstr ""
 #: event-espresso-core-reg/widgets/upcoming_events/EEW_Upcoming_Events.widget.php:214
 #: event-espresso-core-reg/widgets/upcoming_events/EEW_Upcoming_Events.widget.php:219
 msgid "Show Dates:"
-msgstr "Pokaż daty:"
+msgstr ""
 
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:1118
 msgid "Goes on Sale"
@@ -39043,7 +38939,7 @@ msgstr ""
 
 #: event-espresso-core-reg/caffeinated/payment_methods/Aim/templates/authorize_net_aim_debug_info.template.php:16
 msgid "Authorize.net AIM Test Mode"
-msgstr "AIM Authorize.net Tryb testowy"
+msgstr ""
 
 #: eea-multi-event-registration/templates/event_cart.template.php:32
 #: eea-multi-event-registration/templates/widget_minicart_table.template.php:31
@@ -39078,12 +38974,12 @@ msgstr "AIM Authorize.net Tryb testowy"
 #: event-espresso-core-reg/modules/ticket_selector/TicketDetails.php:196
 #: event-espresso-core-reg/modules/ticket_selector/TicketSelectorStandard.php:153
 msgid "Price"
-msgstr "Cena"
+msgstr ""
 
 #: eea-evertec/payment_methods/Evertec_Onsite/templates/evertec_debug_info.template.php:37
 #: event-espresso-core-reg/caffeinated/payment_methods/Aim/templates/authorize_net_aim_debug_info.template.php:20
 msgid "Test Mode allows you to submit test transactions to the payment gateway. Transactions that are submitted while Test Mode is ON are NOT actually processed. The result of a transaction depends on the card number submitted, and the invoice amount. If you want a transaction to be approved, use one of the following card numbers."
-msgstr "Test Mode pozwala na przedstawienie transakcji testowej do bramki płatności. Transakcje, które są podane podczas Test Mode ON NIE są rzeczywiście realizowane. Wyniku transakcji zależy od liczby złożonych kart oraz kwoty na fakturze. Jeśli chcesz, aby transakcja została zatwierdzona, należy zastosować jedną z następujących numerów kart."
+msgstr ""
 
 #: eea-multi-event-registration/templates/widget_minicart_table.template.php:32
 #: eea-wait-lists/domain/services/forms/WaitListForm.php:260
@@ -39101,7 +38997,7 @@ msgstr "Test Mode pozwala na przedstawienie transakcji testowej do bramki płatn
 #: event-espresso-core-reg/modules/single_page_checkout/reg_steps/payment_options/payment_options_main.template.php:28
 #: event-espresso-core-reg/modules/ticket_selector/TicketSelectorStandard.php:167
 msgid "Qty"
-msgstr "Ilość"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/payment_methods/Aim/templates/authorize_net_aim_debug_info.template.php:27
 msgid "Example Card Numbers:"
@@ -39129,7 +39025,7 @@ msgstr ""
 #: event-espresso-core-reg/caffeinated/payment_methods/Aim/templates/authorize_net_aim_debug_info.template.php:31
 #: event-espresso-core-reg/caffeinated/payment_methods/Paypal_Pro/EE_PMT_Paypal_Pro.pm.php:132
 msgid "American Express"
-msgstr "American Express"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/templates/event_tickets_metabox_main.template.php:136
 msgid "Create New Ticket"
@@ -39162,7 +39058,7 @@ msgstr ""
 #: event-espresso-core-reg/core/helpers/EEH_Line_Item.helper.php:891
 #: event-espresso-core-reg/core/libraries/batch/JobHandlers/RegistrationsReport.php:380
 msgid "Event"
-msgstr "Wydarzenie"
+msgstr ""
 
 #: eea-chase-orbital/payment_methods/Chase_Orbital/EE_PMT_Chase_Orbital.pm.php:125
 #: eea-cybersource-gateway/payment_methods/CyberSource_Offsite/templates/cybersource_debug_info.template.php:35
@@ -39171,11 +39067,11 @@ msgstr "Wydarzenie"
 #: event-espresso-core-reg/caffeinated/payment_methods/Aim/templates/authorize_net_aim_debug_info.template.php:32
 #: event-espresso-core-reg/caffeinated/payment_methods/Paypal_Pro/EE_PMT_Paypal_Pro.pm.php:133
 msgid "Discover"
-msgstr "Discover"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/support/templates/support_admin_details_important_information.template.php:63
 msgid "WordPress Version:"
-msgstr "Wersja WordPressa:"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/EE_Message_List_Table.class.php:47
 #: event-espresso-core-reg/admin_pages/messages/Messages_Template_List_Table.class.php:62
@@ -39190,7 +39086,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/support/templates/support_admin_details_important_information.template.php:66
 msgid "PHP Version:"
-msgstr "Wersja PHP:"
+msgstr ""
 
 #: eea-chase-orbital/payment_methods/Chase_Orbital/EE_PMT_Chase_Orbital.pm.php:123
 #: eea-cybersource-gateway/payment_methods/CyberSource_Offsite/templates/cybersource_debug_info.template.php:23
@@ -39201,15 +39097,15 @@ msgstr "Wersja PHP:"
 #: event-espresso-core-reg/caffeinated/payment_methods/Aim/templates/authorize_net_aim_debug_info.template.php:34
 #: event-espresso-core-reg/caffeinated/payment_methods/Paypal_Pro/EE_PMT_Paypal_Pro.pm.php:130
 msgid "Visa"
-msgstr "Visa"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/support/templates/support_admin_details_important_information.template.php:69
 msgid "MySQL Version:"
-msgstr "Wersja MySQL:"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/support/templates/support_admin_details_important_information.template.php:77
 msgid "WordPress Address (URL):"
-msgstr "Adres (URL) WordPressa:"
+msgstr ""
 
 #: eea-authnet-accept/payment_methods/AuthorizeNet_Accept/EE_PMT_AuthorizeNet_Accept.pm.php:79
 msgid "Billing Address"
@@ -39235,28 +39131,28 @@ msgstr ""
 #: event-espresso-core-reg/core/libraries/batch/JobHandlers/AttendeesReport.php:149
 #: event-espresso-core-reg/core/libraries/form_sections/payment_methods/EE_Billing_Attendee_Info_Form.form.php:61
 msgid "State"
-msgstr "Rejon"
+msgstr ""
 
 #: event-espresso-core-reg/modules/event_single/EED_Event_Single.module.php:137
 #: event-espresso-core-reg/modules/events_archive/EED_Events_Archive.module.php:191
 msgid "Venue Information"
-msgstr "Miejsce:"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/support/templates/support_admin_details_important_information.template.php:81
 msgid "Site address (URL):"
-msgstr "Adres (URL) witryny:"
+msgstr ""
 
 #: eea-chase-orbital/payment_methods/Chase_Orbital/EE_PMT_Chase_Orbital.pm.php:146
 #: event-espresso-core-reg/caffeinated/payment_methods/Aim/EE_PMT_Aim.pm.php:221
 #: event-espresso-core-reg/core/libraries/form_sections/payment_methods/EE_Billing_Attendee_Info_Form.form.php:75
 msgid "Zip"
-msgstr "Kod pocztowy"
+msgstr ""
 
 #: ee4-events-calendar/EEW_Espresso_Calendar.widget.php:86
 #: eea-promotions/EEW_Promotions.widget.php:69
 #: event-espresso-core-reg/widgets/upcoming_events/EEW_Upcoming_Events.widget.php:124
 msgid "Title:"
-msgstr "Tytuł:"
+msgstr ""
 
 #: eea-events-table-view-template/templates/espresso-events-table-template-toggle.template.php:49
 #: eea-recurring-events-manager/languages/event_espresso-translations-js.php:183
@@ -39292,7 +39188,7 @@ msgstr "Tytuł:"
 #: event-espresso-core-reg/modules/gateways/Invoice/lib/templates/receipt_body.template.php:100
 #: event-espresso-core-reg/modules/gateways/Invoice/lib/templates/receipt_body.template.php:380
 msgid "Description"
-msgstr "Opis"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/help_tabs/messages_overview_table_column_headings.help_tab.php:16
 msgid "The description for the Message Type."
@@ -39319,7 +39215,7 @@ msgstr ""
 #: event-espresso-core-reg/caffeinated/payment_methods/Aim/EE_PMT_Aim.pm.php:56
 #: event-espresso-core-reg/caffeinated/payment_methods/Paypal_Pro/EE_PMT_Paypal_Pro.pm.php:69
 msgid "Card Number"
-msgstr "Numer karty"
+msgstr ""
 
 #: eea-automated-upcoming-event-notifications/views/message/templates/email_automate_post_datetime_content.template.php:86
 #: eea-automated-upcoming-event-notifications/views/message/templates/email_automate_post_event_content.template.php:83
@@ -39348,7 +39244,7 @@ msgstr "Numer karty"
 #: event-espresso-core-reg/core/libraries/messages/defaults/default/email_registration_event_list_primary_attendee.template.php:55
 #: event-espresso-core-reg/core/libraries/messages/defaults/default/email_registration_summary_content.template.php:77
 msgid "Phone:"
-msgstr "Telefon:"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/Messages_Admin_Page.core.php:476
 #: event-espresso-core-reg/admin_pages/messages/help_tabs/messages_overview_types.help_tab.php:1
@@ -39365,7 +39261,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/venues/Venues_Admin_Page.core.php:675
 #: event-espresso-core-reg/admin_pages/venues/help_tabs/venues_editor_physical_location_google_map_virtual_location.help_tab.php:2
 msgid "Physical Location"
-msgstr "Lokalizacja"
+msgstr ""
 
 #: eea-people-addon/admin/people/templates/people_address_details_metabox_content.template.php:13
 #: event-espresso-core-reg/admin_pages/registrations/templates/attendee_address_details_metabox_content.template.php:17
@@ -39375,17 +39271,17 @@ msgstr "Lokalizacja"
 #: event-espresso-core-reg/public/Espresso_Arabica_2014/content-espresso_events-venues.php:41
 #: event-espresso-core-reg/public/Espresso_Arabica_2014/content-espresso_venues-location.php:10
 msgid "Address:"
-msgstr "Adres:"
+msgstr ""
 
 #: event-espresso-core-reg/core/libraries/messages/messenger/EE_Html_messenger.class.php:274
 #: event-espresso-core-reg/core/libraries/messages/messenger/EE_Pdf_messenger.class.php:153
 #: event-espresso-core-reg/payment_methods/Bank/help_tabs/payment_methods_overview_bank_draft.help_tab.php:8
 msgid "Page Title"
-msgstr "Tytuł Strony"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/venues/templates/venue_address_metabox_content.template.php:27
 msgid "Address 2:"
-msgstr "Adres 2:"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/help_tabs/messages_overview_types.help_tab.php:24
 #: event-espresso-core-reg/admin_pages/messages/templates/ee_msg_message_type_help_tab.template.php:19
@@ -39403,11 +39299,11 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/venues/templates/venue_address_metabox_content.template.php:38
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:2079
 msgid "City:"
-msgstr "Miasto:"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/support/templates/support_admin_details_installation.template.php:7
 msgid "For the latest installation instructions please visit:"
-msgstr "Najnowsze instrukcje instalacyjne są dostępne pod adresem:"
+msgstr ""
 
 #: event-espresso-core-reg/payment_methods/Check/help_tabs/payment_methods_overview_check.help_tab.php:16
 msgid "Name on Account"
@@ -39416,7 +39312,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/venues/templates/event_venues_metabox_content_from_manager.template.php:51
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:2082
 msgid "State:"
-msgstr "Rejon:"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/Messages_Admin_Page.core.php:472
 #: event-espresso-core-reg/admin_pages/messages/help_tabs/messages_overview_views.help_tab.php:1
@@ -39430,7 +39326,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/venues/templates/event_venues_metabox_content_from_manager.template.php:54
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:2070
 msgid "Country:"
-msgstr "Kraj:"
+msgstr ""
 
 #: eea-aim-echeck/payment_methods/Aim_Echeck/EE_PMT_Aim_Echeck.pm.php:119
 #: event-espresso-core-reg/payment_methods/Bank/help_tabs/payment_methods_overview_bank_draft.help_tab.php:24
@@ -39439,7 +39335,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/venues/templates/venue_address_metabox_content.template.php:52
 msgid "Zip/Postal Code:"
-msgstr "Kod pocztowy:"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/Messages_Admin_Page.core.php:873
 #: event-espresso-core-reg/admin_pages/messages/help_tabs/messages_overview_views.help_tab.php:10
@@ -39457,7 +39353,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/venues/Venues_Admin_Page.core.php:690
 #: event-espresso-core-reg/admin_pages/venues/help_tabs/venues_editor_physical_location_google_map_virtual_location.help_tab.php:26
 msgid "Virtual Location"
-msgstr "Wirtualna lokalizacja:"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/help_tabs/messages_overview_views.help_tab.php:11
 msgid "Show all message templates that are active."
@@ -39465,11 +39361,11 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/venues/templates/venue_virtual_location_metabox_content.template.php:9
 msgid "URL of Event:"
-msgstr "URL wydarzenia:"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/venues/templates/venue_virtual_location_metabox_content.template.php:18
 msgid "Call in Number:"
-msgstr "Nr telefonu:"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/templates/ee_msg_overview_help_tab.template.php:30
 #: event-espresso-core-reg/caffeinated/admin/extend/registrations/Extend_Registrations_Admin_Page.core.php:429
@@ -39529,7 +39425,7 @@ msgstr ""
 
 #: event-espresso-core-reg/payment_methods/Check/templates/check_payment_details_content.template.php:22
 msgid "Payable to:"
-msgstr "Odbiorca:"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/help_tabs/messages_preview.help_tab.php:12
 #: event-espresso-core-reg/admin_pages/messages/templates/ee_msg_preview_help_tab.template.php:10
@@ -39578,7 +39474,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/templates/ee_msg_preview_help_tab.template.php:38
 msgid "4. Display the preview!"
-msgstr "4. Wyświetl podgląd!"
+msgstr ""
 
 #: event-espresso-core-reg/payment_methods/Invoice/help_tabs/payment_methods_overview_invoice.help_tab.php:28
 msgid "Logo Image"
@@ -39591,7 +39487,7 @@ msgstr ""
 
 #: event-espresso-core-reg/payment_methods/Invoice/EE_PMT_Invoice.pm.php:93
 msgid "(Logo for the top left of the invoice)"
-msgstr "(Logo w lewym górnym rogu faktury)"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/Messages_Admin_Page.core.php:140
 #: event-espresso-core-reg/admin_pages/messages/Messages_Admin_Page.core.php:569
@@ -39686,7 +39582,7 @@ msgstr ""
 
 #: eea-promotions/core/db_models/EEM_Promotion.model.php:53
 msgid "Deleted"
-msgstr "Usunięte"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/help_tabs/messages_settings_messengers.help_tab.php:35
 #: event-espresso-core-reg/admin_pages/messages/templates/ee_msg_messages_settings_help_tab.template.php:45
@@ -39703,11 +39599,11 @@ msgstr ""
 #: event-espresso-core-reg/payment_methods/Invoice/EE_PMT_Invoice.pm.php:34
 #: event-espresso-core-reg/payment_methods/Invoice/help_tabs/payment_methods_overview_invoice.help_tab.php:1
 msgid "Invoice"
-msgstr "Faktury"
+msgstr ""
 
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:2221
 msgid "page"
-msgstr "strona"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/help_tabs/messages_settings_messengers.help_tab.php:64
 msgid "What happens when you click the toggle to activate is the messenger is activated and the system determines what default message types are activated with the messenger.  Then, if there are any default settings for either the messenger or message types those settings are saved.  Next, the system will generate any default templates (if none have been generated before, if there are previously generated templates then they are reactivated).  Finally, you will see the display change to reflect that the messenger is active. If the messenger has settings you can modify them then. Any message types that have settings will also automatically expand so you can see the default settings and make any changes as necessary to fit your needs. Usually the defaults are sufficient however."
@@ -39758,7 +39654,7 @@ msgstr ""
 #: event-espresso-core-reg/modules/gateways/Invoice/lib/templates/invoice_body.template.php:42
 #: event-espresso-core-reg/modules/gateways/Invoice/lib/templates/receipt_body.template.php:49
 msgid "Transaction ID:"
-msgstr "ID transakcji:"
+msgstr ""
 
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:1294
 msgid "Note: "
@@ -39791,7 +39687,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/registrations/help_tabs/registrations_overview_table_column_headings.help_tab.php:40
 #: event-espresso-core-reg/admin_pages/transactions/help_tabs/transactions_view_transaction_transaction_details_table.help_tab.php:22
 msgid "Event Date"
-msgstr "Data wydarzenia"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/templates/ee_msg_messages_help_tab.template.php:1
 msgid "What is the Event Espresso Messages System?"
@@ -39811,7 +39707,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/transactions/help_tabs/transactions_view_transaction_transaction_details_table.help_tab.php:58
 msgid "Transaction Total"
-msgstr "Suma Transakcji"
+msgstr ""
 
 #: eea-multi-event-registration/EE_Event_Cart_Line_Item_Display_Strategy.php:134
 #: eea-multi-event-registration/EE_Mini_Cart_List_Line_Item_Display_Strategy.php:87
@@ -39840,7 +39736,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/messages/help_tabs/messages_templates.help_tab.php:2
 #: event-espresso-core-reg/core/db_models/EEM_Message_Template.model.php:24
 msgid "Message Templates"
-msgstr "Szablony wiadomości"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:57
 msgid "hide additional transaction session details"
@@ -39852,7 +39748,7 @@ msgstr ""
 #: event-espresso-core-reg/modules/gateways/Invoice/lib/templates/invoice_body.template.php:227
 #: event-espresso-core-reg/modules/gateways/Invoice/lib/templates/receipt_body.template.php:419
 msgid "Payments"
-msgstr "Płatności"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/transactions/help_tabs/transactions_view_transaction_transaction_details_table.help_tab.php:64
 #: event-espresso-core-reg/admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:65
@@ -39870,7 +39766,7 @@ msgstr ""
 #: event-espresso-core-reg/modules/gateways/Invoice/lib/templates/invoice_body.template.php:231
 #: event-espresso-core-reg/modules/gateways/Invoice/lib/templates/receipt_body.template.php:424
 msgid "Payment Method"
-msgstr "Metoda płatności"
+msgstr ""
 
 #: eea-events-table-view-template/templates/espresso-events-table-template-toggle.template.php:48
 #: eea-events-table-view-template/templates/espresso-events-table-template.template.php:49
@@ -39886,7 +39782,7 @@ msgstr "Metoda płatności"
 #: event-espresso-core-reg/modules/gateways/Invoice/lib/templates/invoice_body.template.php:232
 #: event-espresso-core-reg/modules/gateways/Invoice/lib/templates/receipt_body.template.php:425
 msgid "Date"
-msgstr "Data"
+msgstr ""
 
 #: event-espresso-core-reg/core/libraries/messages/defaults/default/html_invoice_content.template.php:99
 #: event-espresso-core-reg/core/libraries/messages/defaults/default/html_receipt_content.template.php:98
@@ -40023,7 +39919,7 @@ msgstr ""
 #: event-espresso-core-reg/modules/gateways/Invoice/lib/templates/receipt_body.template.php:429
 #: event-espresso-core-reg/modules/thank_you_page/templates/thank-you-page-payment-details.template.php:30
 msgid "Amount"
-msgstr "Kwota"
+msgstr ""
 
 #: event-espresso-core-reg/core/libraries/messages/defaults/default/html_receipt_content.template.php:39
 #: event-espresso-core-reg/modules/gateways/Invoice/lib/templates/receipt_body.template.php:53
@@ -40037,18 +39933,18 @@ msgstr ""
 #: event-espresso-core-reg/core/admin/EE_Admin_Page.core.php:2607
 #: event-espresso-core-reg/core/templates/espresso-ajax-notices.template.php:3
 msgid "loading..."
-msgstr "ładuje..."
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:236
 #: event-espresso-core-reg/admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:355
 msgid "Edit Payment"
-msgstr "Edycja płatności"
+msgstr ""
 
 #: event-espresso-core-reg/core/libraries/messages/defaults/default/email_not_approved_registration_event_list.template.php:7
 #: event-espresso-core-reg/core/libraries/messages/defaults/default/html_receipt_event_list.template.php:10
 #: event-espresso-core-reg/modules/gateways/Invoice/lib/templates/receipt_body.template.php:67
 msgid "Event Name:"
-msgstr "Nazwa wydarzenia:"
+msgstr ""
 
 #: eea-recurring-events-manager/languages/event_espresso-translations-js.php:269
 #: event-espresso-core-reg/PaymentMethods/PayPalCommerce/PayPalCheckout/forms/BillingForm.php:309
@@ -40060,7 +39956,7 @@ msgstr "Nazwa wydarzenia:"
 #: event-espresso-core-reg/core/libraries/form_sections/inputs/EE_Submit_Input.input.php:20
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:745
 msgid "Submit"
-msgstr "Wyślij"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:246
 #: event-espresso-core-reg/admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:362
@@ -40151,7 +40047,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/Events_Admin_List_Table.class.php:432
 msgid "No Date was saved for this Event"
-msgstr "Nie wybrano daty dla tego wydarzenia"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:543
 #: event-espresso-core-reg/modules/single_page_checkout/reg_steps/payment_options/EE_SPCO_Reg_Step_Payment_Options.class.php:1010
@@ -40176,7 +40072,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/events/Events_Admin_Page.core.php:357
 #: event-espresso-core-reg/admin_pages/events/help_tabs/event_editor.help_tab.php:1
 msgid "Event Editor"
-msgstr "Edytor wydarzeń"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/general_settings/help_tabs/general_settings_admin_options.help_tab.php:17
 msgid "Every time a page is accessed on your site, this option will send all Event Espresso registration form data, your server details, and debugging information to a remote server."
@@ -40196,7 +40092,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/event_editor.help_tab.php:3
 msgid "This page allows you to create and edit events with Event Espresso."
-msgstr "Na tej stronie możesz tworzyć i edytować wydarzenia z Event Espresso."
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/templates/ee_msg_messages_settings_help_tab.template.php:10
 msgid "About the Messages Settings Page"
@@ -40256,7 +40152,7 @@ msgstr ""
 #: event-espresso-core-reg/core/libraries/messages/defaults/default/html_receipt_content.template.php:127
 #: event-espresso-core-reg/modules/gateways/Invoice/lib/templates/receipt_body.template.php:495
 msgid "Additional Information:"
-msgstr "Dodatkowe informacje:"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/templates/ee_msg_messages_settings_help_tab.template.php:22
 msgid "2. Activating or Deactivating Messengers"
@@ -40264,7 +40160,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/transactions/templates/txn_admin_details_main_meta_box_txn_details.template.php:625
 msgid "Payment Status"
-msgstr "Status Płatności"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/templates/ee_msg_messages_settings_help_tab.template.php:24
 msgid "You can select messengers via the tabs across the top of the settings page.  The available messengers you see depends on what version of Event Espresso you have and what addons are installed.  Every install will see at the very least an \"Email\" messenger tab.  When you click one of those tabs it will display that messenger."
@@ -40288,7 +40184,7 @@ msgstr ""
 
 #: event-espresso-core-reg/caffeinated/payment_methods/Paypal_Pro/help_tabs/payment_methods_overview_paypalpro.help_tab.php:32
 msgid "PayPal API Password"
-msgstr "Hasło PayPal API "
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/help_tabs/messages_settings_messengers.help_tab.php:26
 msgid " The white colored gear %s indicates the messenger is inactive. This is very helpful for seeing at a glance all the messengers that are active when you first view the page."
@@ -40379,7 +40275,7 @@ msgstr ""
 #: event-espresso-core-reg/core/libraries/form_sections/form_handlers/FormHandler.php:541
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:976
 msgid "Cancel"
-msgstr "Anuluj"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/transactions/templates/txn_admin_details_side_meta_box_billing_info.template.php:43
 msgid "There is no billing info for this transaction."
@@ -40482,13 +40378,13 @@ msgstr ""
 #: ee4-events-calendar/admin/calendar/Calendar_Admin_Page.core.php:80
 #: event-espresso-core-reg/admin_pages/events/help_tabs/event_editor_event_tickets.help_tab.php:21
 msgid "Advanced Settings"
-msgstr "Ustawienia zaawansowane"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/venues/help_tabs/general_settings_google_maps.help_tab.php:21
 #: event-espresso-core-reg/admin_pages/venues/templates/google_map.template.php:81
 #: event-espresso-core-reg/admin_pages/venues/templates/google_map.template.php:290
 msgid "Set Map Width"
-msgstr "Ustaw szerokość mapy."
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/event_editor_event_tickets.help_tab.php:24
 msgid "The Advanced Settings icon %1$s allows more customization to your tickets. You can add a description, set a number for datetimes, set a minimum quantity required to purchase, and set a maximum quantity. Price modifiers allow you to setup discounts or surcharges for your tickets. Additionally, you can mark a ticket as taxable by placing a checkmark in the taxable checkbox."
@@ -40545,7 +40441,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/event_editor_other.help_tab.php:11
 msgid "Set a featured image for your event."
-msgstr "Ustaw ikonę wpisu dla wydarzenia."
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/venues/help_tabs/general_settings_google_maps.help_tab.php:47
 msgid "The navigation overlay are the controls for panning and zooming the map."
@@ -40597,7 +40493,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/event_editor_other.help_tab.php:22
 msgid "Setup custom fields for your events."
-msgstr "Ustaw własne pola dla wydarzenia."
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/templates/ee_msg_overview_help_tab.template.php:10
 msgid "Views are a type of filter that allow you to restrict what you see in the table. The little number in brackets next to each view represents the number of templates that will be displayed with that view. There are five different views available for you to select from:"
@@ -40634,7 +40530,7 @@ msgstr ""
 
 #: event-espresso-core-reg/core/db_models/EEM_Payment_Method.model.php:77
 msgid "Slug"
-msgstr "Uproszczona nazwa"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/templates/ee_msg_overview_help_tab.template.php:31
 msgid "This will restrict the view to ONLY show templates that are global templates.  Global templates are used by all events (that don't have a custom template created)"
@@ -40646,7 +40542,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/event_editor_other.help_tab.php:33
 msgid "The slug is the customizable portion of the URL for your event. For example, if my event was called \"Holiday Celebrations,\" then the URL could appear as such: http://example.com/events/holiday-celebrations -- the slug would be then be holiday-celebrations."
-msgstr "Uproszczona nazwa jest edytowalną częścią adresu URL wydarzenia. Na przykład, jeśli wydarzenie nazywa się \"Lato w mieście\", to jego adres URL może wyglądać następująco: http://example.com/wydarzenia/lato-w-miescie -- uproszczona nazwa to 'lato-w-miescie'."
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/templates/ee_msg_overview_help_tab.template.php:38
 msgid "This restricts the view to only show custom event message templates"
@@ -40659,7 +40555,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/events/Events_Admin_List_Table.class.php:53
 #: event-espresso-core-reg/admin_pages/messages/Messages_Admin_Page.core.php:1556
 msgid "Author"
-msgstr "Autor"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/general_settings_templates.help_tab.php:40
 msgid "Event List Pages"
@@ -40679,7 +40575,7 @@ msgstr ""
 
 #: event-espresso-core-reg/caffeinated/admin/extend/messages/espresso_events_Messages_Hooks_Extend.class.php:67
 msgid "Notifications"
-msgstr "Powiadomienia"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/templates/ee_msg_overview_help_tab.template.php:61
 msgid "Table Columns"
@@ -40717,11 +40613,11 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/general_settings_templates.help_tab.php:55
 msgid "Display Descriptions"
-msgstr "Wyświetlaj opisy"
+msgstr ""
 
 #: eea-authnet-accept/payment_methods/AuthorizeNet_Accept/EE_PMT_AuthorizeNet_Accept.pm.php:90
 msgid "Shipping Address"
-msgstr "Adres wysyłki"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/templates/ee_msg_overview_help_tab.template.php:87
 msgid "Below the Messenger title, is a list of different contexts.  The context label varies for each message type but it is usually labelled \"Recipients\".  You can click on each context title to go to the specific template for that context and edit it as desired."
@@ -40733,7 +40629,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/templates/ee_msg_preview_help_tab.template.php:1
 msgid "What the preview page shows"
-msgstr "Zawartość podglądu strony"
+msgstr ""
 
 #: eea-paypal-smart-buttons/payment_methods/Paypal_Smart_Buttons/templates/paypal_smart_buttons_debug_info.template.php:18
 #: event-espresso-core-reg/caffeinated/payment_methods/Paypal_Pro/templates/paypal_pro_debug_info.template.php:18
@@ -40745,7 +40641,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/events/Events_Admin_Page.core.php:389
 #: event-espresso-core-reg/admin_pages/events/help_tabs/event_editor_save_new_event.help_tab.php:1
 msgid "Save New Event"
-msgstr "Zapisz nowe wydarzenie"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/messages/templates/ee_msg_preview_help_tab.template.php:3
 msgid "This page is accessed by clicking the preview button while editing a message template.  This feature has been created as a way of previewing what the final generated messages will look like when received.  Here's how the preview is prepared:"
@@ -40763,18 +40659,18 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/event_editor_save_new_event.help_tab.php:3
 msgid "Quickly publish your event to allow immediate registrations."
-msgstr "Szybko opublikuj wydarzenie, aby umożliwić natychmiastową rejestrację."
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/general_settings_templates.help_tab.php:25
 #: event-espresso-core-reg/admin_pages/events/help_tabs/general_settings_templates.help_tab.php:77
 #: event-espresso-core-reg/caffeinated/modules/event_single_caff/templates/admin-event-single-settings.template.php:52
 #: event-espresso-core-reg/caffeinated/modules/events_archive_caff/templates/admin-event-list-settings.template.php:219
 msgid "Display Venue Details"
-msgstr "Wyświetlaj szczegóły miejsca"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/modules/recaptcha_invisible/RecaptchaAdminSettings.php:79
 msgid "reCAPTCHA Anti-spam Settings"
-msgstr "Ustawienia reCAPTCHA Anti-spam"
+msgstr ""
 
 #: eea-paypal-smart-buttons/payment_methods/Paypal_Smart_Buttons/templates/paypal_smart_buttons_debug_info.template.php:27
 #: event-espresso-core-reg/caffeinated/payment_methods/Paypal_Pro/templates/paypal_pro_debug_info.template.php:26
@@ -40795,7 +40691,7 @@ msgstr ""
 #: event-espresso-core-reg/modules/gateways/Invoice/lib/templates/receipt_body.template.php:428
 #: event-espresso-core-reg/modules/thank_you_page/templates/thank-you-page-payment-details.template.php:33
 msgid "Status"
-msgstr "Status"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/modules/recaptcha_invisible/RecaptchaAdminSettings.php:119
 msgid "Use reCAPTCHA"
@@ -40804,7 +40700,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/events/help_tabs/general_settings_templates.help_tab.php:81
 #: event-espresso-core-reg/caffeinated/modules/events_archive_caff/templates/admin-event-list-settings.template.php:246
 msgid "Display Expired Events"
-msgstr "Wyświetlaj minione wydarzenia"
+msgstr ""
 
 #: eea-braintree-gateway/payment_methods/Braintree_Dropin/help_tabs/payment_methods_overview_braintree.help_tab.php:41
 msgid "Public Key"
@@ -40814,7 +40710,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/venues/help_tabs/venues_editor_save_new_venue.help_tab.php:21
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:869
 msgid "Visibility"
-msgstr "Dostępność"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/payments/Payments_Admin_Page.core.php:1120
 msgid "If a payment is marked as 'Pending Payment', or if payment is deferred (ie, an offline gateway like Check, Bank, or Invoice is used), then give registrants the option to retry payment. "
@@ -40826,7 +40722,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/general_settings_templates.help_tab.php:44
 msgid "Event Listings URL"
-msgstr "URL listy wydarzeń"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registration_form/Registration_Form_Admin_Page.core.php:161
 #: event-espresso-core-reg/admin_pages/registration_form/Registration_Form_Admin_Page.core.php:168
@@ -40841,7 +40737,7 @@ msgstr "URL listy wydarzeń"
 #: event-espresso-core-reg/core/data_migration_scripts/4_5_0_stages/EE_DMS_4_5_0_update_wp_user_for_question_groups.dmsstage.php:17
 #: event-espresso-core-reg/core/db_models/EEM_Question_Group.model.php:29
 msgid "Question Groups"
-msgstr "Grupy pytań"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/modules/recaptcha_invisible/RecaptchaAdminSettings.php:85
 msgid "reCAPTCHA Appearance"
@@ -40865,7 +40761,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/venues/help_tabs/venues_editor_save_new_venue.help_tab.php:29
 #: event-espresso-core-reg/core/admin/EE_Admin_Page.core.php:2414
 msgid "Publish"
-msgstr "Opublikuj"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/modules/recaptcha_invisible/RecaptchaAdminSettings.php:205
 msgid "Theme"
@@ -40878,11 +40774,11 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/events/help_tabs/event_editor_save_new_event.help_tab.php:33
 #: event-espresso-core-reg/admin_pages/venues/help_tabs/venues_editor_save_new_venue.help_tab.php:31
 msgid "An event can be published immediately or you can schedule it to be published at a later date in the future."
-msgstr "Wydarzenie może zostać opublikowane natychmiast, albo można ustawić datę publikacji w terminie późniejszym."
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/modules/recaptcha_invisible/RecaptchaAdminSettings.php:304
 msgid "Language"
-msgstr "Język"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/payment_methods/Paypal_Pro/templates/paypal_pro_debug_info.template.php:59
 msgid "Test Card Type"
@@ -40891,7 +40787,7 @@ msgstr ""
 #: event-espresso-core-reg/core/data_migration_scripts/4_1_0_stages/EE_DMS_4_1_0_attendees.dmsstage.php:263
 #: event-espresso-core-reg/core/db_models/EEM_Attendee.model.php:136
 msgid "Attendees"
-msgstr "Uczestnicy"
+msgstr ""
 
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:1869
 msgid "Width"
@@ -40924,7 +40820,7 @@ msgstr ""
 #: event-espresso-core-reg/caffeinated/admin/new/pricing/Pricing_Admin_Page.core.php:432
 #: event-espresso-core-reg/caffeinated/admin/new/tickets/Tickets_Admin_Page.core.php:149
 msgid "Move to Trash"
-msgstr "Przenieś do kosza"
+msgstr ""
 
 #: eea-braintree-gateway/payment_methods/Braintree_Dropin/templates/braintree_debug_info.template.php:108
 #: eea-quickbooks-gateway/payment_methods/QuickBooks_Onsite/templates/quickbooks_debug_info.template.php:15
@@ -40939,7 +40835,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/event_editor_tags_categories.help_tab.php:1
 msgid "Event Tags"
-msgstr "Tagi wydarzenia"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registration_form/help_tabs/registration_form_add_question.help_tab.php:17
 #: event-espresso-core-reg/admin_pages/registration_form/help_tabs/registration_form_edit_question.help_tab.php:17
@@ -40958,7 +40854,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/general_settings/OrganizationSettings.php:110
 #: event-espresso-core-reg/admin_pages/general_settings/help_tabs/general_settings_your_organization.help_tab.php:31
 msgid "Contact Information"
-msgstr "Informacje kontaktowe"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/payment_methods/Paypal_Pro/templates/paypal_pro_debug_info.template.php:113
 msgid "Field format error"
@@ -40970,7 +40866,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/support/Support_Admin_Page.core.php:198
 #: event-espresso-core-reg/core/domain/entities/custom_post_types/CustomTaxonomyDefinitions.php:32
 msgid "Event Categories"
-msgstr "Kategorie wydarzeń"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/payment_methods/Paypal_Pro/templates/paypal_pro_debug_info.template.php:117
 msgid "Invalid expiry date"
@@ -40979,7 +40875,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/general_settings/OrganizationSettings.php:251
 #: event-espresso-core-reg/admin_pages/general_settings/help_tabs/general_settings_your_organization.help_tab.php:44
 msgid "Company Logo"
-msgstr "Logo firmy"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/payment_methods/Paypal_Pro/templates/paypal_pro_debug_info.template.php:121
 msgid "CVV2 Mismatch"
@@ -40987,7 +40883,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/event_editor_title_richtexteditor.help_tab.php:1
 msgid "Event Title"
-msgstr "Nazwa wydarzenia"
+msgstr ""
 
 #: eea-promotions/core/db_models/EEM_Promotion.model.php:50
 #: espresso_transfirst/payment_methods/TransFirst_Onsite/templates/transfirst_onsite_debug_info.template.php:41
@@ -41002,7 +40898,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/registration_form/help_tabs/registration_form_edit_question.help_tab.php:46
 #: event-espresso-core-reg/core/db_models/EEM_Question.model.php:300
 msgid "Question Type"
-msgstr "Typ pytania"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/payment_methods/Paypal_Pro/templates/paypal_pro_debug_info.template.php:129
 #: event-espresso-core-reg/caffeinated/payment_methods/Paypal_Pro/templates/paypal_pro_debug_info.template.php:133
@@ -41016,17 +40912,17 @@ msgstr ""
 #: event-espresso-core-reg/modules/event_single/EED_Event_Single.module.php:131
 #: event-espresso-core-reg/modules/events_archive/EED_Events_Archive.module.php:185
 msgid "Event Description"
-msgstr "Opis zdarzenia"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/general_settings/OrganizationSettings.php:273
 #: event-espresso-core-reg/admin_pages/general_settings/help_tabs/general_settings_your_organization.help_tab.php:53
 msgid "Social Links"
-msgstr "Odnośniki do mediów społecznościowych"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registration_form/help_tabs/registration_form_add_question.help_tab.php:59
 #: event-espresso-core-reg/admin_pages/registration_form/help_tabs/registration_form_edit_question.help_tab.php:63
 msgid "Required Question"
-msgstr "Pytanie wymagane"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/event_editor_title_richtexteditor.help_tab.php:7
 msgid "The rich text editor can be used to create a description for your event. Similar to WordPress pages and posts, you can upload images and customize your text by using the options on the toolbar."
@@ -41034,12 +40930,12 @@ msgstr ""
 
 #: eea-recurring-events-manager/languages/event_espresso-translations-js.php:442
 msgid "on"
-msgstr "na"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/venues/espresso_events_Venues_Hooks.class.php:42
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:1142
 msgid "Venue Details"
-msgstr "Szczegóły miejsca"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/admin/extend/general_settings/templates/debug_log_settings.template.php:13
 msgid "Debug/Logging Options"
@@ -41062,15 +40958,15 @@ msgstr ""
 #: event-espresso-core-reg/caffeinated/admin/extend/registration_form/Registration_Form_Question_Groups_Admin_List_Table.class.php:58
 #: event-espresso-core-reg/caffeinated/admin/extend/registration_form/templates/question_groups_main_meta_box.template.php:41
 msgid "Group Name"
-msgstr "Nazwa grupy"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_add_category.help_tab.php:3
 msgid "This page allows you to create an event category."
-msgstr "Na tej stronie możesz utworzyć kategorię wydarzenia."
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/admin/extend/general_settings/templates/debug_log_settings.template.php:35
 msgid "Send debugging data to the remote URL below."
-msgstr "Prześlij dane z debugowania na zdalny adres URL podany poniżej."
+msgstr ""
 
 #: eea-people-addon/admin/people/People_Admin_Page.core.php:1337
 #: eea-people-addon/admin/people/help_tabs/people_add_category.help_tab.php:8
@@ -41081,7 +40977,7 @@ msgstr "Prześlij dane z debugowania na zdalny adres URL podany poniżej."
 #: event-espresso-core-reg/admin_pages/venues/help_tabs/venues_add_category.help_tab.php:9
 #: event-espresso-core-reg/admin_pages/venues/help_tabs/venues_edit_category.help_tab.php:7
 msgid "Category Name"
-msgstr "Nazwa kategorii"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registration_form/help_tabs/registration_form_add_question_group.help_tab.php:25
 #: event-espresso-core-reg/admin_pages/registration_form/help_tabs/registration_form_edit_question_group.help_tab.php:23
@@ -41092,12 +40988,12 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_add_category.help_tab.php:8
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_edit_category.help_tab.php:8
 msgid "This is the name of the event category."
-msgstr "Nazwa kategorii wydarzenia."
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/general_settings/AdminOptionsSettings.php:105
 #: event-espresso-core-reg/admin_pages/general_settings/help_tabs/general_settings_admin_options.help_tab.php:46
 msgid "Promote Event Espresso"
-msgstr "Promuj Event Espresso"
+msgstr ""
 
 #: eea-people-addon/admin/people/help_tabs/people_add_category.help_tab.php:12
 #: eea-people-addon/admin/people/help_tabs/people_add_type.help_tab.php:12
@@ -41110,7 +41006,7 @@ msgstr "Promuj Event Espresso"
 #: event-espresso-core-reg/admin_pages/venues/help_tabs/venues_add_category.help_tab.php:14
 #: event-espresso-core-reg/admin_pages/venues/help_tabs/venues_edit_category.help_tab.php:11
 msgid "Unique ID"
-msgstr "Unikalny identyfikator"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registration_form/help_tabs/registration_form_add_question_group.help_tab.php:33
 #: event-espresso-core-reg/admin_pages/registration_form/help_tabs/registration_form_edit_question_group.help_tab.php:30
@@ -41120,11 +41016,11 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_add_category.help_tab.php:12
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_edit_category.help_tab.php:12
 msgid "This is the unique name for an event category."
-msgstr "Jest to unikalna nazwa kategorii wydarzenia."
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/general_settings/AdminOptionsSettings.php:137
 msgid "Earn cash for promoting Event Espresso."
-msgstr "Zarabiaj dzięki promowaniu Event Espresso."
+msgstr ""
 
 #: eea-evertec/payment_methods/Evertec_Onsite/templates/evertec_debug_info.template.php:43
 #: eea-evertec/payment_methods/Evertec_Onsite/templates/evertec_debug_info.template.php:57
@@ -41144,7 +41040,7 @@ msgstr "Zarabiaj dzięki promowaniu Event Espresso."
 #: event-espresso-core-reg/core/libraries/line_item_display/EE_Admin_Table_Registration_Line_Item_Display_Strategy.strategy.php:28
 #: event-espresso-core-reg/modules/thank_you_page/templates/thank-you-page-payment-details.template.php:27
 msgid "Type"
-msgstr "Typ"
+msgstr ""
 
 #: eea-people-addon/admin/people/People_Admin_Page.core.php:1361
 #: eea-people-addon/admin/people/help_tabs/people_add_category.help_tab.php:16
@@ -41155,7 +41051,7 @@ msgstr "Typ"
 #: event-espresso-core-reg/admin_pages/venues/help_tabs/venues_add_category.help_tab.php:19
 #: event-espresso-core-reg/admin_pages/venues/help_tabs/venues_edit_category.help_tab.php:15
 msgid "Category Description"
-msgstr "Opis kategorii"
+msgstr ""
 
 #: eea-ipay88-gateway/payment_methods/IPay88/help_tabs/payment_methods_overview_ipay88.help_tab.php:22
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:1863
@@ -41189,7 +41085,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/general_settings/templates/country_details_settings.template.php:24
 msgid "Save Country Details"
-msgstr "Zapisz szczegóły kraju"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/general_settings/General_Settings_Admin_Page.core.php:430
 #: event-espresso-core-reg/admin_pages/general_settings/templates/espresso_page_settings.template.php:19
@@ -41200,14 +41096,14 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/registrations/help_tabs/registrations_event_checkin_other.help_tab.php:2
 #: event-espresso-core-reg/admin_pages/registrations/help_tabs/registrations_overview_other.help_tab.php:2
 msgid "Bulk Actions"
-msgstr "Masowe działania"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/general_settings/templates/espresso_page_settings.template.php:54
 #: event-espresso-core-reg/admin_pages/general_settings/templates/espresso_page_settings.template.php:101
 #: event-espresso-core-reg/admin_pages/general_settings/templates/espresso_page_settings.template.php:144
 #: event-espresso-core-reg/admin_pages/general_settings/templates/espresso_page_settings.template.php:187
 msgid "Main Page"
-msgstr "Strona główna"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/general_settings/templates/espresso_page_settings.template.php:88
 msgid "Notify URL (processes payments)"
@@ -41222,7 +41118,7 @@ msgstr ""
 #: event-espresso-core-reg/core/admin/EE_Admin.core.php:500
 #: event-espresso-core-reg/modules/events_archive/EventsArchiveIframe.php:45
 msgid "Event List"
-msgstr "Lista wydarzeń"
+msgstr ""
 
 #: event-espresso-core-reg/modules/single_page_checkout/reg_steps/attendee_information/copy_attendee_info.template.php:43
 msgid "advanced copy options"
@@ -41238,7 +41134,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/venues/Venues_Admin_List_Table.class.php:223
 #: event-espresso-core-reg/core/domain/services/admin/AdminToolBar.php:271
 msgid "View"
-msgstr "Zobacz"
+msgstr ""
 
 #: event-espresso-core-reg/modules/single_page_checkout/reg_steps/attendee_information/copy_attendee_info.template.php:51
 msgid "basic copy options"
@@ -41253,7 +41149,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/general_settings/templates/state_details_settings.template.php:71
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:1848
 msgid "Code"
-msgstr "Kod"
+msgstr ""
 
 #: eea-mailchimp/admin/mailchimp/Mailchimp_Log_Admin_List_Table.class.php:60
 #: eea-people-addon/admin/people/EE_People_Categories_List_Table.class.php:38
@@ -41295,14 +41191,14 @@ msgstr "Kod"
 #: event-espresso-core-reg/core/db_models/EEM_Payment_Method.model.php:46
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:567
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/admin/extend/events/Extend_Events_Admin_List_Table.class.php:79
 #: event-espresso-core-reg/caffeinated/admin/extend/events/Extend_Events_Admin_Page.core.php:994
 #: event-espresso-core-reg/core/services/form/meta/FormStatus.php:54
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:468
 msgid "Active"
-msgstr "Aktywne"
+msgstr ""
 
 #: event-espresso-core-reg/modules/thank_you_page/EED_Thank_You_Page.module.php:678
 msgid "Important Notice:"
@@ -41310,7 +41206,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registration_form/help_tabs/registration_form_reg_form_settings.help_tab.php:51
 msgid "reCAPTCHA Information"
-msgstr "Informacje reCAPTCHA"
+msgstr ""
 
 #: eea-evertec/payment_methods/Evertec_Onsite/templates/evertec_debug_info.template.php:99
 #: eea-infusionsoft/EED_Infusionsoft_Promotions_Integration.module.php:109
@@ -41361,7 +41257,7 @@ msgstr "Informacje reCAPTCHA"
 #: event-espresso-core-reg/core/libraries/messages/defaults/default/html_receipt_content.template.php:53
 #: event-espresso-core-reg/languages/event_espresso-translations-js.php:147
 msgid "Name"
-msgstr "Nazwa"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/admin/new/pricing/templates/event_tickets_datetime_attached_tickets_row.template.php:46
 msgid "Assigned Tickets"
@@ -41380,7 +41276,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_categories_table_column_headings.help_tab.php:15
 #: event-espresso-core-reg/admin_pages/venues/help_tabs/venues_categories_table_column_headings.help_tab.php:16
 msgid "Shortcode"
-msgstr "Skrót"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/modules/event_single_caff/templates/admin-event-single-settings.template.php:69
 msgid "Do not use this if you are using the venue shortcodes in your event description."
@@ -41399,7 +41295,7 @@ msgstr ""
 
 #: event-espresso-core-reg/caffeinated/core/services/licensing/UserExperienceForm.php:54
 msgid "Your Event Espresso License Key"
-msgstr "Twój klucz licencyjny Event Espresso"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registration_form/templates/questions_main_meta_box.template.php:263
 msgid "Answer Options"
@@ -41426,12 +41322,12 @@ msgstr ""
 #: event-espresso-core-reg/core/domain/services/admin/AdminToolBar.php:148
 #: event-espresso-core-reg/core/domain/services/admin/AdminToolBar.php:151
 msgid "Events"
-msgstr "Wydarzenia"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/general_settings/help_tabs/general_settings_your_organization.help_tab.php:8
 #: event-espresso-core-reg/caffeinated/core/services/licensing/UserExperienceForm.php:67
 msgid "Support License Key"
-msgstr "Klucz licencyjny pomocy technicznej"
+msgstr ""
 
 #: ee4-multisite/core/db_models/EEM_Site_Meta.model.php:42
 #: event-espresso-core-reg/admin_pages/registration_form/templates/questions_main_meta_box.template.php:273
@@ -41439,7 +41335,7 @@ msgstr "Klucz licencyjny pomocy technicznej"
 #: event-espresso-core-reg/admin_pages/registration_form/templates/questions_main_meta_box.template.php:347
 #: event-espresso-core-reg/admin_pages/registration_form/templates/questions_main_meta_box.template.php:423
 msgid "Value"
-msgstr "Wartość"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registration_form/templates/questions_main_meta_box.template.php:278
 msgid "Description (optional, only shown on registration form)"
@@ -41493,7 +41389,7 @@ msgstr ""
 #: event-espresso-core-reg/core/domain/services/admin/AdminToolBar.php:295
 #: event-espresso-core-reg/core/domain/services/admin/AdminToolBar.php:298
 msgid "All"
-msgstr "Wszystkie"
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registration_form/templates/questions_main_meta_box.template.php:523
 msgid "Required is set to optional, and this field is disabled, because the question is Admin-Only."
@@ -41526,7 +41422,7 @@ msgstr ""
 #: event-espresso-core-reg/admin_pages/events/Events_Admin_Page.core.php:401
 #: event-espresso-core-reg/admin_pages/events/Events_Admin_Page.core.php:2534
 msgid "Default Settings"
-msgstr "Ustawienia domyślne"
+msgstr ""
 
 #: event-espresso-core-reg/caffeinated/admin/new/pricing/templates/event_tickets_datetime_ticket_row.template.php:474
 msgid "Price Modifiers"
@@ -41534,7 +41430,7 @@ msgstr ""
 
 #: event-espresso-core-reg/admin_pages/events/help_tabs/events_default_settings.help_tab.php:3
 msgid "Customize the default settings for your events."
-msgstr "Spersonalizuj ustawienia domyślne dla wydarzeń."
+msgstr ""
 
 #: event-espresso-core-reg/admin_pages/registrations/help_tabs/registrations_contact_list_other.help_tab.php:20
 msgid "For this reason, a contact can be deleted only after all associated registrations have been removed. If we wanted to delete the individual in the example above, we would need to remove their registrations for Event A and Event B. The contact (individual) will then be automatically removed."
